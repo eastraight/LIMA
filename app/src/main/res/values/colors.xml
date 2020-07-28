@@ -3,4 +3,18 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    // de Isa:
+    <color name="test0">#f7f49f</color>
+    <color name="test1">#a7bd2b</color>
+    <color name="test2">#00853e</color>
+    <color name="test3">#52ae67</color>
+    <color name="test4">#5ba976</color>
+    <color name="test5">#add0b6</color>
+    <color name="test6">#b8dac5</color>
+    <color name="test7">#aed7d8</color>
+    <color name="test8">#aed7d8</color>
+    <color name="test9">#eae7e8</color>
+    <color name="test10">#444040</color>
+
 </resources>

@@ -1,7 +1,10 @@
 package com.example.lima;
 
+/**** Added by me *****/
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+/**********************/
 import android.view.Menu;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -60,4 +63,59 @@ public class MainActivity extends AppCompatActivity {
         return NavigationUI.navigateUp(navController, mAppBarConfiguration)
                 || super.onSupportNavigateUp();
     }
+
+
+    /* Added by me vvv */
+
+    /* Button 1 - Violencia Familiar */
+    public void B1Listener(View view) {
+        Intent intent = new Intent(this, VFActivity.class);
+        /*EditText editText = (EditText) findViewById(R.id.editText);
+        String message = editText.getText().toString();
+        intent.putExtra(EXTRA_MESSAGE, message);*/
+        startActivity(intent);
+    }
+
+    /* Button 2 - Solución de Conflictos */
+    public void B2Listener(View view) {
+        Intent intent = new Intent(this, SCActivity.class);
+        startActivity(intent);
+    }
+
+    /* Button 3 - Crianza Positiva */
+    public void B3Listener(View view) {
+        Intent intent = new Intent(this, CPActivity.class);
+        startActivity(intent);
+    }
+
+    /* Button 4 - Recursos Bíblicos y Teológicos */
+    public void B4Listener(View view) {
+        Intent intent = new Intent(this, RBActivity.class);
+        startActivity(intent);
+    }
+
+    /* Button 5 - Prevención de la Violencia */
+    public void B5Listener(View view) {
+        Intent intent = new Intent(this, PActivity.class);
+        startActivity(intent);
+    }
+
+    /* Button 6 - Denuncia */
+    public void B6Listener(View view) {
+        Intent intent = new Intent(this, DActivity.class);
+        startActivity(intent);
+    }
+
+    /* Button 7 - Autoevaluación */
+    public void B7Listener(View view) {
+        Intent intent = new Intent(this, AActivity.class);
+        startActivity(intent);
+    }
+
+    /* Button 8 - Contacto */
+    public void B8Listener(View view) {
+        Intent intent = new Intent(this, CActivity.class);
+        startActivity(intent);
+    }
+
 }

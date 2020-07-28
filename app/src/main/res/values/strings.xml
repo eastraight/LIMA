@@ -1,9 +1,9 @@
 <resources>
-<!--    <string name="app_name">LIMA</string>-->
+    <!--    <string name="app_name">LIMA</string>-->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-<!--    <string name="nav_header_title">Android Studio</string>-->
-<!--    <string name="nav_header_subtitle">android.studio@android.com</string>-->
+    <!--    <string name="nav_header_title">Android Studio</string>-->
+    <!--    <string name="nav_header_subtitle">android.studio@android.com</string>-->
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Configuración</string>
 
@@ -16,14 +16,14 @@
     <string name="otra">Otras cosas aquí</string>
 
     // Buttons
-    <string name="button1">Información sobre violencia</string>
-    <string name="button2">Soluciones de conflictos en el hogar</string>
-    <string name="button3">Autoevaluación</string>
-    <string name="button4">Insumos bíblicos y teológicos</string>
-    <string name="button5">Contactos</string>
-    <string name="button6">Recursos</string>
-    <string name="button7">[Otra cosa]</string>
-    <string name="button8">Denuncia</string>
+    <string name="button1">Violencia Familiar</string>
+    <string name="button2">Solución de conflictos</string>
+    <string name="button3">Crianza Positiva</string>
+    <string name="button4">Recursos bíblicos y teológicos</string>
+    <string name="button5">Denuncia</string>
+    <string name="button6">Prevención de la violencia</string>
+    <string name="button7">Autoevaluación</string>
+    <string name="button8">Contacto</string>
 
 
 </resources>

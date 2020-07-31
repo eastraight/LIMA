@@ -8,12 +8,10 @@
     <string name="action_settings">Configuración</string>
 
     <string name="menu_home"> </string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
 
     /* Stuff I've added: */
-    <string name="app_name">Pastoral contra la violencia</string>
-    <string name="otra">Otras cosas aquí</string>
+    <string name="app_name">Paztoral</string>
+    <string name="otra">Compartir esta applicación</string>
 
     // Buttons
     <string name="button1">Violencia Familiar</string>
@@ -39,7 +37,25 @@
     <string name="CPMenu4">Soluciones prácticas</string>
 
     <string name="RBMenu1">Noviazgo/matrimonio</string>
+    <string name="RBMenu2">Crianza sin violencia</string>
+    <string name="RBMenu3">Biblia, teológia\ny enfoque de género</string>
+    <string name="RBMenu4">Protocolos contra\nel abuso sexual\nen la iglesia</string>
+    <string name="RBMenu5">Abuso espiritual</string>
 
+    <string name="DMenu1">Ruta de la denucia</string>
+    <string name="DMenu2">Recomendaciones pastorales</string>
+    <string name="DMenu3">Contactos de emergencia</string>
+    <string name="DMenu4">Botón de pánico</string>
+
+    <string name="PMenu1">Testimonios</string>
+    <string name="PMenu2">Videos</string>
+    <string name="PMenu3">Violencia en la iglesia</string>
+
+    <string name="AMenu1">Test de violencia familiar</string>
+    <string name="AMenu2">Test de violencia en la pareja</string>
+    <string name="AMenu3">Test de maltrato infantil</string>
+    <string name="AMenu4">Test de violencia de género</string>
+    <string name="AMenu5">Test de abuso espiritual</string>
 
 
 </resources>

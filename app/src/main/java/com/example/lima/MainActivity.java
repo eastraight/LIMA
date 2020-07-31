@@ -70,12 +70,9 @@ public class MainActivity extends AppCompatActivity {
     /* Button 1 - Violencia Familiar */
     public void B1Listener(View view) {
         Intent intent = new Intent(this, VFActivity.class);
-        /*EditText editText = (EditText) findViewById(R.id.editText);
-        String message = editText.getText().toString();
-        intent.putExtra(EXTRA_MESSAGE, message);*/
         startActivity(intent);
         this.overridePendingTransition(0, 0);
-    }
+    }   
 
     /* Button 2 - Solución de Conflictos */
     public void B2Listener(View view) {

@@ -9,15 +9,26 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <!-- ***ADDED BY ME*** -->
-        <activity android:name=".CActivity"
-            android:parentActivityName=".MainActivity"/>
-        <activity android:name=".AActivity"
-            android:parentActivityName=".MainActivity"/>
-        <activity android:name=".DActivity"
-            android:parentActivityName=".MainActivity"/>
-        <activity android:name=".PActivity"
-            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".AActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PActivity"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".RBActivity"
             android:parentActivityName=".MainActivity" />
@@ -30,16 +41,11 @@
         <activity
             android:name=".VFActivity"
             android:parentActivityName=".MainActivity" />
-        <!-- ***************** -->
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
+            android:windowAnimationStyle ="@null"
             android:theme="@style/AppTheme.NoActionBar">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 

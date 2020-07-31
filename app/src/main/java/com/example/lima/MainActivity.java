@@ -74,48 +74,56 @@ public class MainActivity extends AppCompatActivity {
         String message = editText.getText().toString();
         intent.putExtra(EXTRA_MESSAGE, message);*/
         startActivity(intent);
+        this.overridePendingTransition(0, 0);
     }
 
     /* Button 2 - Solución de Conflictos */
     public void B2Listener(View view) {
         Intent intent = new Intent(this, SCActivity.class);
         startActivity(intent);
+        this.overridePendingTransition(0, 0);
     }
 
     /* Button 3 - Crianza Positiva */
     public void B3Listener(View view) {
         Intent intent = new Intent(this, CPActivity.class);
         startActivity(intent);
+        this.overridePendingTransition(0, 0);
     }
 
     /* Button 4 - Recursos Bíblicos y Teológicos */
     public void B4Listener(View view) {
         Intent intent = new Intent(this, RBActivity.class);
         startActivity(intent);
+        this.overridePendingTransition(0, 0);
     }
 
     /* Button 5 - Prevención de la Violencia */
     public void B5Listener(View view) {
         Intent intent = new Intent(this, PActivity.class);
         startActivity(intent);
+        this.overridePendingTransition(0, 0);
     }
 
     /* Button 6 - Denuncia */
     public void B6Listener(View view) {
         Intent intent = new Intent(this, DActivity.class);
         startActivity(intent);
+        this.overridePendingTransition(0, 0);
     }
 
     /* Button 7 - Autoevaluación */
     public void B7Listener(View view) {
         Intent intent = new Intent(this, AActivity.class);
         startActivity(intent);
+        this.overridePendingTransition(0, 0);
     }
 
     /* Button 8 - Contacto */
     public void B8Listener(View view) {
         Intent intent = new Intent(this, CActivity.class);
         startActivity(intent);
+        this.overridePendingTransition(0, 0);
     }
 
 }

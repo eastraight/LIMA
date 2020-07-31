@@ -25,5 +25,21 @@
     <string name="button7">Autoevaluación</string>
     <string name="button8">Contacto</string>
 
+    // Submenus
+    <string name="VPMenu1">Violencia en la pareja</string>
+    <string name="VPMenu2">Violencia de género</string>
+    <string name="VPMenu3">Abuso infantil</string>
+
+    <string name="SCMenu1">¿Cómo solucionar\nlos conflictos?</string>
+    <string name="SCMenu2">Control de emociones</string>
+
+    <string name="CPMenu1">Objetivos a largo plazo</string>
+    <string name="CPMenu2">Calidez y Estructura</string>
+    <string name="CPMenu3">Etapas de desarollo\nde los niños y niñas</string>
+    <string name="CPMenu4">Soluciones prácticas</string>
+
+    <string name="RBMenu1">Noviazgo/matrimonio</string>
+
+
 
 </resources>

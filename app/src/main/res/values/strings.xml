@@ -14,9 +14,9 @@
     <string name="otra">Compartir esta applicación</string>
 
     // Buttons
-    <string name="button1">Violencia Familiar</string>
+    <string name="button1">Violencia familiar</string>
     <string name="button2">Solución de conflictos</string>
-    <string name="button3">Crianza Positiva</string>
+    <string name="button3">Crianza positiva</string>
     <string name="button4">Recursos bíblicos y teológicos</string>
     <string name="button5">Denuncia</string>
     <string name="button6">Prevención de la violencia</string>
@@ -24,6 +24,7 @@
     <string name="button8">Contacto</string>
 
     // Submenus
+    <string name="VPMenu0">¿Qué es la violencia?</string>
     <string name="VPMenu1">Violencia en la pareja</string>
     <string name="VPMenu2">Violencia de género</string>
     <string name="VPMenu3">Abuso infantil</string>
@@ -56,6 +57,13 @@
     <string name="AMenu3">Test de maltrato infantil</string>
     <string name="AMenu4">Test de violencia de género</string>
     <string name="AMenu5">Test de abuso espiritual</string>
+
+
+    // Text
+    <string name="VF1">La violencia no es algo que ocurre solo en las noticias. Es más frecuente de lo que creemos. Sin embargo,
+para combatirla es necesario saber identificarla. En esta sesión aprenderás qué es la violencia, cómo ella
+actúa en las relaciones familiares, qué nos dice la Biblia sobre ella y algunos consejos pastorales para
+combatirla.</string>
 
 
 </resources>

@@ -2,6 +2,7 @@ package com.example.lima;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 public class PActivity extends AppCompatActivity {
@@ -10,5 +11,11 @@ public class PActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_p);
+    }
+
+    @Override
+    public void onBackPressed() {
+        startActivity(new Intent(this, MainActivity.class));
+        overridePendingTransition(R.anim.animation_leave, R.anim.hold);
     }
 }

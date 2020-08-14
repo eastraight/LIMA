@@ -2,6 +2,7 @@ package com.example.lima;
 
 /**** Added by me *****/
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 /**********************/
@@ -22,6 +23,7 @@ import androidx.appcompat.widget.Toolbar;
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
+    private static boolean transition;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,6 +50,10 @@ public class MainActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
+
+        // Check if we're running on Android 5.0 or higher for transition animations
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) this.transition = true;
+        else this.transition = false;
     }
 
     @Override
@@ -67,60 +73,77 @@ public class MainActivity extends AppCompatActivity {
 
     /* Added by me vvv */
 
+    /* transition getter */
+    public static boolean checkTransition() {
+        return transition;
+    }
+
+    /* Main Menu Buttons */
+
     /* Button 1 - Violencia Familiar */
     public void B1Listener(View view) {
         Intent intent = new Intent(this, VFActivity.class);
         startActivity(intent);
-        this.overridePendingTransition(0, 0);
-    }   
+        if (transition) {
+            this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
+        } else this.overridePendingTransition(0, 0);
+    }
 
     /* Button 2 - Solución de Conflictos */
     public void B2Listener(View view) {
         Intent intent = new Intent(this, SCActivity.class);
         startActivity(intent);
-        this.overridePendingTransition(0, 0);
-    }
+        if (transition) {
+            this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
+        } else this.overridePendingTransition(0, 0);    }
 
     /* Button 3 - Crianza Positiva */
     public void B3Listener(View view) {
         Intent intent = new Intent(this, CPActivity.class);
         startActivity(intent);
-        this.overridePendingTransition(0, 0);
-    }
+        if (transition) {
+            this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
+        } else this.overridePendingTransition(0, 0);    }
 
     /* Button 4 - Recursos Bíblicos y Teológicos */
     public void B4Listener(View view) {
         Intent intent = new Intent(this, RBActivity.class);
         startActivity(intent);
-        this.overridePendingTransition(0, 0);
-    }
+        if (transition) {
+            this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
+        } else this.overridePendingTransition(0, 0);    }
 
-    /* Button 5 - Prevención de la Violencia */
+    /* Button 5 - Denuncia */
     public void B5Listener(View view) {
-        Intent intent = new Intent(this, PActivity.class);
-        startActivity(intent);
-        this.overridePendingTransition(0, 0);
-    }
-
-    /* Button 6 - Denuncia */
-    public void B6Listener(View view) {
         Intent intent = new Intent(this, DActivity.class);
         startActivity(intent);
-        this.overridePendingTransition(0, 0);
-    }
+        if (transition) {
+            this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
+        } else this.overridePendingTransition(0, 0);    }
+
+    /* Button 6 - Prevención de la Violencia */
+    public void B6Listener(View view) {
+        Intent intent = new Intent(this, PActivity.class);
+        startActivity(intent);
+        if (transition) {
+            this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
+        } else this.overridePendingTransition(0, 0);    }
 
     /* Button 7 - Autoevaluación */
     public void B7Listener(View view) {
         Intent intent = new Intent(this, AActivity.class);
         startActivity(intent);
-        this.overridePendingTransition(0, 0);
-    }
+        if (transition) {
+            this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
+        } else this.overridePendingTransition(0, 0);    }
 
     /* Button 8 - Contacto */
     public void B8Listener(View view) {
         Intent intent = new Intent(this, CActivity.class);
         startActivity(intent);
-        this.overridePendingTransition(0, 0);
-    }
+        if (transition) {
+            this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
+        } else this.overridePendingTransition(0, 0);    }
+
 
 }

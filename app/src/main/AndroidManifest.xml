@@ -50,7 +50,7 @@
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".VF0Activity"
-            android:label="@string/VPMenu0"
+            android:label="@string/VFMenu0"
             android:parentActivityName=".VFActivity" />
         <activity
             android:name=".MainActivity"

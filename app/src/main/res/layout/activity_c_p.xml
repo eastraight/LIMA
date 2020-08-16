@@ -1,186 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent" >
+    android:layout_height="fill_parent"
+    android:background="#99000000"
+    android:orientation="horizontal"
+    android:visibility="visible">
 
-    <!--Backdrop-->
-    <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/content"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/CPMenu1"
+        style="@style/Widget.AppCompat.Button.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:drawableEnd="@drawable/right_arrow"
+        android:drawableRight="@drawable/right_arrow"
+        android:gravity="start|center_vertical"
+        android:padding="20dip"
+        android:text="@string/CPMenu1"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/CPMenu2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
 
-        <Button
-            android:id="@+id/button1"
-            android:layout_width="180dp"
-            android:layout_height="110dp"
-            android:layout_marginLeft="16dp"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="16dp"
-            android:background="@color/test8"
-            android:text="@string/button1"
-            app:layout_constraintStart_toStartOf="@+id/nav_host_fragment"
-            app:layout_constraintTop_toTopOf="@id/nav_host_fragment" />
+    <Button
+        android:id="@+id/CPMenu2"
+        style="@style/Widget.AppCompat.Button.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:drawableEnd="@drawable/right_arrow"
+        android:drawableRight="@drawable/right_arrow"
+        android:gravity="start|center_vertical"
+        android:padding="20dip"
+        android:text="@string/CPMenu2"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/CPMenu3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
 
-        <Button
-            android:id="@+id/button2"
-            android:layout_width="180dp"
-            android:layout_height="110dp"
-            android:layout_marginEnd="16dp"
-            android:layout_marginRight="16dp"
-            android:layout_marginTop="16dp"
-            android:background="@color/test5"
-            android:text="@string/button2"
-            app:layout_constraintEnd_toEndOf="@+id/nav_host_fragment"
-            app:layout_constraintTop_toTopOf="@+id/nav_host_fragment" />
+    <Button
+        android:id="@+id/CPMenu3"
+        style="@style/Widget.AppCompat.Button.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:drawableEnd="@drawable/right_arrow"
+        android:drawableRight="@drawable/right_arrow"
+        android:gravity="start|center_vertical"
+        android:padding="20dip"
+        android:text="@string/CPMenu3"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/CPMenu4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
-        <Button
-            android:id="@+id/button3"
-            android:layout_width="180dp"
-            android:layout_height="110dp"
-            android:layout_marginLeft="16dp"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="16dp"
-            android:background="@color/test5"
-            android:text="@string/button3"
-            app:layout_constraintStart_toStartOf="@id/nav_host_fragment"
-            app:layout_constraintTop_toBottomOf="@+id/button1" />
+    <Button
+        android:id="@+id/CPMenu4"
+        style="@style/Widget.AppCompat.Button.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:drawableEnd="@drawable/right_arrow"
+        android:drawableRight="@drawable/right_arrow"
+        android:gravity="start|center_vertical"
+        android:padding="20dip"
+        android:text="@string/CPMenu4"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
 
-        <Button
-            android:id="@+id/button4"
-            android:layout_width="180dp"
-            android:layout_height="110dp"
-            android:layout_marginEnd="16dp"
-            android:layout_marginRight="16dp"
-            android:layout_marginTop="16dp"
-            android:background="@color/test3"
-            android:text="@string/button4"
-            app:layout_constraintEnd_toEndOf="@+id/nav_host_fragment"
-            app:layout_constraintTop_toBottomOf="@+id/button2" />
-
-        <Button
-            android:id="@+id/button5"
-            android:layout_width="180dp"
-            android:layout_height="110dp"
-            android:layout_marginLeft="16dp"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="16dp"
-            android:background="@color/test4"
-            android:text="@string/button5"
-            app:layout_constraintStart_toStartOf="@+id/nav_host_fragment"
-            app:layout_constraintTop_toBottomOf="@id/button3" />
-
-        <Button
-            android:id="@+id/button6"
-            android:layout_width="180dp"
-            android:layout_height="110dp"
-            android:layout_marginEnd="16dp"
-            android:layout_marginRight="16dp"
-            android:layout_marginTop="16dp"
-            android:background="@color/test5"
-            android:text="@string/button6"
-            app:layout_constraintEnd_toEndOf="@+id/nav_host_fragment"
-            app:layout_constraintTop_toBottomOf="@id/button4" />
-
-        <Button
-            android:id="@+id/button7"
-            android:layout_width="180dp"
-            android:layout_height="110dp"
-            android:layout_marginLeft="16dp"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="16dp"
-            android:background="@color/test6"
-            android:text="@string/button7"
-            app:layout_constraintStart_toStartOf="@+id/nav_host_fragment"
-            app:layout_constraintTop_toBottomOf="@id/button5" />
-
-        <Button
-            android:id="@+id/button8"
-            android:layout_width="180dp"
-            android:layout_height="110dp"
-            android:layout_marginEnd="16dp"
-            android:layout_marginRight="16dp"
-            android:layout_marginTop="16dp"
-            android:background="@color/test8"
-            android:text="@string/button8"
-            app:layout_constraintEnd_toEndOf="@+id/nav_host_fragment"
-            app:layout_constraintTop_toBottomOf="@+id/button6" />
-
-        <fragment
-            android:id="@+id/nav_host_fragment"
-            android:name="androidx.navigation.fragment.NavHostFragment"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            app:defaultNavHost="true"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:navGraph="@navigation/mobile_navigation" />
-
-    </androidx.constraintlayout.widget.ConstraintLayout>
-
-    <!--Overlay with new menu-->
-    <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/overlay"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:background="#99000000"
-        android:orientation="horizontal"
-        android:visibility="visible">
-
-        <Button
-            android:id="@+id/CPMenu1"
-            style="@style/Widget.AppCompat.Button.Small"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="16dp"
-            android:padding="25dip"
-            android:text="@string/VPMenu1"
-            android:textSize="20sp"
-            app:layout_constraintBottom_toTopOf="@+id/CPMenu2"
-            app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintRight_toRightOf="parent" />
-
-        <Button
-            android:id="@+id/CPMenu2"
-            style="@style/Widget.AppCompat.Button.Small"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="16dp"
-            android:padding="25dip"
-            android:text="@string/CPMenu2"
-            android:textSize="20sp"
-            app:layout_constraintBottom_toTopOf="@+id/CPMenu3"
-            app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintRight_toRightOf="parent" />
-
-        <!-- CENTER BUTTON: CPMenu3 -->
-        <Button
-            android:id="@+id/CPMenu3"
-            style="@style/Widget.AppCompat.Button.Small"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:padding="25dip"
-            android:text="@string/CPMenu3"
-            android:textSize="20sp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintRight_toRightOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
-
-        <Button
-            android:id="@+id/CPMenu4"
-            style="@style/Widget.AppCompat.Button.Small"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
-            android:padding="25dip"
-            android:text="@string/CPMenu4"
-            android:textSize="20sp"
-            app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintRight_toRightOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/CPMenu3" />
-
-    </androidx.constraintlayout.widget.ConstraintLayout>
-
-
-</RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

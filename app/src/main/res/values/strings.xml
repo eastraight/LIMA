@@ -24,23 +24,23 @@
     <string name="button8">Contacto</string>
 
     // Submenus
-    <string name="VPMenu0">¿Qué es la violencia?</string>
-    <string name="VPMenu1">Violencia en la pareja</string>
-    <string name="VPMenu2">Violencia de género</string>
-    <string name="VPMenu3">Abuso infantil</string>
+    <string name="VFMenu0">¿Qué es la violencia?</string>
+    <string name="VFMenu1">Violencia en la pareja</string>
+    <string name="VFMenu2">Violencia de género</string>
+    <string name="VFMenu3">Abuso infantil</string>
 
-    <string name="SCMenu1">¿Cómo solucionar\nlos conflictos?</string>
+    <string name="SCMenu1">¿Cómo solucionar los conflictos?</string>
     <string name="SCMenu2">Control de emociones</string>
 
     <string name="CPMenu1">Objetivos a largo plazo</string>
-    <string name="CPMenu2">Calidez y Estructura</string>
-    <string name="CPMenu3">Etapas de desarollo\nde los niños y niñas</string>
+    <string name="CPMenu2">Calidez y estructura</string>
+    <string name="CPMenu3">Etapas de desarollo de los niños y niñas</string>
     <string name="CPMenu4">Soluciones prácticas</string>
 
     <string name="RBMenu1">Noviazgo/matrimonio</string>
     <string name="RBMenu2">Crianza sin violencia</string>
-    <string name="RBMenu3">Biblia, teológia\ny enfoque de género</string>
-    <string name="RBMenu4">Protocolos contra\nel abuso sexual\nen la iglesia</string>
+    <string name="RBMenu3">Biblia, teológia y enfoque de género</string>
+    <string name="RBMenu4">Protocolos contra el abuso sexual\nen la iglesia</string>
     <string name="RBMenu5">Abuso espiritual</string>
 
     <string name="DMenu1">Ruta de la denucia</string>

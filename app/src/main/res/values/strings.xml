@@ -67,44 +67,51 @@
     <string name="VFMenu06">Evaluación</string>
 
     // Text
-    <string name="VF0">La violencia no es algo que ocurre solo en las noticias. Es más frecuente de lo que creemos. Sin embargo,
-para combatirla es necesario saber identificarla. En esta sesión aprenderás qué es la violencia, cómo ella
-actúa en las relaciones familiares, qué nos dice la Biblia sobre ella y algunos consejos pastorales para
-combatirla.</string>
-    <string name="VF01">La violencia no es una cuestión de percepción. Es un error pensar que la violencia es un concepto
-relativo, que depende de la percepción o susceptibilidad de las personas. De ser así, para unos gritar
-sería solo “alzar la voz”, o acosar sería lanzar un “piropo”. No es así. La violencia es un concepto preciso.
-La violencia no es el uso de la fuerza para defendernos. A veces una persona puede dañar a otra en
-defensa propia. Por ejemplo, una mujer puede arañar al esposo que intenta golpearla. Solo por haberlo
-arañado no puede decirse que ella fue violencia. Hay que tener cuidado de no culpabilizar a la víctima.
-Usar la fuerza en defensa propia no es violencia, sino agresión.</string>
-    <string name="VF02">La violencia es toda conducta que daña o amenaza con dañar a otras personas a través del abuso de
-poder.
-Existe daño cuando limitamos cualquier cosa que las personas son capaces de hacer. Por ejemplo: que
-puedan moverse, expresarse libremente, sentirse bien consigo mismas, decidir por sí mismas. Es posible
-identificar el daño a través del dolor o sentimiento de malestar de la persona.
-Existe abuso de poder cuando una persona usa su posición de dominio para imponer su voluntad sobre
-otras y no dejarlas decidir por sí mismas (autonomía). La posición de dominio es toda situación que pone
-al agresor en una posición de ventaja frente a la víctima. Por ejemplo: mayor fuerza física, mayor edad,
-tener una posición de autoridad, mayor conocimiento, mayor prestigio, gozar de la confianza de la
-víctima, etc.). La posición de dominio se impone cuando no se da a la otra persona la posibilidad de
-sentir, pensar o decidir sobre
-Es importante que como agentes pastorales aprendamos no solo a identificar el daño en las víctimas,
-sino también el abuso de poder de los agresores.</string>
-
-    <string name="VF04">¿Qué dice la Biblia sobre el concepto de violencia?
-En las Escrituras se establece el deber de amar al prójimo lo que implica, entre otras cosas, el deber de
-no dañarlo:/n“No debáis a nadie nada, sino el amaros unos a otros; porque el que ama al prójimo, ha cumplido la ley.
-Porque: No adulterarás, no matarás, no hurtarás, no dirás falso testimonio, no codiciarás, y cualquier
-otro mandamiento, en esta sentencia se resume: Amarás a tu prójimo como a ti mismo. El amor no hace
-mal al prójimo; así que el cumplimiento de la ley es el amor.” (Romanos 13:8-10).
-Además, en la Biblia, específicamente en el Antiguo Testamento, la violencia es concebida como un
-abuso de poder. La palabra hebrea que en nuestras Biblias se traduce como “violencia” es “JâMâS” (que
-aparece 60 veces en el AT). Lo interesante es que siempre que el Antiguo Testamento usa “JâMâS” lo
-hace para referirse al daño producido por unos más poderosos que otros. “Los agentes de JâMâS son
-siempre los opresores, los poderosos y privilegiados (Am 3:10; Miq 6.11-12; Ezq 7.11,19,23-34.). En el
-uso hebreo, aunque nos parezca extraño, no se habla de JâMâS cometido por los pobres y débiles, ni
-tampoco contra los poderosos
-Por tanto, la Biblia está de acuerdo con definir la violencia como un daño y como un abuso de poder.</string>
+    <string name="VF0">La violencia no es algo que ocurre solo en las noticias. Es más frecuente de
+        lo que creemos. Sin embargo, para combatirla es necesario saber identificarla. En esta
+        sesión aprenderás qué es la violencia, cómo ella actúa en las relaciones familiares, qué
+        nos dice la Biblia sobre ella y algunos consejos pastorales para combatirla.</string>
+    <string name="VF01">La violencia <b><u>no es</u></b> una cuestión de <b>percepción</b>. Es un
+        error pensar que la violencia es un concepto relativo, que depende de la percepción o
+        susceptibilidad de las personas. De ser así, para unos gritar sería solo “alzar la voz”, o
+        acosar sería lanzar un “piropo”. No es así. <b>La violencia es un concepto preciso</b>.
+        \n\nLa violencia <b><u>no es</u></b> el <b>uso de la fuerza para defendernos</b>. A veces
+        una persona puede dañar a otra en defensa propia. Por ejemplo, una mujer puede arañar al
+        esposo que intenta golpearla. Solo por haberlo arañado no puede decirse que ella fue
+        violencia. Hay que tener cuidado de no culpabilizar a la víctima. Usar la fuerza en defensa
+        propia no es violencia, sino <b>agresión</b>.</string>
+    <string name="VF02">La violencia es toda conducta que <b><u>daña</u></b> o amenaza con dañar a
+        otras personas a través del <b><u>abuso de poder</u></b>.
+        \n\nExiste daño cuando limitamos cualquier cosa que las personas son capaces de hacer. Por
+        ejemplo: que puedan moverse, expresarse libremente, sentirse bien consigo mismas, decidir
+        por sí mismas. Es posible identificar el daño a través del dolor o sentimiento de malestar
+        de la persona.
+        \n\nExiste <b>abuso de poder</b> cuando una persona usa <i>su posición de dominio</i> para
+        <i>dejarlas decidir por sí mismas</i> su voluntad sobre otras y no <u>imponer</u>
+        (autonomía). La posición de dominio es toda situación que pone al agresor en una posición de
+        ventaja frente a la víctima. Por ejemplo: mayor fuerza física, mayor edad, tener una
+        posición de autoridad, mayor conocimiento, mayor prestigio, gozar de la confianza de la
+        víctima, etc.). La posición de dominio se impone cuando no se da a la otra persona la
+        posibilidad de sentir, pensar o decidir sobre
+        \n\nEs importante que como agentes pastorales aprendamos no solo a identificar el daño en
+        las víctimas, sino también el abuso de poder de los agresores.</string>
+    <string name="VF04">¿Qué dice la Biblia sobre el concepto de violencia?\n\n
+        En las Escrituras se establece el deber de amar al prójimo lo que implica, entre otras
+        cosas, el deber de <b>no dañarlo</b>:
+        \n\n“No debáis a nadie nada, sino el amaros unos a otros; porque el que ama al prójimo, ha
+        cumplido la ley. Porque: No adulterarás, no matarás, no hurtarás, no dirás falso testimonio,
+        no codiciarás, y cualquier otro mandamiento, en esta sentencia se resume: Amarás a tu
+        prójimo como a ti mismo. El amor no hace mal al prójimo; así que el cumplimiento de la ley
+        es el amor.” (Romanos 13:8-10).
+        \n\nAdemás, en la Biblia, específicamente en el Antiguo Testamento, la violencia es
+        concebida como un abuso de poder. La palabra hebrea que en nuestras Biblias se traduce como
+        “violencia” es “JâMâS” (que aparece 60 veces en el AT). Lo interesante es que siempre que el
+        Antiguo Testamento usa “JâMâS” lo hace para referirse al daño producido por unos más
+        poderosos que otros. “Los agentes de JâMâS son siempre los opresores, los poderosos y
+        privilegiados (Am 3:10; Miq 6.11-12; Ezq 7.11,19,23-34.). En el uso hebreo, aunque nos
+        parezca extraño, no se habla de JâMâS cometido por los pobres y débiles, ni tampoco contra
+        los poderosos
+        \n\nPor tanto, la Biblia está de acuerdo con definir la violencia como un daño y como un
+        abuso de poder.</string>
 
 </resources>

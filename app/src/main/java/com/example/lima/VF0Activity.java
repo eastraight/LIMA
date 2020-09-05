@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-/* VF1 - ¿Qué es la violencia? */
+/* VF0 - ¿Qué es la violencia? */
 public class VF0Activity extends AppCompatActivity {
     Button vfm01, vfm02, vfm03, vfm04, vfm05, vfm06;
     TextView vf01, vf02, vf03, vf04, vf05, vf06;

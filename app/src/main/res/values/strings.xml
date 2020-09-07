@@ -95,6 +95,33 @@
         posibilidad de sentir, pensar o decidir sobre
         \n\nEs importante que como agentes pastorales aprendamos no solo a identificar el daño en
         las víctimas, sino también el abuso de poder de los agresores.</string>
+    <string name="VF03">Saber que la violencia es un daño y un abuso de poder nos capacita para
+        identificar cualquier tipo de conducta violenta. Sin embargo, los “tipos de violencia” son
+        clasificaciones útiles que nos ayudan a identificar las violencias más cotidianas, sobre
+        todo en el ámbito de la familia.</string>
+    <string name="VF03T11">Física</string>
+    <string name="VF03T21">Psicológica</string>
+    <string name="VF03T31">Sexual</string>
+    <string name="VF03T41">Económica</string>
+    <string name="VF03T12">Golpes, tirones de pelo, pellizcos, empujones, se lanzan objetos o hay
+        amenazas con objetos o armas.</string>
+    <string name="VF03T22">&#8226; Maltrato verbal (insultos, comentarios que humillan, alzar la
+        voz, gritar o hacer gestos que intimidantes, etc.).
+        \n&#8226; Maltrato emocional (mentir persistentemente, no dar explicaciones de nada, culpar
+        al otro de todo lo que sucede, ignorar la presencia del otro).
+        \n&#8226; Tácticas de presión (manipular, chantajear, hacer amenazas)
+        \n&#8226; Faltas de respeto (interrumpir, no escuchar, no responder, no respetar sus
+        opiniones, manipular el sentido de las palabras)
+        \n&#8226; Situaciones de control (impide que la persona salga, invade la intimidad, muestra
+        celos, controla correos y llamadas, escucha conversaciones telefónicas, etc.).</string>
+    <string name="VF03T32">&#8226; Se manipula a la pareja o se le insiste para tener relaciones
+        sexuales.
+        \n&#8226; Se le fuerza a tener relaciones sexuales contra su voluntad
+        \n&#8226; Se le obliga a no usar algún método anticonceptivo, etc.</string>
+    <string name="VF03T42">Se niega a otro miembro de la familia el acceso a los recursos que
+        permiten satisfacer sus necesidades. Por ejemplo: no apoyar económicamente el hogar,
+        restringir el acceso al dinero o a las cuentas, destruir los bienes materiales de la otra
+        persona, etc.</string>
     <string name="VF04">¿Qué dice la Biblia sobre el concepto de violencia?\n\n
         En las Escrituras se establece el deber de amar al prójimo lo que implica, entre otras
         cosas, el deber de <b>no dañarlo</b>:
@@ -113,5 +140,61 @@
         los poderosos
         \n\nPor tanto, la Biblia está de acuerdo con definir la violencia como un daño y como un
         abuso de poder.</string>
-
+    <string name="VF05"><b>Recomendaciones para la consejería pastoral:</b>
+        \n\nLas consejerías por conflictos familiares son frecuentes en la labor pastoral. En estos
+        casos, es importante indagar si en la relación familiar existe violencia (daño y abuso de
+        poder). En caso sea así, se recomienda:
+        \n\n&#8226; Identificar quién es la víctima y quién es el agresor, a fin de ofrecerles a
+        ambos ayuda especializada (atención psicológica). La derivación aun psicólogo también debe
+        hacerse en caso se haya sufrido violencia en el pasado.
+        \n&#8226; Disponer el retiro del agresor del cargo o función de liderazgo eclesial que
+        desempeñe, en caso lo tuviese.
+        \n&#8226; Cualquier tipo de violencia debe ser denunciada. Se recomienda acompañar a la
+        víctima a hacer la denuncia. Tratándose de violencia física y sexual, además de la denuncia,
+        se debe disponer la separación física entre el agresor y la víctima para garantizar la
+        seguridad de esta última.
+        \n&#8226; Si frente a un evidente caso de violencia la víctima no quiere denunciar, puede
+        hacerlo el pastor o cualquier miembro de la iglesia. En caso de duda, se puede recurrir a un
+        Centro de Emergencia Mujer, quien efectuará un diagnóstico del estado psicológico de la
+        víctima.
+        \n\n<b>Consejos para prevenir la violencia desde la iglesia:</b>
+        \n\n&#8226; Realizar cursos, talleres y capacitaciones acerca de la violencia familiar.
+        \n&#8226; Tener protocolos o políticas institucionales para prevenir y atender los casos de
+        abuso sexual contra niños y niñas en la iglesia, o los casos de violencia familiar de los
+        miembros de la iglesia.
+        \n&#8226; Mantener contacto con organizaciones o ministerios que ofrezcan capacitaciones a
+        los miembros de la iglesia sobre la violencia familiar.
+        \n&#8226; En caso el abusador sea un líder de la iglesia es necesario contar con protocolos
+        imparciales para asegurar su denuncia y el cese temporal de sus actividades.
+        \n\n<b>Consejos para atender la violencia desde la iglesia:</b>
+        \n\nDisponer de un presupuesto para solventar los gastos de las personas violentadas
+        (pasajes, medicamentos, terapia psicológica, etc.).
+        \n\nDesignar a miembros de la iglesia que puedan acompañar a la víctima de la violencia
+        durante todo el proceso de denuncia.
+        \n\nDisponer de un espacio especial que sirva como refugio temporal para las personas
+        violentadas (si no se puede contar con un albergue, puede ser la casa de un miembro de la
+        iglesia).
+        \n\n<b>Consejos para atender la violencia en la comunidad:</b>
+        \n\n&#8226; Mantener un directorio actualizado con los teléfonos y direcciones de las
+        instituciones públicas necesarias para efectuar una denuncia (Juzgado, Fiscalía, Comisaría,
+        Centro de Emergencia Mujer).
+        \n&#8226; Contar con un equipo de profesionales (pueden ser miembros de la iglesia) a quienes
+        puedan derivarse algunos casos (psicólogos, abogados, etc.).
+        \n&#8226; La iglesia puede aliarse con otras organizaciones y ministerios que tengan más
+        experiencia en la prevención y abordamiento de la violencia, a fin de capacitar a sus
+        miembros.
+        \n&#8226; Realizar campañas de información y prevención sobre la violencia familiar a la
+        comunidad.</string>
+    <string name="VF06">Caso 1
+        \n\n“<i>La violencia está presente cuando los seres humanos <b>se ven influidos</b> de tal
+         manera que sus realizaciones efectivas, somáticas y mentales, están <b>por debajo de sus
+         realizaciones potenciales</b></i>” (Galtung 1985).
+        \n\n“<i>El uso deliberado de la fuerza física o el <b>poder</b>, ya sea en grado de amenaza
+         o efectivo, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas
+         probabilidades de <b>causar lesiones, muerte, daños psicológicos, trastornos del desarrollo
+         o privaciones</b></i>” (OMS 2002).
+        \n\n“<i>Cualquier acción o conducta que le <b>causa muerte, daño o sufrimiento físico,
+        sexual o psicológico</b> y que se produce en el contexto de una <b>relación de
+        responsabilidad, confianza o poder</b>, de parte de un integrante a otro del grupo
+        familiar</i>” (Ley N° 30364).</string>
 </resources>

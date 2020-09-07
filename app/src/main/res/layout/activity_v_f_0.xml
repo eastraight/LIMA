@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
@@ -17,7 +16,6 @@
             android:drawableEnd="@drawable/down_arrow"
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
-            android:onClick="VF0Listener"
             android:padding="20dip"
             android:text="@string/VFMenu01"
             android:textSize="15sp"
@@ -33,7 +31,6 @@
             android:drawableEnd="@drawable/down_arrow"
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
-            android:onClick="VF0Listener"
             android:padding="20dip"
             android:text="@string/VFMenu02"
             android:textSize="15sp"
@@ -49,7 +46,6 @@
             android:drawableEnd="@drawable/down_arrow"
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
-            android:onClick="VF0Listener"
             android:padding="20dip"
             android:text="@string/VFMenu03"
             android:textSize="15sp"
@@ -65,13 +61,12 @@
             android:drawableEnd="@drawable/down_arrow"
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
-            android:onClick="VF0Listener"
             android:padding="20dip"
             android:text="@string/VFMenu04"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VF03" />
+            app:layout_constraintTop_toBottomOf="@+id/VF03T" />
 
         <Button
             android:id="@+id/VFMenu05"
@@ -81,7 +76,6 @@
             android:drawableEnd="@drawable/down_arrow"
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
-            android:onClick="VF0Listener"
             android:padding="20dip"
             android:text="@string/VFMenu05"
             android:textSize="15sp"
@@ -97,13 +91,132 @@
             android:drawableEnd="@drawable/down_arrow"
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
-            android:onClick="VF0Listener"
             android:padding="20dip"
             android:text="@string/VFMenu06"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/VF05" />
+
+        <TableLayout
+            android:id="@+id/VF03T"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/VF03">
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="#000000">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFF"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="@string/VF03T11"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#FFFFFF"
+                    android:padding="5dp"
+                    android:text="@string/VF03T12" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="#000000">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFF"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="@string/VF03T21"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#FFFFFF"
+                    android:maxLines="100"
+                    android:padding="5dp"
+                    android:text="@string/VF03T22" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="#000000">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFF"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="@string/VF03T31"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#FFFFFF"
+                    android:maxLines="100"
+                    android:padding="5dp"
+                    android:text="@string/VF03T32" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="#000000">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFF"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="@string/VF03T41"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#FFFFFF"
+                    android:maxLines="100"
+                    android:padding="5dp"
+                    android:text="@string/VF03T42" />
+            </TableRow>
+
+        </TableLayout>
 
         <TextView
             android:id="@+id/VF0"
@@ -126,8 +239,8 @@
             android:id="@+id/VF01"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="10dip"
             android:hint="@string/VF01"
+            android:padding="10dip"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/VFMenu01" />
@@ -136,16 +249,18 @@
             android:id="@+id/VF02"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="10dip"
             android:hint="@string/VF02"
+            android:padding="10dip"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/VFMenu02" />
 
         <TextView
             android:id="@+id/VF03"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/VF03"
+            android:padding="10dip"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/VFMenu03" />
@@ -154,24 +269,28 @@
             android:id="@+id/VF04"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="10dip"
             android:hint="@string/VF04"
+            android:padding="10dip"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/VFMenu04" />
 
         <TextView
             android:id="@+id/VF05"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/VF05"
+            android:padding="10dip"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/VFMenu05" />
 
         <TextView
             android:id="@+id/VF06"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/VF06"
+            android:padding="10dip"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/VFMenu06" />

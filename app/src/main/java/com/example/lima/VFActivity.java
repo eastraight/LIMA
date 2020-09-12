@@ -23,6 +23,15 @@ public class VFActivity extends AppCompatActivity {
         } else this.overridePendingTransition(0, 0);
     }
 
+    /* VF1 - Violencia en la pareja */
+    public void VF1Listener(View view) {
+        Intent intent = new Intent(this, VF1Activity.class);
+        startActivity(intent);
+        if (MainActivity.checkTransition()) {
+            this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
+        } else this.overridePendingTransition(0, 0);
+    }
+
     @Override
     public void onBackPressed() {
         startActivity(new Intent(this, MainActivity.class));

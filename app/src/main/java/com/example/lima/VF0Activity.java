@@ -28,19 +28,19 @@ public class VF0Activity extends AppCompatActivity implements View.OnClickListen
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_v_f_0);
 
-        vf01 = (RelativeLayout) findViewById(R.id.VF01);
-        vf02 = (RelativeLayout) findViewById(R.id.VF02);
-        vf03 = (RelativeLayout) findViewById(R.id.VF03);
-        vf04 = (RelativeLayout) findViewById(R.id.VF04);
-        vf05 = (RelativeLayout) findViewById(R.id.VF05);
-        vf06 = (RelativeLayout) findViewById(R.id.VF06);
+        vf01 = findViewById(R.id.VF01);
+        vf02 = findViewById(R.id.VF02);
+        vf03 = findViewById(R.id.VF03);
+        vf04 = findViewById(R.id.VF04);
+        vf05 = findViewById(R.id.VF05);
+        vf06 = findViewById(R.id.VF06);
 
-        vfm01 = (Button) findViewById(R.id.VFMenu01);
-        vfm02 = (Button) findViewById(R.id.VFMenu02);
-        vfm03 = (Button) findViewById(R.id.VFMenu03);
-        vfm04 = (Button) findViewById(R.id.VFMenu04);
-        vfm05 = (Button) findViewById(R.id.VFMenu05);
-        vfm06 = (Button) findViewById(R.id.VFMenu06);
+        vfm01 = findViewById(R.id.VFMenu01);
+        vfm02 = findViewById(R.id.VFMenu02);
+        vfm03 = findViewById(R.id.VFMenu03);
+        vfm04 = findViewById(R.id.VFMenu04);
+        vfm05 = findViewById(R.id.VFMenu05);
+        vfm06 = findViewById(R.id.VFMenu06);
 
         vfm01.setOnClickListener(this);
         vfm02.setOnClickListener(this);
@@ -123,39 +123,39 @@ public class VF0Activity extends AppCompatActivity implements View.OnClickListen
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.VFMenu01:
-                if (vf01.getVisibility() == View.GONE)
+                if (vf01.getVisibility() == View.GONE) {
                     expand(vf01, h01);
-                else collapse(vf01);
+                } else collapse(vf01);
                 break;
 
             case R.id.VFMenu02:
-                if (vf02.getVisibility() == View.GONE)
+                if (vf02.getVisibility() == View.GONE) {
                     expand(vf02, h02);
-                else collapse(vf02);
+                } else collapse(vf02);
                 break;
 
             case R.id.VFMenu03:
-                if (vf03.getVisibility() == View.GONE)
+                if (vf03.getVisibility() == View.GONE) {
                     expand(vf03, h03);
-                else collapse(vf03);
+                } else collapse(vf03);
                 break;
 
             case R.id.VFMenu04:
-                if (vf04.getVisibility() == View.GONE)
+                if (vf04.getVisibility() == View.GONE) {
                     expand(vf04, h04);
-                else collapse(vf04);
+                } else collapse(vf04);
                 break;
 
             case R.id.VFMenu05:
-                if (vf05.getVisibility() == View.GONE)
+                if (vf05.getVisibility() == View.GONE) {
                     expand(vf05, h05);
-                else collapse(vf05);
+                } else collapse(vf05);
                 break;
 
             case R.id.VFMenu06:
-                if (vf06.getVisibility() == View.GONE)
+                if (vf06.getVisibility() == View.GONE) {
                     expand(vf06, h06);
-                else collapse(vf06);
+                } else collapse(vf06);
                 break;
         }
     }

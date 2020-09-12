@@ -59,6 +59,8 @@
     <string name="AMenu5">Test de abuso espiritual</string>
 
     // Subsubmenus
+    <string name="Evaluation">Evaluación</string>
+
     <string name="VFMenu01">Lo que la violencia no es</string>
     <string name="VFMenu02">El concepto de violencia</string>
     <string name="VFMenu03">Tipos de violencia</string>
@@ -66,7 +68,16 @@
     <string name="VFMenu05">Ideas pastorales contra la violencia</string>
     <string name="VFMenu06">Evaluación</string>
 
+    <string name="VFMenu11">Conflicto y violencia</string>
+    <string name="VFMenu12">El ciclo de la violencia</string>
+    <string name="VFMenu13">Violencia y sujeción de la mujer</string>
+    <string name="VFMenu14">Recursos bíblicos</string>
+    <string name="VFMenu15">Ideas pastorales contra la violencia</string>
+    <string name="VFMenu16">Evaluación</string>
+
+
     // Text
+    // VF0
     <string name="VF0">La violencia no es algo que ocurre solo en las noticias. Es más frecuente de
         lo que creemos. Sin embargo, para combatirla es necesario saber identificarla. En esta
         sesión aprenderás qué es la violencia, cómo ella actúa en las relaciones familiares, qué
@@ -100,10 +111,10 @@
         clasificaciones útiles que nos ayudan a identificar las violencias más cotidianas, sobre
         todo en el ámbito de la familia.</string>
     <string name="VF03T11">Física</string>
-    <string name="VF03T21">Psicológica</string>
-    <string name="VF03T31">Sexual</string>
-    <string name="VF03T41">Económica</string>
-    <string name="VF03T12">Golpes, tirones de pelo, pellizcos, empujones, se lanzan objetos o hay
+    <string name="VF03T12">Psicológica</string>
+    <string name="VF03T13">Sexual</string>
+    <string name="VF03T14">Económica</string>
+    <string name="VF03T21">Golpes, tirones de pelo, pellizcos, empujones, se lanzan objetos o hay
         amenazas con objetos o armas.</string>
     <string name="VF03T22">&#8226; Maltrato verbal (insultos, comentarios que humillan, alzar la
         voz, gritar o hacer gestos que intimidantes, etc.).
@@ -114,11 +125,11 @@
         opiniones, manipular el sentido de las palabras)
         \n&#8226; Situaciones de control (impide que la persona salga, invade la intimidad, muestra
         celos, controla correos y llamadas, escucha conversaciones telefónicas, etc.).</string>
-    <string name="VF03T32">&#8226; Se manipula a la pareja o se le insiste para tener relaciones
+    <string name="VF03T23">&#8226; Se manipula a la pareja o se le insiste para tener relaciones
         sexuales.
         \n&#8226; Se le fuerza a tener relaciones sexuales contra su voluntad
         \n&#8226; Se le obliga a no usar algún método anticonceptivo, etc.</string>
-    <string name="VF03T42">Se niega a otro miembro de la familia el acceso a los recursos que
+    <string name="VF03T24">Se niega a otro miembro de la familia el acceso a los recursos que
         permiten satisfacer sus necesidades. Por ejemplo: no apoyar económicamente el hogar,
         restringir el acceso al dinero o a las cuentas, destruir los bienes materiales de la otra
         persona, etc.</string>
@@ -197,4 +208,92 @@
         sexual o psicológico</b> y que se produce en el contexto de una <b>relación de
         responsabilidad, confianza o poder</b>, de parte de un integrante a otro del grupo
         familiar</i>” (Ley N° 30364).</string>
+    // VF1
+    <string name="VF1">Esta lección abordará la violencia dentro de las relaciones de pareja. Para
+        ello, nos aproximaremos a un concepto básico que, desde la psicología, explica la dinámica
+        de las relaciones conyugales violentas: <b>el ciclo de la violencia</b>. Asimismo, se
+        ofrecerán algunos aportes bíblicos y teológicos sobre las relaciones conyugales. Finalmente,
+        se formularán recomendaciones para la prevención y atención de la violencia en y desde las
+        comunidades de fe.</string>
+    <string name="VF11">Es importante distinguir entre los conflictos familiares y la violencia. La
+        distinción es importante porque los consejos que demos serán distintos en cada caso: <b>en
+        caso de conflicto</b>, será necesario orientar a la persona con las <b>estrategias para la
+        solución de conflictos</b> (ver apartado 11); mientras que, <b>en caso de violencia</b>,
+        deberás ayudar a la persona a poder <b>identificarla</b> y darle la opción de
+        <b>denunciarla</b> (ver apartados 3 al 10). Debemos considerar, además, que a veces un
+        conflicto mal llevado puede llevar a conductas violentas.</string>
+    <string name="VF11T11">Conflictos</string>
+    <string name="VF11T12">Son parte de la vida</string>
+    <string name="VF11T13">Es una oportunidad para fortalecer nuestros lazos familiares y cambiar
+        las cosas que van mal</string>
+    <string name="VF11T14">No deben evitarse, sino afrontarse</string>
+    <string name="VF11T15">Toma en cuenta la autonomía de los involucrados</string>
+    <string name="VF11T16">Puede ser solucionado por los propios involucrados</string>
+    <string name="VF11T21">Violencia</string>
+    <string name="VF11T22">No puede ser considerada parte de la vida</string>
+    <string name="VF11T23">Es destructiva para las relaciones familiares y empeora las
+        cosas</string>
+    <string name="VF11T24">Debe siempre evitarse</string>
+    <string name="VF11T25">No toma en cuenta la autonomía de la otra persona</string>
+    <string name="VF11T26">Siempre se debe denunciar</string>
+    <string name="VF12">Existen relaciones de pareja en el que las conductas violentas no se dan de
+        manera ocasional, sino de manera permanente. En estos casos, el concepto psicológico de
+        “ciclo de la violencia” resulta útil para comprender la dinámica de la violencia en las
+        relaciones de pareja. Este es un ciclo de tres pasos: 1) acumulación de la tensión, 2)
+        episodio violento, 3) Luna de miel.</string>
+    <string name="VF13.1">De acuerdo a los resultados de la investigación Dentro de las cuatro paredes
+        (Paz y Esperanza, 2014), aproximadamente el 40% de la población evangélica en el Perú
+        considera que no hay violencia en sushogares. Sin embargo, ello contrasta con la realidad de
+        los hechos, en la medida que los resultados del estudio señalan que el 26.8% de los varones
+        y el 39,2% de las mujeres reporta haber sufrido violencia durante el tiempo que estuvieron
+        juntos. De este último dato puede constatarse que son las mujeres las que han sufrido más
+        violencia que los varones.
+        \n\nPero el dato más alarmante es la actitud de los evangélicos cuando apelan a sus
+        creencias. Así, frente a la afirmación de si hombre y mujer deben compartir la autoridad en
+        el hogar, el 61% respondió afirmativamente, el 12,2% de encuestados se mostraron
+        parcialmente de acuerdo, mientras que sólo el 3,8% en desacuerdo. No obstante, 5 de cada 10
+        varones creen que la mujer debe obedecer al marido que las maltrata, mientras que 3 de cada
+        10 mujeres cree lo mismo. Asimismo, cabe resaltar que un 33,5% de los encuestados considera
+        que una de las causas del maltrato en el hogar se debe a que la mujer no se sujeta al
+        marido.
+        \n\nLas cifras antes expuestas dan cuenta de las creencias, actitudes y conductas personales
+        de los creyentes en sus relaciones de pareja. Sin embargo, no todo queda en el plano
+        personal, sino que, en ciertos casos, la enseñanza de las iglesias refuerza los
+        comportamientos violentos.
+        \n\nConsideremos dos ejemplos de formas de lidiar contra la violencia conyugal extraídos de
+        dos manuales de enseñanza sobre matrimonios y familia en dos congregaciones de nuestro
+        medio:</string>
+    <string name="VF13.2">“Si usted está en un matrimonio abusivo, sumerja la mente en la sabiduría
+        y las promesas de la Biblia, ore fervientemente, busque consejo cristiano y viva por fe como
+        una mujer y esposa consagrada a Dios. Aun si el esposo no cambia, vivir con un esposo
+        difícil nos vuelve más dependientes de Dios y forja un carácter piadoso y perseverancia en
+        nosotras. Esto finalmente le da gloria y honra a Dios. Recuerde que Dios es fiel y que él es
+        su ayuda. ¿Qué nueva esperanza ha encontrado a través de la Palabra de Dios?” (Denton Bible
+        Church 2009: 77).
+        \n\n“Por lo general, la mujer cuando está enojada, quiere discutir con su marido y llega a
+        hacerlo fuertemente si no la escuchan. Quiere hacer valer su punto de vista y que su marido
+        reaccione, pero está en error. Dios no transforma a su esposo por sus alegatos, lo hace por
+        su sujeción. Cada vez que contiende verbalmente con su marido, está cerrando más su corazón
+        y también la ventana de la bendición de Dios. El Señor, al ver que la mujer no respeta a su
+        cabeza, la deja a su propio destino. Pero en cambio, cuando no discute de regreso, sino que
+        mantiene una conducta respetuosa y ejerce dominio propio, el poder de Dios y su autoridad
+        operan a su favor. (…) Cuando eres sujeta a tu marido, Dios está tan agradado que hasta
+        podría estorbar las oraciones de tu esposo cuando no te honra como vaso más frágil. ¿Por
+        qué? Porque Dios no atiende al hombre que trata mal a su mujer, sino que le resiste. De esa
+        manera el Señor protege el corazón de las mujeres.” (ADP 2013:24)</string>
+    <string name="VF13.3">Como podemos apreciar, las concepciones religiosas que perpetúan la
+        violencia no quedan en el plano personal. Antes bien, en ocasiones estas tienen un respaldo
+        eclesial-institucional. La creencia de la sujeción de la mujer al esposo, según parece, es
+        motivo de confusiones en cuanto a su entendimiento y puesta en práctica, motivo por el cual
+        se hace necesario revisar su contenido bíblico. Por otro lado, se ha podido constatar que el
+        tema de la violencia doméstica se encuentra ausente en la mayoría de cursos y materiales
+        utilizados por las iglesias para la formación de los creyentes. De ahí la urgencia por
+        volver a los fundamentos y examinar con mayor profundidad lo que dice la Biblia acerca de la
+        relación hombre-mujer dentro del matrimonio.</string>
+    <string name="VF14">VF14</string>
+    <string name="VF15">VF15</string>
+    <string name="VF16">VF16</string>
+
+
+
 </resources>

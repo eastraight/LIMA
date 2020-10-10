@@ -17,58 +17,58 @@ import android.widget.RelativeLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-/* VF0 - ¿Qué es la violencia? */
-public class VF0Activity extends AppCompatActivity implements View.OnClickListener {
-    Button vfm01, vfm02, vfm03, vfm04, vfm05, vfm06;
-    RelativeLayout vf01, vf02, vf03, vf04, vf05, vf06;
+/* B1_0 - ¿Qué es la violencia? */
+public class B1_0Activity extends AppCompatActivity implements View.OnClickListener {
+    Button b1_m01, b1_m02, b1_m03, b1_m04, b1_m05, b1_m06;
+    RelativeLayout b1_01, b1_02, b1_03, b1_04, b1_05, b1_06;
     int h01, h02, h03, h04, h05, h06; // heights
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_v_f_0);
+        setContentView(R.layout.activity_b1_1);
 
-        vf01 = findViewById(R.id.VF01);
-        vf02 = findViewById(R.id.VF02);
-        vf03 = findViewById(R.id.VF03);
-        vf04 = findViewById(R.id.VF04);
-        vf05 = findViewById(R.id.VF05);
-        vf06 = findViewById(R.id.VF06);
+        b1_01 = findViewById(R.id.b1_01);
+        b1_02 = findViewById(R.id.b1_02);
+        b1_03 = findViewById(R.id.b1_03);
+        b1_04 = findViewById(R.id.b1_04);
+        b1_05 = findViewById(R.id.b1_05);
+        b1_06 = findViewById(R.id.b1_06);
 
-        vfm01 = findViewById(R.id.VFMenu01);
-        vfm02 = findViewById(R.id.VFMenu02);
-        vfm03 = findViewById(R.id.VFMenu03);
-        vfm04 = findViewById(R.id.VFMenu04);
-        vfm05 = findViewById(R.id.VFMenu05);
-        vfm06 = findViewById(R.id.VFMenu06);
+        b1_m01 = findViewById(R.id.b1_Menu01);
+        b1_m02 = findViewById(R.id.b1_Menu02);
+        b1_m03 = findViewById(R.id.b1_Menu03);
+        b1_m04 = findViewById(R.id.b1_Menu04);
+        b1_m05 = findViewById(R.id.b1_Menu05);
+        b1_m06 = findViewById(R.id.b1_Menu06);
 
-        vfm01.setOnClickListener(this);
-        vfm02.setOnClickListener(this);
-        vfm03.setOnClickListener(this);
-        vfm04.setOnClickListener(this);
-        vfm05.setOnClickListener(this);
-        vfm06.setOnClickListener(this);
+        b1_m01.setOnClickListener(this);
+        b1_m02.setOnClickListener(this);
+        b1_m03.setOnClickListener(this);
+        b1_m04.setOnClickListener(this);
+        b1_m05.setOnClickListener(this);
+        b1_m06.setOnClickListener(this);
 
-        vf01.getViewTreeObserver().addOnPreDrawListener(
+        b1_01.getViewTreeObserver().addOnPreDrawListener(
                 new ViewTreeObserver.OnPreDrawListener() {
                     @Override
                     public boolean onPreDraw() {
-                        vf01.getViewTreeObserver().removeOnPreDrawListener(this);
+                        b1_01.getViewTreeObserver().removeOnPreDrawListener(this);
                         // Start collapsed:
-                        vf01.setVisibility(View.GONE);
-                        vf02.setVisibility(View.GONE);
-                        vf03.setVisibility(View.GONE);
-                        vf04.setVisibility(View.GONE);
-                        vf05.setVisibility(View.GONE);
-                        vf06.setVisibility(View.GONE);
+                        b1_01.setVisibility(View.GONE);
+                        b1_02.setVisibility(View.GONE);
+                        b1_03.setVisibility(View.GONE);
+                        b1_04.setVisibility(View.GONE);
+                        b1_05.setVisibility(View.GONE);
+                        b1_06.setVisibility(View.GONE);
 
                         // Get heights:
-                        h01 = vf01.getMeasuredHeight();
-                        h02 = vf02.getMeasuredHeight();
-                        h03 = vf03.getMeasuredHeight();
-                        h04 = vf04.getMeasuredHeight();
-                        h05 = vf05.getMeasuredHeight();
-                        h06 = vf06.getMeasuredHeight();
+                        h01 = b1_01.getMeasuredHeight();
+                        h02 = b1_02.getMeasuredHeight();
+                        h03 = b1_03.getMeasuredHeight();
+                        h04 = b1_04.getMeasuredHeight();
+                        h05 = b1_05.getMeasuredHeight();
+                        h06 = b1_06.getMeasuredHeight();
                         return true;
                     }
                 });
@@ -122,40 +122,40 @@ public class VF0Activity extends AppCompatActivity implements View.OnClickListen
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
-            case R.id.VFMenu01:
-                if (vf01.getVisibility() == View.GONE) {
-                    expand(vf01, h01);
-                } else collapse(vf01);
+            case R.id.b1_Menu01:
+                if (b1_01.getVisibility() == View.GONE) {
+                    expand(b1_01, h01);
+                } else collapse(b1_01);
                 break;
 
-            case R.id.VFMenu02:
-                if (vf02.getVisibility() == View.GONE) {
-                    expand(vf02, h02);
-                } else collapse(vf02);
+            case R.id.b1_Menu02:
+                if (b1_02.getVisibility() == View.GONE) {
+                    expand(b1_02, h02);
+                } else collapse(b1_02);
                 break;
 
-            case R.id.VFMenu03:
-                if (vf03.getVisibility() == View.GONE) {
-                    expand(vf03, h03);
-                } else collapse(vf03);
+            case R.id.b1_Menu03:
+                if (b1_03.getVisibility() == View.GONE) {
+                    expand(b1_03, h03);
+                } else collapse(b1_03);
                 break;
 
-            case R.id.VFMenu04:
-                if (vf04.getVisibility() == View.GONE) {
-                    expand(vf04, h04);
-                } else collapse(vf04);
+            case R.id.b1_Menu04:
+                if (b1_04.getVisibility() == View.GONE) {
+                    expand(b1_04, h04);
+                } else collapse(b1_04);
                 break;
 
-            case R.id.VFMenu05:
-                if (vf05.getVisibility() == View.GONE) {
-                    expand(vf05, h05);
-                } else collapse(vf05);
+            case R.id.b1_Menu05:
+                if (b1_05.getVisibility() == View.GONE) {
+                    expand(b1_05, h05);
+                } else collapse(b1_05);
                 break;
 
-            case R.id.VFMenu06:
-                if (vf06.getVisibility() == View.GONE) {
-                    expand(vf06, h06);
-                } else collapse(vf06);
+            case R.id.b1_Menu06:
+                if (b1_06.getVisibility() == View.GONE) {
+                    expand(b1_06, h06);
+                } else collapse(b1_06);
                 break;
         }
     }
@@ -163,7 +163,7 @@ public class VF0Activity extends AppCompatActivity implements View.OnClickListen
 
     @Override
     public void onBackPressed() {
-        startActivity(new Intent(this, VFActivity.class));
+        startActivity(new Intent(this, B1Activity.class));
         overridePendingTransition(R.anim.animation_leave, R.anim.hold);
     }
 }

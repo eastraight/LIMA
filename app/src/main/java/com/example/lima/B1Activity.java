@@ -6,17 +6,17 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class VFActivity extends AppCompatActivity {
+public class B1Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_v_f);
+        setContentView(R.layout.activity_b1);
     }
 
     /* VF0 - ¿Qué es la violencia? */
     public void VF0Listener(View view) {
-        Intent intent = new Intent(this, VF0Activity.class);
+        Intent intent = new Intent(this, B1_0Activity.class);
         startActivity(intent);
         if (MainActivity.checkTransition()) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
@@ -25,7 +25,7 @@ public class VFActivity extends AppCompatActivity {
 
     /* VF1 - Violencia en la pareja */
     public void VF1Listener(View view) {
-        Intent intent = new Intent(this, VF1Activity.class);
+        Intent intent = new Intent(this, B1_1Activity.class);
         startActivity(intent);
         if (MainActivity.checkTransition()) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);

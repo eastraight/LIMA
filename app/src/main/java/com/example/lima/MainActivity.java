@@ -80,66 +80,66 @@ public class MainActivity extends AppCompatActivity {
 
     /* Main Menu Buttons */
 
-    /* Button 1 - Violencia Familiar */
+    /* Button 1 - La violencia: introducción */
     public void B1Listener(View view) {
-        Intent intent = new Intent(this, VFActivity.class);
+        Intent intent = new Intent(this, B1_0Activity.class);
         startActivity(intent);
         if (transition) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
         } else this.overridePendingTransition(0, 0);
     }
 
-    /* Button 2 - Solución de Conflictos */
+    /* Button 2 - Violencia en la pareja */
     public void B2Listener(View view) {
-        Intent intent = new Intent(this, SCActivity.class);
+        Intent intent = new Intent(this, B1_1Activity.class);
         startActivity(intent);
         if (transition) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
         } else this.overridePendingTransition(0, 0);    }
 
-    /* Button 3 - Crianza Positiva */
+    /* Button 3 - Maltrato infantil */
     public void B3Listener(View view) {
-        Intent intent = new Intent(this, CPActivity.class);
+        Intent intent = new Intent(this, B3Activity.class);
         startActivity(intent);
         if (transition) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
         } else this.overridePendingTransition(0, 0);    }
 
-    /* Button 4 - Recursos Bíblicos y Teológicos */
+    /* Button 4 - Solución de conflictos */
     public void B4Listener(View view) {
-        Intent intent = new Intent(this, RBActivity.class);
+        Intent intent = new Intent(this, B4Activity.class);
         startActivity(intent);
         if (transition) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
         } else this.overridePendingTransition(0, 0);    }
 
-    /* Button 5 - Denuncia */
+    /* Button 5 - Crianza positiva */
     public void B5Listener(View view) {
-        Intent intent = new Intent(this, DActivity.class);
+        Intent intent = new Intent(this, B5Activity.class);
         startActivity(intent);
         if (transition) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
         } else this.overridePendingTransition(0, 0);    }
 
-    /* Button 6 - Prevención de la Violencia */
+    /* Button 6 - Recursos bíblicos */
     public void B6Listener(View view) {
-        Intent intent = new Intent(this, PActivity.class);
+        Intent intent = new Intent(this, B6Activity.class);
         startActivity(intent);
         if (transition) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
         } else this.overridePendingTransition(0, 0);    }
 
-    /* Button 7 - Autoevaluación */
+    /* Button 7 - Denunciando la violencia */
     public void B7Listener(View view) {
-        Intent intent = new Intent(this, AActivity.class);
+        Intent intent = new Intent(this, B7Activity.class);
         startActivity(intent);
         if (transition) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
         } else this.overridePendingTransition(0, 0);    }
 
-    /* Button 8 - Contacto */
+    /* Button 8 - [Otro] */
     public void B8Listener(View view) {
-        Intent intent = new Intent(this, CActivity.class);
+        Intent intent = new Intent(this, B8Activity.class);
         startActivity(intent);
         if (transition) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);

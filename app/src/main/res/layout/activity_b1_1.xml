@@ -9,7 +9,7 @@
         android:layout_height="wrap_content">
 
         <Button
-            android:id="@+id/VFMenu01"
+            android:id="@+id/b1_Menu01"
             style="@style/Widget.AppCompat.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -17,14 +17,14 @@
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
             android:padding="20dip"
-            android:text="@string/VFMenu01"
+            android:text="@string/b1_1"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VF0" />
+            app:layout_constraintTop_toBottomOf="@+id/b1_0" />
 
         <Button
-            android:id="@+id/VFMenu02"
+            android:id="@+id/b1_Menu02"
             style="@style/Widget.AppCompat.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -32,14 +32,14 @@
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
             android:padding="20dip"
-            android:text="@string/VFMenu02"
+            android:text="@string/b1_2"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VF01" />
+            app:layout_constraintTop_toBottomOf="@+id/b1_01" />
 
         <Button
-            android:id="@+id/VFMenu03"
+            android:id="@+id/b1_Menu03"
             style="@style/Widget.AppCompat.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -47,14 +47,14 @@
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
             android:padding="20dip"
-            android:text="@string/VFMenu03"
+            android:text="@string/b1_3"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VF02" />
+            app:layout_constraintTop_toBottomOf="@+id/b1_02" />
 
         <Button
-            android:id="@+id/VFMenu04"
+            android:id="@+id/b1_Menu04"
             style="@style/Widget.AppCompat.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -62,14 +62,14 @@
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
             android:padding="20dip"
-            android:text="@string/VFMenu04"
+            android:text="@string/b1_4"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VF03" />
+            app:layout_constraintTop_toBottomOf="@+id/b1_03" />
 
         <Button
-            android:id="@+id/VFMenu05"
+            android:id="@+id/b1_Menu05"
             style="@style/Widget.AppCompat.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -77,14 +77,14 @@
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
             android:padding="20dip"
-            android:text="@string/VFMenu05"
+            android:text="@string/b1_5"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VF04" />
+            app:layout_constraintTop_toBottomOf="@+id/b1_04" />
 
         <Button
-            android:id="@+id/VFMenu06"
+            android:id="@+id/b1_Menu06"
             style="@style/Widget.AppCompat.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -92,25 +92,25 @@
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
             android:padding="20dip"
-            android:text="@string/VFMenu06"
+            android:text="@string/b1_6"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VF05" />
+            app:layout_constraintTop_toBottomOf="@+id/b1_05" />
 
         <RelativeLayout
-            android:id="@+id/VF03"
+            android:id="@+id/b1_03"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VFMenu03">
+            app:layout_constraintTop_toBottomOf="@+id/b1_Menu03">
 
             <TableLayout
-                android:id="@+id/VF03Table"
+                android:id="@+id/b1_03Table"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/VF03Text">
+                android:layout_below="@+id/b1_03Text">
 
                 <TableRow
                     android:layout_width="wrap_content"
@@ -125,7 +125,7 @@
                         android:background="#FFFFFF"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:text="@string/VF03T11"
+                        android:text="@string/b1_3T11"
                         android:textStyle="bold" />
 
                     <TextView
@@ -135,7 +135,7 @@
                         android:layout_weight="1"
                         android:background="#FFFFFF"
                         android:padding="5dp"
-                        android:text="@string/VF03T21" />
+                        android:text="@string/b1_3T21" />
                 </TableRow>
 
                 <TableRow
@@ -152,7 +152,7 @@
                         android:background="#FFFFFF"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:text="@string/VF03T12"
+                        android:text="@string/b1_3T12"
                         android:textStyle="bold" />
 
                     <TextView
@@ -162,7 +162,7 @@
                         android:layout_weight="1"
                         android:background="#FFFFFF"
                         android:padding="5dp"
-                        android:text="@string/VF03T22" />
+                        android:text="@string/b1_3T22" />
                 </TableRow>
 
                 <TableRow
@@ -179,7 +179,7 @@
                         android:background="#FFFFFF"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:text="@string/VF03T13"
+                        android:text="@string/b1_3T13"
                         android:textStyle="bold" />
 
                     <TextView
@@ -189,7 +189,7 @@
                         android:layout_weight="1"
                         android:background="#FFFFFF"
                         android:padding="5dp"
-                        android:text="@string/VF03T23" />
+                        android:text="@string/b1_3T23" />
                 </TableRow>
 
                 <TableRow
@@ -206,7 +206,7 @@
                         android:background="#FFFFFF"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:text="@string/VF03T14"
+                        android:text="@string/b1_3T14"
                         android:textStyle="bold" />
 
                     <TextView
@@ -216,97 +216,97 @@
                         android:layout_weight="1"
                         android:background="#FFFFFF"
                         android:padding="5dp"
-                        android:text="@string/VF03T24" />
+                        android:text="@string/b1_3T24" />
                 </TableRow>
 
             </TableLayout>
 
             <TextView
-                android:id="@+id/VF03Text"
+                android:id="@+id/b1_03Text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="@string/VF03"
+                android:hint="@string/b1_3text"
                 android:padding="10dip" />
         </RelativeLayout>
 
         <RelativeLayout
-            android:id="@+id/VF01"
+            android:id="@+id/b1_01"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VFMenu01">
+            app:layout_constraintTop_toBottomOf="@+id/b1_Menu01">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="@string/VF01"
+                android:hint="@string/b1_1text"
                 android:padding="10dip" />
         </RelativeLayout>
 
         <RelativeLayout
-            android:id="@+id/VF02"
+            android:id="@+id/b1_02"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VFMenu02">
+            app:layout_constraintTop_toBottomOf="@+id/b1_Menu02">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="@string/VF02"
+                android:hint="@string/b1_2text"
                 android:padding="10dip"/>
         </RelativeLayout>
 
         <RelativeLayout
-            android:id="@+id/VF04"
+            android:id="@+id/b1_04"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VFMenu04">
+            app:layout_constraintTop_toBottomOf="@+id/b1_Menu04">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="@string/VF04"
+                android:hint="@string/b1_4text"
                 android:padding="10dip"/>
         </RelativeLayout>
 
         <RelativeLayout
-            android:id="@+id/VF05"
+            android:id="@+id/b1_05"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VFMenu05">
+            app:layout_constraintTop_toBottomOf="@+id/b1_Menu05">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="@string/VF05"
+                android:hint="@string/b1_5text"
                 android:padding="10dip" />
         </RelativeLayout>
 
         <RelativeLayout
-            android:id="@+id/VF06"
+            android:id="@+id/b1_06"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/VFMenu06">
+            app:layout_constraintTop_toBottomOf="@+id/b1_Menu06">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="@string/VF06"
+                android:hint="@string/b1_6text"
                 android:padding="10dip" />
         </RelativeLayout>
 
 
         <TextView
-            android:id="@+id/VF0"
+            android:id="@+id/b1_0"
             android:layout_width="411dp"
             android:layout_height="wrap_content"
             android:layout_marginEnd="16dp"
@@ -314,7 +314,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
-            android:hint="@string/VF0"
+            android:hint="@string/b1_0text"
             android:padding="20dip"
             android:textColor="#ff000000"
             android:textSize="18sp"

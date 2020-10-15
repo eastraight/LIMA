@@ -427,15 +427,15 @@
     <string name="b3_3text5">A través de clases, charlas o talleres, los niñas y niñas pueden
         aprender cómo autoprotegerse. La enseñanza sobre la autoprotección debe comprender, por lo
         menos, los siguientes contenidos:
-        \n\n&#x2713;Enseñar a los niños a identificar las “personas de confianza”, a fin de que
+        \n\n&#x2713; Enseñar a los niños a identificar las “personas de confianza”, a fin de que
         puedan recurrir a ellas en casos de maltrato o abuso sexual.
-        \n&#x2713;Que sepan reconocer cuando están ante una situación de violencias sexual, maltrato
-        físico o psicológico.
-        \n&#x2713;La importancia de identificar las partes privadas de su cuerpo y lo que deben
+        \n&#x2713; Que sepan reconocer cuando están ante una situación de violencias sexual,
+        maltrato físico o psicológico.
+        \n&#x2713; La importancia de identificar las partes privadas de su cuerpo y lo que deben
         hacer cuando alguien intenta tocarlas.
-        \n&#x2713;Enseñarles a no callarse ante el maltrato, comunicarse con sus personas de
+        \n&#x2713; Enseñarles a no callarse ante el maltrato, comunicarse con sus personas de
         confianza y escapar.
-        \n&#x2713;Enseñarles que tienen a su disposición la línea 100 (orientación e intervención
+        \n&#x2713; Enseñarles que tienen a su disposición la línea 100 (orientación e intervención
         por parte del Ministerio de la mujer) en caso de sufrir algún tipo de violencia.
         \n\n\nPara ello podemos hacer uso de recursos y materiales adaptados para la edad de los
         niños y niñas sobre temas de autoprotección infantil (Puede hallar varios recursos
@@ -443,18 +443,18 @@
         de publicaciones).
         \n\nPor último, algunas ideas para involucrar a los niños y niñas en las charlas o talleres
         de autoprotección son las siguientes:
-        \n\n&#x2713;Enseñar a los niños y niñas, con las metodologías apropiadas, a decir que no, a
+        \n\n&#x2713; Enseñar a los niños y niñas, con las metodologías apropiadas, a decir que no, a
         hacer respetar su propio cuerpo, huir de las personas que los hacen sentir mal y hablar de
         ello con personas de confianza.
-        \n&#x2713;Organizar juegos de roles con relación a la protección y el buen trato. Por
+        \n&#x2713; Organizar juegos de roles con relación a la protección y el buen trato. Por
         ejemplo, dos o más niños y niñas pueden ofrecerse voluntariamente a interpretar una
         situación (por ejemplo, cuando unos niños fastidian a otros, en el patio de recreo; o cuando
         un líder pierde la paciencia y se enoja); y los otros niños, opinan acerca de qué hacer al
         respecto.
-        \n&#x2713;Invitar a los niños y niñas a hacer un dibujo, acerca de cómo desean que se les
+        \n&#x2713; Invitar a los niños y niñas a hacer un dibujo, acerca de cómo desean que se les
         trate, o de situaciones de violencia que han vivido. El maestro o maestra puede comentar las
         situaciones.
-        \n&#x2713;Involucrar a niños, niñas y adolescentes con habilidades artísticas que ayuden a
+        \n&#x2713; Involucrar a niños, niñas y adolescentes con habilidades artísticas que ayuden a
         plasmar los compromisos tomados, de acuerdo al “lenguaje” de su edad (letreros, dibujos,
         etc.).</string>
     <string name="b3_4text">La investigación “<i>Dentro de las cuatro paredes. Evangélicos y
@@ -574,5 +574,686 @@
         de lo aprendido hasta que forme parte de la vida diaria de los niños y niñas. El libro de
         Proverbios, entre otros muchos pasajes, nos enseñan que la instrucción (disciplina) es
         prioritaria y más importante que el castigo.</string>
+
+    // b4
+    <string name="b4_0text">Los conflictos son parte de la vida, más aún en el ámbito de la familia.
+        Puesto que los seres humanos tendemos a desarrollar distintas creencias, intereses y
+        necesidades, es usual que el impulso por querer vivirlas o satisfacerlas genere acciones y
+        contra reacciones en los demás, lo que muchas veces puede generar conflictos. No obstante,
+        si bien los conflictos son inevitables, depende de nosotros el hacer de ellos una pelea o,
+        por el contrario, una oportunidad para el enriquecimiento personal, el planteamiento de
+        soluciones y la búsqueda de la verdad.
+        \n\nLa Palabra de Dios nos insta a ser agentes de paz (Mt 5:9; Jn 14:27; Stg 3:18). Sin
+        embargo, si bien podemos tener claridad y determinación a la hora de poner en práctica este
+        principio bíblico, podemos estar dejando de lado aquellas acciones que pueden ayudarnos a
+        practicar la paz en contextos conflictivos. En esta sesión profundizaremos sobre algunos de
+        estos conceptos e ideas para aplicarlos a nuestra vida familiar y para ayudar a otras
+        familias a ver en sus conflictos cotidianos oportunidades para el crecimiento y no para el
+        maltrato.</string>
+    <string name="b4_1text">A diferencia de la violencia, los conflictos forman parte de la vida
+        familiar. Los conflictos aparecen cuando dos o más personas tienen opiniones, intereses y
+        necesidades distintas. Si bien podemos ser miembros de una misma familia, tenemos gustos,
+        creencias, intereses y necesidades diferentes y eso hace que a veces no nos pongamos de
+        acuerdo en algunas cosas.
+        \n\nA veces nos enojamos porque el otro piensa, dice o hace cosas que no queremos o que no
+        compartimos. Sin embargo, esto no debería ser motivo de enojo. Debemos aprender a ser
+        tolerantes o humildes en el uso de nuestra autoridad (si somos padres o madres) como para
+        aceptar que los miembros de nuestra familia son diferentes y pueden pensar o valorar las
+        cosas de manera distinta. Lo que debemos aprender es a ver los intereses y necesidades que
+        hay detrás de las actitudes u opiniones diferentes. Imponer nuestro parecer no es una manera
+        correcta de poner fin a los conflictos.
+        \n\nA veces pensamos que los conflictos son malos y tratamos de evitarlos, pero eso no es
+        bueno. Hacerlo solo hará que estos vuelvan a surgir sin que sepamos manejarlos después.
+        Depende de nosotros no hacer del conflicto una pelea o llegar con ellos a la
+        violencia.
+        \n\n<b>Formas inadecuadas de resolver los conflictos</b>
+        \n\nExisten maneras erróneas de resolver un conflicto:
+        \n\n&#8226; <b>Imposición</b>: Se da cuando una persona utiliza conductas agresivas, físicas
+        o verbales para imponer su parecer o sus decisiones, tales como alzar la voz, hacer gestos
+        de rabia, etc. En las discusiones con los niños, niña s y adolescentes, muchos papás y
+        mamás usan gritos, palmadas, cachetadas, tirones de pelo o de oreja para resolver los
+        conflictos con sus hijos. Esta es una forma violenta de actuar.
+        \n&#8226; <b>Evasión</b>: Es hacer como si el conflicto no existiese, pero ello no soluciona
+        el problema y las relaciones familiares pueden tornarse cada vez más hostiles y distantes.
+        \n&#8226; <b>Sumisión</b>: Es asumir que el otro tiene la razón (aunque no la tenga). No
+        obstante, esta actitud puede hacer que la persona que se somete pueda arrepentirse y romper
+        el acuerdo. De igual manera, la sumisión puede reforzar, de ser el caso, las conductas
+        violentas de la persona quien gusta de imponer su criterio.
+        \n\nPor el contrario, la mejor manera de resolver un conflicto es a través del diálogo y la
+        <b>negociación (una forma de diálogo)</b>. Negociar significa que las partes asumen el
+        conflicto y, por medio del diálogo, cooperan para llegar a un acuerdo que satisfaga sus
+        intereses y necesidades.
+        \n\n<b>Saber discutir: pautas para expresar adecuadamente nuestras emociones</b>
+        \n\nLos desacuerdos y discusiones son inevitables. Sin embargo, depende de nosotros hacer
+        de ellos una pelea. Por esta razón, el manejo de las emociones es muy importante a la hora
+        de manejar un conflicto. Si reaccionamos mal, difícilmente la otra persona nos escuchará y
+        no podrá mostrarse comprensiva con nosotros.
+        \n\nEs necesario evitar cualquier tipo de comunicación agresiva, como alzar la voz, hacer
+        ironías, burlas, faltas de respeto, los cuales no toman en cuenta los intereses y
+        necesidades del otro. Es preciso estar calmado o calmada para empezar a dialogar. A veces es
+        necesario salir a respirar o darse un tiempo fuera para calmarse e iniciar el diálogo.
+        \n\n&#8226; Evitar los reproches, como “estoy harto de que hagas esto”, “ya estoy cansado
+        de lo mismo”, entre otros. En vez de reprochar, es mejor explicar cuál es el comportamiento
+        que nos hecho sentir mal. En vez de decir “estoy harto de que nunca me escuches”, podemos
+        decir: “me duele que no me prestes atención cuando te hablo”.
+        \n&#8226; Cambiar los mensajes en “tú” (“tú eres un egoísta”, “eres un mentiroso”, etc.) y
+        reemplazarlo por el “yo” (“me molestó que botaras estos libros sin consultarme”) o el
+        “nosotros”: “quedamos en que me dirías siempre la verdad, pero no lo hiciste”.
+        \n&#8226; No hacer generalizaciones (como “siempre haces esto”; “nunca me dejas en paz”) y
+        referirse a situaciones, conductas o comportamientos en el aquí y ahora.
+        \n&#8226; Evitar las comparaciones, pues no es pertinente tomar en cuenta a lo que hacen
+        otros. Nuestro objetivo es comprender las necesidades de la persona a la que amamos y
+        llegar a una solución.
+        \n&#8226; No negar la responsabilidad. Debemos asumir las consecuencias de nuestros actos y
+        no culpar a otros.
+        \n\nAlgo muy importante y que es frecuente hallar como detonador de la discusión es la
+        <b>falta de un manejo adecuado del estrés</b>. Es importante que la pareja o cualquier
+        miembro de la familia sepa identificar cuando esté estresado, para aplicar la estrategia de
+        manejo del estrés que le resulte más adecuada (respirar, escuchar música, salir a pasear,
+        rezar, etc.). No se debe empezar una discusión si se está estresado.
+        \n\n<b>Estrategias para resolver los conflictos</b>
+        \n\nFrente a los conflictos cotidianos, las parejas suelen utilizar diversas estrategias
+        para sobrellevarlos y solucionarlos.
+        \n\nLas estrategias más usuales suelen ser:
+        \n\n&#8226; <b>Reflexión/comunicación</b>: buscar un arreglo a través del diálogo en el
+        momento en que ocurre el conflicto
+        \n&#8226; <b>Darse un tiempo fuera</b>: búsqueda del momento adecuado para discutir el
+        problema.
+        \n&#8226;<b>Automodificación</b>: la persona busca controlarse antes de poder hablar
+        \n&#8226;<b>Afecto</b>: uso de acciones cariñosas para enfrentar la discusión (besos,
+        abrazos, etc.)
+        \n&#8226;<b>Evitación</b>: no hablar del tema y esperar que “se enfríen” las cosas.
+        \n&#8226;<b>La acomodación</b>: darle al otro la razón
+        \n\nLos estudios han indicado que, de todas estas estrategias, las cuatro primeras permiten
+        solucionar los conflictos pacíficamente. Las dos últimas (evitación y acomodación) tienden
+        a reforzar la violencia ejercida y recibida.
+        \n\nRecuerda: cada miembro de la pareja o familia tiene diversas maneras de reaccionar. Es
+        importante ponerse de acuerdo previamente sobre la mejor estrategia que la pareja o la
+        familia tendrá para resolver el conflicto.</string>
+<!--    TODO: add lil box around this verse:-->
+    <string name="b4_1text2"><i>“La blanda respuesta quita la ira; Mas la palabra áspera hace subir
+        el furor.” (Proverbios 15:1)</i></string>
+    <string name="b4_2text"><b>Conflictos frecuentes en la pareja</b>
+        \n\nExisten algunos temas que originan conflictos frecuentes en la vida de pareja:
+        \n\n<b>Labores del hogar</b>: Pueden generarse discusiones en torno al reparto de las
+        tareas domésticas. Lo justo, sin embargo, es que hombres y mujeres asuman la misma
+        responsabilidad por las tareas domésticas y el cuidado de los hijos. La colaboración debe
+        ser mutua. Cada pareja debe organizarse según su experiencia o gusto por ciertas labores.
+        También es posible que un miembro de la pareja sepa hacer menos cosas, pero siempre es
+        posible que el otro le enseñe. De igual manera, hay que saber tolerar si el otro no hace
+        bien una tarea: ¡la práctica hace al maestro! Cuando el horario laboral no lo permita y uno
+        de los dos esté muy ocupado, las parejas deben negociar para saber qué tareas hará cada uno.
+        ¡Los quehaceres del hogar son también un verdadero trabajo!
+        \n\n<b>Relaciones con la familia de la pareja</b>: Algunos conflictos surgen por el hecho
+        de que algunas personas les cuesta romper el vínculo que han mantenido con su familia de
+        origen, antes de su vida en pareja. Ello puede hacer que la familia de uno de los miembros
+        de la pareja se involucre en las decisiones del nuevo hogar, generando conflictos. El punto
+        de partida para resolverlos es que la pareja debe ser consciente de que son un hogar
+        autónomo e independiente. El liderazgo igualitario y compartido recae exclusivamente en la
+        pareja y no en los familiares cercanos.
+        \n\n<b>Manejo del dinero</b>: Puede que haya conflictos sobre el uso del dinero en
+        contextos de carencia o porque es difícil ponerse de acuerdo en lo que se va a gastar. El
+        principio aquí es que las decisiones financieras se tomen conjuntamente.
+        \n\n<b>Sexualidad</b>: Las parejas pueden experimentar cambios en su vida sexual:
+        disminución de la frecuencia de las relaciones sexuales, menos deseo sexual, baja
+        satisfacción a la hora de tener relaciones sexuales, entre otros. A veces se evita hablar
+        de este tema para no herir al otro o porque se asume que este no lo va a entender. Sin
+        embargo, también aquí es posible y deseable aplicar el diálogo, la cooperación y la
+        negociación.
+        \n\nLa mejor manera de resolver estos conflictos es reconociendo que hay sentimientos,
+        intereses y necesidades no satisfechas y que es necesario resolverlas.
+        \n\n<b>Pasos para resolver el conflicto</b>
+        \n\nEl <b>primer paso</b> es el más importante y, como ya vimos, está centrado en controlar
+        nuestras emociones. No basta con expresar nuestras opiniones, sino nuestros <b>sentimientos,
+        intereses y necesidades</b>. Por ejemplo, si a un padre o madre no le agradan los amigos de
+        su hijo, en vez de decir “no me gustan tus amigos”, puede decir: “me preocupa que tus
+        amigos nuevos te lleven a hacer algo malo”.
+        \n\nEl <b>segundo paso</b> es hallar la manera de encontrar soluciones para que ambos
+        puedan satisfacer sus intereses y necesidades. Se requiere de imaginación y creatividad
+        para plantear opciones en la que ambos nos sintamos cómodos.
+        \n\nEl <b>tercer paso</b>, para llegar a un acuerdo, es estar dispuestos a ceder en algo.
+        Así, el padre puede ceder a que su hija continúe viendo a sus amigos, pero el hijo también
+        puede ceder, permitiendo que estos vayan a la casa y a no salir tan tarde con ellos.
+        \n\nEl <b>cuarto paso</b> es llegar al acuerdo. Así, sabemos que los amigos son bienvenidos
+        a la casa y que debemos decir que no cuando nos invitan a salir de los horarios
+        establecidos. De esta manera se ha preservado la relación padre-hijo y cada parte sabe qué
+        esperar del otro.</string>
+<!--    TODO: make cute lil box around this verse too-->
+    <string name="b4_2text2"><i>“(...)cada uno de ustedes ame también a su esposa como a sí mismo,
+        y que la esposa respete a su esposo.”
+        \n(Efesios 5:33)</i></string>
+
+    //b5
+    <string name="b5_0text">El castigo físico es muy común en nuestras sociedades. En muchos casos,
+        este es acompañado por la ira y el descontrol, alcanzando niveles violentos en perjuicio
+        del desarrollo psíquico, físico y sexual de los niños, niñas y adolescentes.
+        \n\nEn esta sesión aprenderemos que la <b>crianza o disciplina positiva</b> es una sana
+        alternativa para educar a nuestros hijos e hijas sin golpes. Asimismo, relacionaremos este
+        concepto y su puesta en práctica con los valores bíblicos.</string>
+    <string name="b5_1text">La crianza o disciplina positiva es un concepto que proviene de la
+        psicología que nos enseña que podemos educar a nuestros hijos e hijas sin necesidad de
+        golpearlos. Como ya hemos visto, decir que no debemos castigar a los niños no significa que
+        no los disciplinemos. Disciplinar no es lo mismo que castigar:
+        \n\nCastigar es causar dolor en el niño o niña para que aprenda a cambiar su mal
+        comportamiento.
+        \n\nDisciplinar es ponerle límites al niño, orientarle y explicarle lo que es bueno o malo
+        para que aprenda por sí mismo.
+        \n\nComo podemos advertir, el problema con el castigo es que este no hace que los niños y
+        niñas ejerciten su propio discernimiento y autonomía, sino que les enseña a comportarse
+        por miedo a una conducta externa (miedo al castigo).</string>
+<!--    TODO: insert the diagram-->
+    <string name="b5_1text2">La disciplina positiva tiene cuatro pilares:
+        \n\n<b>1. Objetivos a largo plazo</b>
+        \n<b>2. Calidez y estructura</b>
+        \n<b>3. Tomar en cuenta las capacidades y necesidades del niño, niña o adolescente</b>
+        \n<b>4. Solucionar los problemas con eficacia.</b>
+        \n\nA continuación aprenderemos cómo aplicar estos principios.</string>
+    <string name="b5_2text"><b>Aprendiendo a distinguir los objetivos de largo y corto plazo en la
+        crianza</b>
+        \n\nPreguntémonos cuál es el <b>objetivo o propósito de la crianza</b> que damos a nuestros
+        hijos e hijas.
+        \n\nPara descubrir ese propósito probablemente tengamos que responder a preguntas como la
+        siguientes: ¿cómo deseamos que sean nuestros hijos e hijas cuando sean adultos?, ¿cómo
+        queremos que sea nuestra relación con ellos en el futuro?, ¿cómo imaginamos su
+        personalidad, moralidad y espiritualidad?, etc.
+        \n\nPadres y madres deseamos lo mejor para nuestros hijos e hijas. Sin embargo, el tipo de
+        persona que queremos que nuestros hijos e hijas sean en el futuro no es algo que se
+        construya de la noche a la mañana. Día a día deberemos esforzarnos para inculcarles lo que
+        significa ser una persona de bien. Así, por ejemplo, si mi objetivo a largo plazo es que
+        mis hijos sean personas respetuosas, entonces yo, día a día, deberé enseñarles a no perder
+        el control, a no gritar, a ser amables, a no interrumpir a las otras personas, etc. <b>Los
+        objetivos a largo plazo en la crianza son todas aquellas cosas que queremos que nuestros
+        hijos e hijas sean en el futuro.</b>
+        \n\n<b>El primer principio de la crianza positiva es aprender que la crianza debe centrarse
+        en objetivos de largo plazo.</b>
+        \n\nSin embargo, esto no siempre es así. En ocasiones, la disciplina está centrada en el
+        <b>corto plazo</b>, esto es, en lo inmediato. Por ejemplo, lograr que el niño obedezca en
+        el momento, deje de hacer algo malo o peligroso, se comporte bien delante de los demás, etc.
+        \n\nPongamos un ejemplo. Jorgito tiene 3 años y ha dejado sus pinturas y papeles sucios
+        tirados en el piso. Su mamá se molesta, le grita, lo saca de allí y limpia el desastre.
+        Ella reaccionó según el corto plazo: su objetivo es limpiar el desastre lo más antes
+        posible. Pero también ella pudo hacerlo de otra manera, aplicando los <b>objetivos a largo
+        plazo</b> en la crianza. Así, ella pudo decirle a Jorgito que debe recoger lo que ensució.
+        Aún si Jorgito no limpiase bien el desastre, su madre podría ayudarlo a limpiar. Solo en el
+        segundo caso Jorgito aprendió responsabilidad: siempre que ensucie algo debe aprender a
+        limpiarlo. ¡Enseñarle a ser una persona responsable es parte de los objetivos a largo plazo
+        en la crianza!
+        \n\n<b>Aprendiendo a manejar el estrés</b>
+        \n\nA veces criar a los hijos puede ser algo muy estresante. El estrés es el conjunto de
+        reacciones fisiológicas que prepara al organismo para la acción y que son provocadas por
+        cambios en el mundo exterior que superan nuestra capacidad de afrontarlos.
+        \n\nLos padres y madres, cuando estamos estresados, podemos experimentar la pérdida de
+        control, así como la ansiedad por recuperarlo. Cuando nos sentimos así, podemos amenazar,
+        gritar, insultar y golpear. Corregir a nuestros hijos cuando estamos estresados tiende a
+        centrarnos en lo inmediato, en el corto plazo.
+        \n\nLa respuesta al estrés es automática, pero podemos aprender a regularla con la práctica.
+        Si aprendemos a auto-regularnos, podemos enseñar a hacer lo mismo a nuestros hijos e hijas.
+        \n\nLos sentimientos están sujetos a nuestro control. Es un mito creer que no somos capaces
+        de controlarnos o que tenemos el derecho a “desfogarnos” con las otras personas para estar
+        bien. Recuerda: una respuesta de estrés de los padres, producirá estrés en los niños.
+        Pero hay una diferencia entre el estrés de los padres y el de los niños. Los adultos están
+        en mejor capacidad para auto-regularse, en cambio los niños apenas están empezando a
+        desarrollar esa habilidad.
+        \n\n\nSi no se maneja el estrés, la espiral puede escalar al punto de terminar en violencia
+        física o emocional.
+        \n\n\n<b>Dios y sus objetivos de largo plazo para la humanidad</b>
+        \n\nAsí como los padres y madres tenemos objetivos a largo plazo en la crianza de nuestros
+        hijos e hijas, es interesante percatarnos de que Dios tiene también “objetivos a largo
+        plazo” para con sus hijos. Los siguientes pasajes nos muestran cuál es ese propósito o plan
+        a largo plazo por parte de Dios para toda la humanidad:
+        \n\n“Acontecerá que si oyeres atentamente la voz de Jehová tu Dios, para guardar y poner
+        por obra todos sus mandamientos que yo te prescribo hoy, también Jehová tu Dios te
+        exaltará sobre todas las naciones de la tierra.”
+        \n<b>Deuteronomio 28:1</b>
+        \n\n“Pero levántate y ponte en pie; porque te he aparecido con el fin de designarte como
+        ministro y testigo, no sólo de las cosas que has visto, sino también de aquellas en que me
+        apareceré a ti”
+        \n<b>Hechos 26:16</b>
+        \n\n“¡Ya se te ha declarado lo que es bueno! Ya se te ha dicho lo que de ti espera el
+        Señor: Practicar la justicia, amar la misericordia, y humillarte ante tu Dios.”
+        \n<b>Miqueas 6:8</b>
+        \n\n“Para esto Dios los llamó por nuestro evangelio, a fin de que tengan parte en la gloria
+        de nuestro Señor Jesucristo.”
+        \n<b>2 Tesalonicenses 2:14</b>
+        \n\n“No me escogieron ustedes a mí, sino que yo los escogí a ustedes y los comisioné para
+        que vayan y den fruto, un fruto que perdure. Así el Padre les dará todo lo que le pidan en
+        mi nombre.”
+        \n<b>Juan 15:16</b>
+        \n\nComo podemos ver, después de leer estos pasajes, Dios tiene un propósito a largo plazo
+        con sus hijos. Él quiere que seamos como él, que tengamos plenitud, practiquemos el amor,
+        obtengamos bendición, seamos salvos, etc.
+        \n\nCuando fallamos o pecamos Dios no deja de amarnos. Dios no pierde de vista ese objetivo
+        a largo plazo que tiene con nosotros. Dios no se “estresa” contra nosotros ni pierde el
+        control ni se limita a solucionar nuestras vidas solo por un “momento”. Por esta razón,
+        nosotros no debemos perder de vista esos objetivos a largo plazo que tenemos hacia nuestros
+        hijos, aun cuando estos nos puedan fallar.</string>
+    <string name="b5_3text">El segundo principio de la disciplina positiva tiene dos elementos:
+        <b>calidez</b> y <b>estructura</b>.
+        \n\nLa <b>calidez</b> significa que papás y mamás deben brindar siempre un <b>afecto
+        incondicional</b> a niños y niñas.</string>
+    <!--    TODO: insert table-->
+    <string name="b5_3text2">La estructura significa colocar límites claros y ofrecer razones de
+        por qué lo que hacemos es mejor para ellos.</string>
+    <!--    TODO: insert table-->
+    <string name="b5_3text3">Pongamos otro ejemplo. Es la hora de comer. Carlitos tiene 4 años y
+        está jugando con su carrito en la mesa. A su madre no le gusta que se distraiga con el
+        juguete y que ponga cosas sucias en la mesa, por esa razón se lo arrancha, pero el niño se
+        pone a llorar. Su madre lo ignora, pero el niño llora más aún, por lo que ella lo amenaza:
+        “o te pones bien o vas a ver”.
+        \n\nSin embargo, la mamá pudo haber actuado de otra manera. Ella pudo usar la calidez, por
+        lo que pudo hablarle amablemente, sin necesidad de tener que arrancharle el juguete.
+        También, ella pudo haber usado la estructura. Así, pudo ponerle límites claros a Carlitos
+        diciéndole, “ya vamos a comer así que te voy a dejar jugar con el carrito un minuto y
+        después lo guardas”. Asimismo, pudo ofrecerle razones: “la hora de la comida no es hora de
+        jugar y el carrito está sucio”. Con estas advertencias, probablemente Carlitos no hubiera
+        llorado cuando la madre le pida guardar el carrito para comer.
+        \n\n<b>Un ejemplo bíblico de calidez y estructura: la parábola del padre amoroso</b>
+        \n\nLee a continuación la parábola que aparece en Lucas 15:11 – 32. Después de leer el
+        texto, identifica en el cuadro que aparece a continuación de qué manera el padre de la
+        parábola aplicó la calidez y la estructura.</string>
+    <!--    TODO: insert table-->
+
+    <string name="b5_4text">El tercer principio de la crianza positiva es tomar en cuentas las
+        capacidades de los niños y niñas. Es importante considerar lo que el niño puede o no puede
+        hacer, puede o no puede comprender, según su edad. Por ejemplo, el trato con los
+        adolescentes no puede ser solo de “mandar”. A su edad ellos ya tienen un sentido crítico de
+        la realidad y esperan que sus padres les ofrezcan razones coherentes y creíbles para
+        entender el porqué de las cosas. Con los adolescentes (ni con los adultos) no funciona el
+        “aquí mando yo”.
+        \n\nPongamos otro ejemplo. Julieta tiene 3 años y su papá la descubrió hurgando en el
+        cajón. Su papá se da cuenta que ella ha sacado todas las cosas y ha roto algunos adornos
+        valiosos que allí había. Por ello se enoja y le da un pellizco para que aprenda a no
+        hacerlo de nuevo. Esta reacción del papá, sin embargo, no es la adecuada. Julieta tiene tres
+        años, tiene una naturaleza exploradora y no sabe distinguir entre objetos frágiles o
+        valiosos. Lo correcto aquí hubiera sido que el padre explique a Julieta con qué juguetes
+        ella puede jugar y con cuáles no. Él no tomo en cuenta su edad a la hora de
+        “disciplinarla”.</string>
+    <!--    TODO: insert table-->
+    <string name="b5_4text2">Padres y madres no podemos tratar a nuestros hijos e hijas de la misma
+        forma a lo largo de su vida. Es importante conocer cuáles son sus capacidades según su edad
+        para saber cómo tratarlos, cómo comprenderlos, cómo responder a sus necesidades y cómo
+        delegarles responsabilidades. El siguiente cuadro puede ayudarte a identificar esas
+        necesidades y adecuar tu comportamiento como padre según cada etapa de la vida de tu hijo o
+        hija.</string>
+
+    <string name="b5_5text">Padres y madres deben ser creativos en la solución de los problemas que
+        se presentan en casa, en especial cuando los niños y niñas no se comportan como esperamos.
+        Es bueno usar el humor y el juego para que los niños y niñas interioricen los valores que
+        les inculcamos y cooperen con el funcionamiento del hogar.
+        \n\nA continuación se presentan una serie de consejos prácticos a través de los cuales
+        podemos disciplinar adecuadamente a los niños y niñas sin necesidad de golpearlos o
+        castigarlos:
+        \n\n<b>Límites claros:</b> se trata de aquellas reglas que los padres y madres deben darles
+        a los niños y niñas. Los límites deben ser respetados por las personas que los ponen,
+        presentarse de manera clara, expresarse por anticipado, ser comprendidos claramente por el
+        niño o niña, marcarse con afecto, ser presentados junto con alternativas y se debe
+        especificar sus consecuencias en caso de no ser cumplidos.
+        \n\n<b>Ganarle al reloj:</b> método motivador basado en el juego. Como a los niños les
+        encanta hacer carreras para ganar, los padres pueden organizar una competencia entre un
+        niño y el tiempo, usando un reloj portátil de cocina. “¿Puedes terminar antes de que suene
+        el reloj?”. Los niños pueden, entonces, correr contra el tiempo y a sus padres les es
+        posible, entonces, actuar como apoyo.
+        \n\n<b>Reforzamiento:</b> Todo niño desde que nace necesita que un adulto lo acompañe en el
+        camino de aprender lo bueno y lo malo, lo correcto y lo incorrecto, lo que le hace bien y
+        lo que le puede dañar. La mejor forma de aprender esto es que los padres refuercen en sus
+        hijos aquello que están haciendo bien, con palabras o gestos amorosos. No se recomiendo que
+        el reforzamiento sea con premios u objetos materiales, ya que ello hará que el niño haga
+        las cosas por la recompensa y no por lo valioso de las cosas en sí mismas.
+        \n\n<b>Regla de la abuelita:</b> Es un acuerdo que sigue el patrón “Cuando hayas hecho X,
+        puedes hacer Y”. Por ejemplo, “Solo puedes salir a jugar cuando hayas terminado de hacer tu
+        tarea”.
+        \n\n<b>Aplicar consecuencias en lugar de castigos:</b> La corrección no puede ser para
+        hacer sufrir, sino para que el niño pueda meditar sobre su mal comportamiento. La
+        desventaja de los golpes es que estos no se presentan como una consecuencia de la mala
+        conducta, sino como un acto externo que es impuesto por los padres. En lugar de ellos,
+        aplicar consecuencias es enseñarle a los niños y niñas a asumir las consecuencias de sus
+        actos. Por ejemplo: si rompió un vaso, debe barrerlo. Si no guarda sus juguetes entonces le
+        decimos que la próxima vez solo podrá sacar algunos.</string>
+
+    //b6
+    <string name="b6_0text">En este módulo hallarás diversos recursos bíblicos (documentales,
+        videos, guías, reflexiones, artículos) que te ayudarán a enriquecer lo aprendido en las
+        sesiones anteriores.</string>
+    <string name="b6_1text"><b><u>Videos</u></b>
+        \n\nDocumental “Promesas quebrantadas”:
+        \nParte 1: https://www.youtube.com/watch?v=oQlPxn1F8Oo&amp;t
+        \nParte 2: https://www.youtube.com/watch?v=qF5rx7mHC7Q&amp;t
+        \nParte 3: https://www.youtube.com/watch?v=8FKhojUKHuo&amp;t
+        \nParte 4: https://www.youtube.com/watch?v=MeYviAp5nE8&amp;t
+        \n\nAutoprotección Infantil (prevención del maltrato y abuso sexual):
+        \nhttps://www.youtube.com/watch?v=fmuhIylXLno
+        \n\n<b><u>Manuales, guías, devocionales</u></b>
+        \n\nDentro de las cuatro paredes - Evangélicos y violencia doméstica en el Perú
+        \nhttp://institutopaz.net/recursos/resumen-ejecutivo-dentro-de-las-cuatro-paredes-esp
+        \n\nGuía “Familias saludables durante la cuarentena”
+        \nhttps://movimientonj.org/guia-familias-saludables/
+        \n\nManual para víctimas de violencia intrafamiliar
+        \nhttp://institutopaz.net/recursos/manual-victimas-violencia-familiar
+        \n\n“Iglesia, biblia y familia: Fundamentos bíblicos y teológicos para el establecimiento
+        de relaciones familiares saludables y libres de violencia”
+        \nhttp://institutopaz.net/recursos/iglesia-biblia-y-familia
+        \n\n“Familias saludables libres de violencia - Serie de Estudios bíblicos para fortalecer
+        los lazos familiares”
+        \nhttp://institutopaz.net/recursos/familias-saludables-libres-de-violencia-est-bibl
+        \n\n“Manual Pastoral de Atención y Prevención de la Violencia Familiar”
+        \nhttp://institutopaz.net/recursos/manual-pastoral-atencion-prevencion-vf
+        \n\nEl Abuso Sexual Infantil – Pastoral Urgente a Este Grupo Vulnerable
+        \nhttp://institutopaz.net/recursos/el-abuso-sexual-infantil-la-pastoral-urgente-a-este-grupo-vulnerable
+        \n\nManual para víctimas de violencia sexual
+        \nhttp://institutopaz.net/recursos/manual-victimas-violencia-sexual
+        \n\nDevocional sobre violencia familiar
+        \nhttp://pacto2021.org/sistema/data/files/Gui%CC%81a%20devocional.pdf</string>
+    <string name="b6_2text">“Celestino, el principito”
+        \nhttps://www.youtube.com/watch?v=wuRk20dBgjM
+        \n\n¡No es maña!
+        \nhttps://www.youtube.com/watch?v=O28qME0gW-c
+        \n\n“Sin castigo”, Blog con artículos y videos sobre crianza positiva:
+        \nhttps://sincastigo.wordpress.com/quienes-somos/
+        \n\n“Acción por los Niños” (canal de Youtube)
+        \nhttps://www.youtube.com/channel/UCYwYmHGPfjGSl51FEybtB5w
+        \n\n“Mis formas de expresar, cuando los niños y niñas muerden”:
+        \nhttps://www.youtube.com/watch?v=lV79zFGBhnw
+        \n\n“¿Y yo cuándo?”
+        \nhttps://www.youtube.com/watch?v=okWlVIxj0bk
+        \n\nDecálogo de Disciplina Positiva
+        \nhttps://www.youtube.com/watch?v=higQ4vfyjYY
+        \n\nCalidez y estructura
+        \nhttps://www.youtube.com/watch?v=UWrrrHNnSug
+        \n\nDevocional “Atrévete a Criar con Amor”
+        \nhttp://pacto2021.org/sistema/data/files/Guia%20Devocional%202018.pdf</string>
+    <string name="b6_3text">Video: “Evangélicos y enfoque de género”
+        \nhttps://www.youtube.com/watch?v=EEkyDg3zr8A
+        \n\nDevocional “Mujer, imagen y semejanza de Dios”
+        \nhttp://pacto2021.org/sistema/data/files/guia-devocional-2019.pdf
+        \n\nDevocional “Hombres Nuevos”
+        \nhttp://pacto2021.org/sistema/data/files/Guia%20Devocional.pdf
+        \n\n\n<u>Devocionales bíblicos sobre masculinidades</u>
+        \n\nLa masculinidad no hegemónica de Jesús:
+        \nhttps://eleremita.lamula.pe/2019/12/05/genero-y-biblia-i-la-masculinidad-no-hegemonica-de-jesus/eleremita/
+        \n\nLas emociones masculinas de Jesús:
+        \nhttps://eleremita.lamula.pe/2019/10/06/genero-y-biblia-ii-las-emociones-masculinas-de-jesus/eleremita/
+        \n\nJacob y la masculinidad trastocada:
+        \nhttps://eleremita.lamula.pe/2019/10/06/genero-y-biblia-iii-jacob-y-la-masculinidad-trastocada/eleremita/
+        \n\nEl orgullo masculino de Naamán:
+        \nhttps://eleremita.lamula.pe/2019/10/23/genero-y-biblia-iv-el-orgullo-masculino-de-naaman/eleremita/
+        \n\nMasculinidad no hegemónica en el Cantar de los Cantares:
+        \nhttps://eleremita.lamula.pe/2019/12/05/genero-y-biblia-v-masculinidad-no-hegemonica-en-el-cantar-de-los-cantares/eleremita/
+        \n\nMasculinidad y cultura de violación:
+        \nhttps://eleremita.lamula.pe/2019/12/05/genero-y-biblia-vi/eleremita/
+        \n\n\nAsuero y el uso despótico del poder:
+        \nhttps://eleremita.lamula.pe/2019/12/05/genero-y-biblia-vii-asuero-y-el-uso-despotico-del-poder/eleremita/
+        \n\nDiez razones por las que los evangélicos deberíamos dejar de hablar de “ideología de
+        género”
+        \nhttps://eleremita.lamula.pe/2018/10/01/diez-razones-por-las-que-los-evangelicos-deberiamos-de-hablar-de-ideologia-de-genero/eleremita/
+        \n\nGuía “Todo lo que siempre quisiste saber sobre la 'Ideología de Género'”
+        \nhttp://www.gemrip.org/wp-content/uploads/2019/11/Folleto-Ideolog%C3%ADa-de-G%C3%A9nero-ligero.pdf
+    </string>
+    <string name="b6_4text">Guía “La fe no abusa”
+        \nhttp://institutopaz.net/recursos/la-fe-no-abusa-guia</string>
+    <string name="b6_5text">Ecuador
+        \nhttp://institutopaz.net/recursos/manual-victimas-violencia-familiar
+        \n\nPerú</string>
+<!--    TODO: más recursos para esta sección de 'ruta de la denuncia'?-->
+
+    //b7
+    <string name="b7_0text">Es indispensable que todo creyente, en especial los agentes pastorales
+        y los líderes de iglesias, tengan un conocimiento básico sobre cómo denunciar los casos de
+        violencia. En este módulo aprenderás por qué es necesario denunciar, que acciones deberás
+        realizar en el marco de una denuncia, cómo deberás preparar a la iglesia para que acompañe
+        a una víctima de violencia y cuáles son los mecanismos legales para denunciar.</string>
+    <string name="b7_1text"><b><i>Para garantizar el bienestar de la víctima</i></b>
+        \nEl evangelio no solo es predicar a Buena Nueva, sino también realizar acciones que
+        permiten liberar a las personas de cualquier tipo de opresión física y espiritual (Mt 4:23;
+        9:35; Lc 4:16:21; 7:18-23). Ello también comprender la violencia. Así pues, es necesario
+        comprender que una denuncia no solo tiene efectos legales o sancionadores hacia los
+        agresores. La denuncia posee, además, diversos efectos en beneficio de la víctima:
+        \n\n&#8226; Permite tomar conciencia de la violencia que está siendo ejercida.
+        \n&#8226; Permite un tratamiento oportuno de las víctimas, que lleve a su restauración.
+        \n&#8226; Conseguir justicia también tiene un efecto terapéutico para la víctima. Ayuda a
+        que esta pueda recuperar la confianza en Dios, en las personas que la rodean y en las
+        instituciones de las que es parte.
+        \n\n<b><i>Para impedir el daño a otras personas</i></b>
+        \nAl denunciar impedimos que los agresores sigan cometiendo estos abusos y, por lo tanto,
+        es posible que podamos salvar a otras personas. La búsqueda de una sanción es legítima y,
+        desde una perspectiva cristiana, no se encuentra motivada por los sentimientos de odio,
+        resentimiento y venganza. Jesús mismo nos incitó a trabajar por la paz y a tener hambre y
+        sed de justicia. Isaías dice que: “La paz es el efecto de la justicia” (Is 32:17). En el
+        caso de los niños y niñas violentados, no debemos olvidar la indignación que el propio
+        Jesús mostró frente a quienes hacen daño a los “pequeñitos” (tanto en un sentido material
+        como espiritual: Mc 9:42). Finalmente, los deberes cristianos que nos exhortan a visitar a
+        los presos (Heb 13:3) nos recuerdan que también debemos orar y procurar la restauración de
+        los agresores, aunque ello no implica que lo que hayan hecho deba quedar impune. El perdón
+        no es posible sin arrepentimiento (Lc 17:3) y es posible identificar el arrepentimiento
+        cuando hay indignación, temor, anhelo, preocupación y disposición para que se haga justicia
+        (2 Co 7:11).</string>
+    <string name="b7_2text"></string>
+<!--    TODO: make table with the mito/verdad section-->
+    <string name="b7_3text">El texto de 1 Co 6:1-11 podría interpretarse como una especie de
+        prohibición a los cristianos de recurrir a los tribunales públicos en busca de justicia.
+        ¿Es correcta esta interpretación? ¿Podría utilizarse este pasaje para que los creyentes no
+        denuncien los casos de violencia que ocurren en la iglesia o en sus propias familias?
+        \n\nAl examinar el pasaje con detenimiento nos daremos cuenta de que no es así. Este pasaje
+        no puede ser utilizado como una excusa para no denunciar. Veamos por qué. En primer lugar,
+        no es posible inferir de este pasaje una regla que nos indique que no debemos recurrir a
+        los tribunales públicos, por el sencillo hecho de que el Nuevo Testamento nos muestra que
+        resulta válido recurrir a ellos, como así lo hizo el mismo apóstol Pablo (Hech 16:36-39;
+        22:25-29; 25:10-12).
+        \n\nEn segundo lugar, hay que señalar que el énfasis en este pasaje para no ir a los
+        tribunales es de carácter moral. La iglesia de Corinto manifiesta tener muchos “pleitos” (1
+        Co 6:7), lo que genera la reprensión del apóstol. La enseñanza central, más que la de no
+        recurrir a los tribunales foráneos, es la de advertir que la conducta de los cristianos
+        debe ser a tal punto moral que no es necesario que estos recurran a los tribunales externos
+        para poder ponerse de acuerdo (compárese este texto con Lc 12:13-15).
+        \n\nEn tercer lugar, hay que tomar en cuenta el contexto de la época. En aquellos tiempos
+        existían diversos lugares para afrontar los litigios. Por un lado estaban los tribunales
+        paganos. Por otro lado estaban los tribunales judíos. Siendo así, parece razonable que el
+        apóstol inste a los cristianos a crear su propia jurisdicción. De hecho, así aconteció
+        durante los primeros siglos del cristianismo, en que los cristianos contaron con jueces
+        propios para garantizar la unidad, castigar el pecado y resolver los conflictos al interior
+        de la propia comunidad. No obstante, este contexto ha cambiado. Hoy por hoy, que habitamos
+        en sociedades democráticas, la jurisdicción es una sola, en la medida que se nos aplica una
+        única legislación y un mismo Sistema de justiciar a creyentes y no creyentes. En
+        consecuencia, si bien resulta válido que los cristianos resuelvan sus conflictos al
+        interior de sus comunidades, rehuir la justicia ordinaria no parece recomendable, ya que
+        ello fomenta la impunidad y la repetición de conductas indeseables.
+        \n\nEn cuarto lugar, no hay que olvidar que la violencia familiar constituye un delito,
+        esto es, uno de los actos más perjudiciales para la dignidad e integridad de las personas
+        en nuestra sociedad. En ese sentido, el riesgo de “resolver” en la iglesia una controversia
+        sobre violencia familiar es bastante alto, pues la iglesia no dispone del uso de la fuerza
+        para hacer cumplir sus dictámenes como sí es el caso del Poder Judicial.
+        \n\nPor último, debemos recorder que, por lo general, las iglesias de nuestro medio no
+        tienen la práctica ni la experiencia en resolver litigios de diversa índole, lo que no solo
+        exigiría un conocimiento especializado, sino también un gran esfuerzo por establecer
+        procedimientos para determinar la verdad de los hechos, algo con lo que sí cuenta la
+        justicia ordinaria.</string>
+    <string name="b7_4text">Cada país tienes sus propios mecanismos de denuncia de la violencia. Es
+        importante que los miembros de la iglesia sepan a qué lugares acudir para interponer una
+        denuncia. Asimismo, cada país tiene una línea de emergencia en casos de violencia familiar
+        y violencia de género. Es bueno que los creyentes de la congregación conozcan ese número
+        telefónico. En este apartado encontrarás una ruta de la denuncia que puede ser aplicable a
+        cualquier país.
+        \n\n<b>PASO 1: ¿Quién denuncia y cómo se denuncia?</b>
+        \n\nLa mayoría de países latinoamericanos establecen leyes bastante flexibles para denunciar
+        la violencia familiar. Por lo general la denuncia puede hacerla cualquier persona sin
+        importar que conozca o no a la víctima.
+        \n\nLas leyes suelen también ser muy flexibles en cuanto a los requisitos para denunciar.
+        Por lo general la denuncia puede hacerse por escrito o verbalmente, y sin necesidad de
+        presentar el documento de identidad. Tampoco se suele necesitar abogado, pago alguno o
+        formalidad alguna.
+        \n\n<b>Algunas recomendaciones:</b>
+        \n&#8226; Es importante tener identificado el nombre del agresor.
+        \n\n<b>PASO 2: ¿Dónde denunciar?</b>
+        \n\nEn la mayoría de países las denuncias por violencia se realizan en las Comisarías, pero
+        es posible que también puedan realizarse en los juzgados o fiscalías. Existen también
+        instituciones del Estado que pueden orientar a la víctima para denunciar. La iglesia debe
+        tener un directorio con los teléfonos y direcciones de las instituciones más cercanas a fin
+        de ayudar a la víctima a plantear la denuncia.
+        \n\n<b>Algunas recomendaciones:</b>
+        \n&#8226; <b>Buscar ayuda inmediata.</b> No espere para denunciar. Recurra lo antes posible
+        a las instituciones encargadas de atender la denuncia. La víctima debe evitar el
+        aislamiento.
+        \n&#8226;<b>Acompañar a la víctima en todo momento.</b> No permita que esta esté sola y
+        provéale de un lugar donde pueda refugiarse lejos de su agresor. La iglesia puede designar
+        a personas responsables que acompañen a las víctimas para interponer la denuncia en casos
+        de emergencia.
+        \n&#8226; <b>Si va al hospital, exija el certificado.</b> Si la condición de la víctima es
+        muy grave (por ejemplo, se encuentra inconsciente, padece muchísimo dolor o está sangrando)
+        vaya a un Hospital público inmediatamente. Exija que el Hospital emita los
+        <b>certificados</b> correspondientes de calificación del daño físico y psíquico de la
+        víctima. Recuerde que estos certificados valen como pruebas en el proceso de denuncia.
+        \n&#8226; <b>Proteja las evidencias del maltrato.</b> Si se trata de abuso sexual, la
+        víctima no debe bañarse, pues eso podría eliminar las evidencias del abuso. Por esta razón,
+        debe ir de inmediato al Hospital o a presentar la denuncia.
+        \n&#8226; <b>Tenga un directorio a la mano.</b> La víctima y los agentes pastorales o
+        miembros de la iglesia deben conocer la dirección de las instituciones que brindan ayuda y
+        reciben la denuncia. Conviene también conocer la ubicación de las casas refugio, si las
+        hubiere.
+        \n&#8226; <b>Si la víctima escapa</b>, que trate de huir con sus hijos, pues pueden ser
+        utilizados para el chantaje emocional. Sin embargo, en caso de huir de un episodio violento,
+        no debe volver por sus hijos, pues se expone al maltrato por parte del agresor. Debe buscar
+        ayuda inmediatamente.
+        \n&#8226; <b>Identifica al agresor.</b> Conviene averiguar, por lo menos, el nombre completo
+        del agresor.
+        \n&#8226; <b>En caso de una violación</b>, considere la utilización de la anticoncepción
+        oral de emergencia, a fin de evitar un embarazo no deseado (la píldora no es abortiva).
+        \n\n<b>PASO 3: Levantamiento de la denuncia</b>
+        \n\nA la hora de denunciar la víctima debe ser lo más detallista posible. Es importante que
+        ella esté acompañada. Es importante que la víctima brinde su declaración una única vez.
+        \n\n<b>Algunas recomendaciones:</b>
+        \n&#8226; Es importante informar a la víctima de todo el proceso que pasará de antemano.
+        \n&#8226; Verificar si el informe policial recoge todo lo que la víctima ha dicho.
+        \n&#8226; Al momento de dar el testimonio para la denuncia no olvidar decir datos exactos
+        como: fecha, hora, lugar de la agresión, en qué parte del cuerpo fue la agresión, cómo o
+        con qué objeto ocurrió y si hubo armas. Hablar absolutamente de todos los daños que presente
+        el cuerpo, hablar de la ayuda que le hayan prestado los vecinos, conocidos, si ha visto al
+        médico, amenazas que hizo el agresor, daños a la vivienda, historia de golpes anteriores,
+        nombrar a quienes presenciaron la escena, denuncias anteriores a la policía y atenciones
+        médicas anteriores.
+        \n&#8226;En caso la autoridad se niegue a recibir la denuncia es importante denunciar este
+        hecho e ir a otra Comisaría.
+        \n\n<b>PASO 4: Audiencia y medidas de protección</b>
+        \n\nLa investigación policial será analizada por un Juez. Este dictará medidas de protección
+        para la víctima. Es posible que el agresor no respete lo dictado por el juez.
+        \n\n<b>Algunas recomendaciones:</b>
+        \n&#8226;Durante el proceso, la víctima no debe acudir a ninguna cita o encuentro que le
+        proponga la persona agresora porque pone su vida en peligro.
+        \n&#8226; Es necesario brindar acompañamiento a la víctima para su concurrencia a la
+        audiencia.
+        \n&#8226; En ocasiones, la atención psicológica para la víctima por parte del Estado demora
+        mucho. Por tanto, la iglesia debe pensar en contratar un psicólogo privado para la víctima
+        a fin de que pueda ser atendida oportunamente.
+        \n&#8226; No olvidar que puede pedirse al juez que ordene al centro de labores de la
+        víctima la concesión de una licencia de trabajo (véase el final del apartado 2 del presente
+        capítulo).
+        \n&#8226; Los creyentes encargados del acompañamiento de la víctima deben continuar su
+        labor pastoral incluso después de que el juez dicte sentencia, a fin de ver si esta se
+        cumple o no por la policía.
+        \n&#8226; Cuando las medidas de protección no se cumplen, puede acudirse a la inspectoría
+        de la Policía o a la Defensoría del Pueblo.
+        \n&#8226; Si el agresor no respeta las medidas de protección, los agentes pastorales pueden
+        denunciarlo ante la comisaría o ante la Fiscalía por el delito de resistencia o
+        desobediencia a la autoridad.</string>
+    <string name="b7_5text"><b><u>ANTES DE LA DENUNCIA</u>: ¿de qué manera los pastores, líderes y
+        creyentes pueden estar preparados para prevenir los casos de violencia?</b>
+        \n\n<b>Reconociendo que el problema puede ocurrir en la vida de los creyentes</b>
+        \nTodos y todas somos hijos e hijas de una cultura violenta y hemos, sin desearlo así,
+        internalizado las conductas violentas de alguna u otra manera, en especial aquellos que han
+        tenido un trasfondo familiar violento. Tomar consciencia de ello puede ayudarnos a admitir
+        que la violencia es más común de lo que creemos y que, incluso los líderes y pastores,
+        pueden estar lidiando con comportamientos o conductas violentas.
+        \n\n<b>Concientizando y sensibilizando a otros sobre el problema de la violencia</b>
+        \nLa violencia familiar, la violencia sexual y la violencia de género son problemas muy
+        extendidos en nuestro país. Lamentablemente, no todas las iglesias tienen protocolos y
+        políticas de protección para saber qué hacer en este tipo de casos. Un buen comienzo es
+        informándonos y procurando capacitara la iglesia al menos una vez al año en temas de
+        prevención y atención de la violencia. Para ello, es importante que la iglesia pueda tener
+        una red de contactos con instituciones especializadas en el tema que puedan brindarles
+        información y capacitación.
+        \n\n<b>Aceptando nuestra ignorancia en pocos o muchos aspectos</b>
+        \nNo basta una comprensión intuitiva del fenómeno de la violencia, pues se trata de un
+        problema complejo. En ese sentido, la espiritualidad y la teología deben complementarse con
+        otras disciplinas y saberes como la psicología, la sociología, el derecho, etc., para poder
+        combatirla. Esto significa que los agentes pastorales deben apoyarse en profesionales
+        aliados (psicólogos, médicos, abogados etc.) que puedan tratar estos casos dentro de la
+        congregación. Es posible designar una brigada en la iglesia que pueda atender los casos de
+        violencia cuando estos ocurran.
+        \n\n<b>Estableciendo mecanismos de protección en nuestras congregaciones</b>
+        \nEs importante que la iglesia tenga protocolos de acción en casos de violencia. De igual
+        modo, una buena idea es designar personas de la congregación que, estando capacitadas en
+        los temas de violencia, puedan apoyar a las víctimas, acompañándolas a denunciar,
+        brindándoles consejería, ofreciéndoles un lugar dónde quedarse, brindándoles soporte
+        económico, etc.
+        \n\n<b><u>FRENTE A UN CASO DE VIOLENCIA</u>: ¿de qué manera los pastores, líderes y
+        creyentes deben tratar a una víctima de violencia?</b>
+        \n\n&#8226; <b>Escuche y crea.</b> Esté dispuesto a escuchar, no importa cuánto tarda en
+        decirlo.
+        \n&#8226; <b>Crea a la víctima.</b> No la contradiga ni se enoje por lo que le diga. Lo
+        importante es establecer un vínculo de confianza con la víctima. No traicione su confianza
+        y mantenga la calma. Ella debe saber que puede hablar francamente y que no corre ningún
+        riesgo al hacerlo.
+        \n&#8226; <b>Muestre genuino interés.</b> La víctima necesita que se preocupe por ella como
+        persona y que realmente sea su amigo.
+        \n&#8226; <b>Sea paciente.</b> No espere que ella avance rápidamente en el proceso de
+        cambio. Si existe peligro inmediato, usted podría ofrecerle hospedaje a la víctima y a las
+        personas que están con ella, hasta encontrarles un lugar seguro.
+        \n&#8226; <b>Anime a la víctima.</b> Ayúdele a entender que tiene opciones y permítale
+        decidir. No le aconseje que permanezca en una situación de violencia que pudiera poner en
+        peligro su vida e integridad.
+        \n&#8226; <b>Ayúdele a una correcta comprensión.</b> Ella no es responsable de la conducta
+        del victimario. Esto debe quedar bien claro para la víctima.
+        \n&#8226; <b>Recuérdele la voluntad de Dios.</b> Él no quiere que él o ella sufra maltrato.
+        Desea que sea tratado con amor y respeto.
+        \n&#8226; <b>Ayúdele a valorarse.</b> A verse a sí mismo como una persona capaz y digna de
+        ser amada.
+        \n&#8226; <b>Reafirme a los familiares de la víctima.</b> En lo que pueda, satisfaga sus
+        necesidades más apremiantes. Ore con ellos.
+        \n&#8226; <b>No le aconseje</b> quedarse en el hogar donde recibe malos tratos.
+        \n&#8226; <b>No pierda la paciencia</b>, juzgue o de consejos apresurados.
+        \n&#8226; <b>No le diga</b> que está loca al permanecer en esa situación.
+        \n&#8226; <b>No diga</b> que, en su lugar, usted no soportaría semejante trato.
+        \n&#8226; <b>No</b> debe intentar hablar con el victimario o confrontarlo.
+        \n&#8226; <b>No intervenga</b> en un episodio de violencia. Llame a la Policía o al número
+        de emergencia pertinente.
+        \n\n<b><u>DURANTE LA DENUNCIA</u>: ¿de qué manera los pastores, líderes y creyentes pueden
+        estar preparados para atender los casos de violencia?</b>
+        \n\n&#8226; Denunciando legalmente la violencia en todas sus formas.
+        \n&#8226; Informar a la víctima sobre los canales y rutas para la denuncia. No obstante,
+        siempre se debe derivar a la persona a los teléfonos de emergencia diseñados para dar dicha
+        información.
+        \n&#8226; Aconsejar a la víctima que no encare al agresor ni mucho menos se contacte con él
+        durante el proceso de denuncia.
+        \n&#8226; La denuncia puede provocar al agresor, por ello es bueno recomendar al denunciante
+        hallar un lugar seguro apartado del agresor.
+        \n&#8226; De tratarse de un caso de violencia que deba ser denunciado, evitar ahondar en
+        detalles del evento violento, ya que la persona deberá declarar lo mismo ante las
+        autoridades (así se evita la revictimización).
+        \n&#8226; Es recomendable tener identificado el nombre completo del agresor.
+        \n&#8226; Es bueno designar a alguien que acompañe a la víctima en estos casos.
+        \n&#8226; Proteger las evidencias del maltrato (por ejemplo, si se trata de una violación,
+        evitar bañarse).
+        \n&#8226; Es mejor si la víctima huye con sus hijos, pero si escapa en medio de un episodio
+        violento no debe volver por ellos.
+        \n&#8226; En caso de una violación, recomendar el uso de la anticoncepción oral de
+        emergencia (no es abortiva).
+        \n&#8226; Es importante que la iglesia, de ser necesario, financie la terapia psicológica
+        de la víctima.
+        \n&#8226; Frente a la demora de los procesos judiciales, podemos desarrollar ministerios de
+        acompañamiento pastoral, consejería y consolación a las víctimas de la violencia.
+        \n&#8226; Frente a la ineficacia de las medidas de protección, podemos desarrollar comités
+        de vigilancia ciudadana dentro de nuestra propia comunidad para que, en coordinación con
+        los vecinos de la zona y las autoridades, podamos identificar a los agresores y denunciarlos
+        para que no vuelvan a cometer violencia contra las víctimas.
+        \n&#8226; Frente a los sentimientos de soledad y miedo de las víctimas, podemos apoyarlas
+        gratuitamente proveyéndoles un lugar donde puedan estar seguras, así como apoyo económico,
+        brindándoles un acompañamiento a lo largo de todo el proceso de denuncia para que no se
+        desanimen y desistan en la denuncia.
+        \n&#8226; Frente al desconocimiento de los servicios del Estado, compartir con la comunidad
+        nuestros conocimientos en prevención y atención de la violencia, difundiendo y utilizando en
+        la práctica los servicios que presta el Estado para con aquellas personas de la comunidad
+        que lo requieran.
+        \n&#8226; La iglesia debe considerar seriamente la posibilidad de desarrollar una labor de
+        acompañamiento con el agresor, sobre todo si este ha sido miembro de la iglesia.</string>
+
+
 
 </resources>

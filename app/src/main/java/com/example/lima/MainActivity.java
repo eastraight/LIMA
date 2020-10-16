@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
     /* Button 1 - La violencia: introducción */
     public void B1Listener(View view) {
-        Intent intent = new Intent(this, B1_0Activity.class);
+        Intent intent = new Intent(this, B1Activity.class);
         startActivity(intent);
         if (transition) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
 
     /* Button 2 - Violencia en la pareja */
     public void B2Listener(View view) {
-        Intent intent = new Intent(this, B1_1Activity.class);
+        Intent intent = new Intent(this, B2Activity.class);
         startActivity(intent);
         if (transition) {
             this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);

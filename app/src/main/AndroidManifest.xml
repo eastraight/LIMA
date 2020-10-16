@@ -49,14 +49,6 @@
             android:label="@string/button1"
             android:parentActivityName=".MainActivity" />
         <activity
-            android:name=".B1_0Activity"
-            android:label="@string/b1_Menu1"
-            android:parentActivityName=".MainActivity" />
-        <activity
-            android:name=".B1_1Activity"
-            android:label="@string/b1_Menu2"
-            android:parentActivityName=".MainActivity" />
-        <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />

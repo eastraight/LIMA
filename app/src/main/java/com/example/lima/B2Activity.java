@@ -88,16 +88,11 @@ public class B2Activity extends AppCompatActivity implements View.OnClickListene
             }
 
             @Override
-            public void onAnimationStart(Animator animator) {
-            }
-
+            public void onAnimationStart(Animator animator) {}
             @Override
-            public void onAnimationCancel(Animator animator) {
-            }
-
+            public void onAnimationCancel(Animator animator) {}
             @Override
-            public void onAnimationRepeat(Animator animator) {
-            }
+            public void onAnimationRepeat(Animator animator) {}
         });
         mAnimator.start();
     }

@@ -24,7 +24,6 @@
     <string name="button8">[otro]</string>
 
     <!--    Section titles-->
-
     <string name="b1_1">Lo que la violencia no es</string>
     <string name="b1_2">El concepto de violencia</string>
     <string name="b1_3">Tipos de violencia</string>
@@ -70,50 +69,21 @@
         violencia</string>
     <string name="b7_6">Evaluación</string>
 
-
-    <!--    Submenus-->
-    <string name="b1_Menu1">¿Qué es la violencia?</string>
-    <string name="b1_Menu2">Violencia en la pareja</string>
-    <string name="b1_Menu3">Violencia de género</string>
-    <string name="b1_Menu4">Abuso infantil</string>
-    <string name="b1_Menu5">Evaluación</string>
-
-    <string name="SCMenu1">¿Cómo solucionar los conflictos?</string>
-    <string name="SCMenu2">Control de emociones</string>
-
-    <string name="CPMenu1">Objetivos a largo plazo</string>
-    <string name="CPMenu2">Calidez y estructura</string>
-    <string name="CPMenu3">Etapas de desarrollo de los niños y niñas</string>
-    <string name="CPMenu4">Soluciones prácticas</string>
-
-    <string name="RBMenu1">Noviazgo/matrimonio</string>
-    <string name="RBMenu2">Crianza sin violencia</string>
-    <string name="RBMenu3">Biblia, teológia y enfoque de género</string>
-    <string name="RBMenu4">Protocolos contra el abuso sexual\nen la iglesia</string>
-    <string name="RBMenu5">Abuso espiritual</string>
-
-    <string name="DMenu1">Ruta de la denucia</string>
-    <string name="DMenu2">Recomendaciones pastorales</string>
-    <string name="DMenu3">Contactos de emergencia</string>
-    <string name="DMenu4">Botón de pánico</string>
-
-    <string name="PMenu1">Testimonios</string>
-    <string name="PMenu2">Videos</string>
-    <string name="PMenu3">Violencia en la iglesia</string>
-
-    <string name="AMenu1">Test de violencia familiar</string>
-    <string name="AMenu2">Test de violencia en la pareja</string>
-    <string name="AMenu3">Test de maltrato infantil</string>
-    <string name="AMenu4">Test de violencia de género</string>
-    <string name="AMenu5">Test de abuso espiritual</string>
-
-
+<!--    TODO: make font size adjustable in the seven activities-->
+<!--    TODO: figure out how to make hyperlinks work-->
     <!--    Text-->
+
+<!--    Note about tables:-->
+<!--    Table elements are named with button#, layout#, and then COLUMN#, ROW#-->
+<!--    For example, b1_3T21 is the second element on the top row of the third part of button 1-->
+<!--    When there is more than one table in a layout, the elements in the second will have "TT"-->
+
     <!--    b1-->
     <string name="b1_0text">La violencia no es algo que ocurre solo en las noticias. Es más frecuente
         de lo que creemos. Sin embargo, para combatirla es necesario saber identificarla. En esta
         sesión aprenderás qué es la violencia, cómo ella actúa en las relaciones familiares, qué
         nos dice la Biblia sobre ella y algunos consejos pastorales para combatirla.</string>
+
     <string name="b1_1text">La violencia <b><u>no es</u></b> una cuestión de <b>percepción</b>. Es un
         error pensar que la violencia es un concepto relativo, que depende de la percepción o
         susceptibilidad de las personas. De ser así, para unos gritar sería solo “alzar la voz”, o
@@ -123,6 +93,7 @@
         esposo que intenta golpearla. Solo por haberlo arañado no puede decirse que ella fue
         violencia. Hay que tener cuidado de no culpabilizar a la víctima. Usar la fuerza en defensa
         propia no es violencia, sino <b>agresión</b>.</string>
+
     <string name="b1_2text">La violencia es toda conducta que <b><u>daña</u></b> o amenaza con dañar a
         otras personas a través del <b><u>abuso de poder</u></b>.
         \n\nExiste daño cuando limitamos cualquier cosa que las personas son capaces de hacer. Por
@@ -138,10 +109,12 @@
         posibilidad de sentir, pensar o decidir sobre
         \n\nEs importante que como agentes pastorales aprendamos no solo a identificar el daño en
         las víctimas, sino también el abuso de poder de los agresores.</string>
+
     <string name="b1_3text">Saber que la violencia es un daño y un abuso de poder nos capacita para
         identificar cualquier tipo de conducta violenta. Sin embargo, los “tipos de violencia” son
         clasificaciones útiles que nos ayudan a identificar las violencias más cotidianas, sobre
         todo en el ámbito de la familia.</string>
+    <!--    b1_3table-->
     <string name="b1_3T11">Física</string>
     <string name="b1_3T12">Psicológica</string>
     <string name="b1_3T13">Sexual</string>
@@ -165,14 +138,16 @@
         permiten satisfacer sus necesidades. Por ejemplo: no apoyar económicamente el hogar,
         restringir el acceso al dinero o a las cuentas, destruir los bienes materiales de la otra
         persona, etc.</string>
+    <!--    /b1_3table-->
+
     <string name="b1_4text">¿Qué dice la Biblia sobre el concepto de violencia?\n\n
         En las Escrituras se establece el deber de amar al prójimo lo que implica, entre otras
         cosas, el deber de <b>no dañarlo</b>:
-        \n\n“No debáis a nadie nada, sino el amaros unos a otros; porque el que ama al prójimo, ha
-        cumplido la ley. Porque: No adulterarás, no matarás, no hurtarás, no dirás falso testimonio,
-        no codiciarás, y cualquier otro mandamiento, en esta sentencia se resume: Amarás a tu
-        prójimo como a ti mismo. El amor no hace mal al prójimo; así que el cumplimiento de la ley
-        es el amor.” (Romanos 13:8-10).
+        \n\n“<i>No debáis a nadie nada, sino el amaros unos a otros; porque el que ama al prójimo,
+        ha cumplido la ley. Porque: No adulterarás, no matarás, no hurtarás, no dirás falso
+        testimonio, no codiciarás, y cualquier otro mandamiento, en esta sentencia se resume: Amarás
+        a tu prójimo como a ti mismo. El amor no hace mal al prójimo; así que el cumplimiento de la
+        ley es el amor.</i>” (Romanos 13:8-10).
         \n\nAdemás, en la Biblia, específicamente en el Antiguo Testamento, la violencia es
         concebida como un abuso de poder. La palabra hebrea que en nuestras Biblias se traduce como
         “violencia” es “JâMâS” (que aparece 60 veces en el AT). Lo interesante es que siempre que el
@@ -183,6 +158,7 @@
         los poderosos
         \n\nPor tanto, la Biblia está de acuerdo con definir la violencia como un daño y como un
         abuso de poder.</string>
+
     <string name="b1_5text"><b>Recomendaciones para la consejería pastoral:</b>
         \n\nLas consejerías por conflictos familiares son frecuentes en la labor pastoral. En estos
         casos, es importante indagar si en la relación familiar existe violencia (daño y abuso de
@@ -228,18 +204,19 @@
         miembros.
         \n&#8226; Realizar campañas de información y prevención sobre la violencia familiar a la
         comunidad.</string>
-    <string name="b1_6text">Caso 1
-        \n\n“<i>La violencia está presente cuando los seres humanos <b>se ven influidos</b> de tal
-         manera que sus realizaciones efectivas, somáticas y mentales, están <b>por debajo de sus
-         realizaciones potenciales</b></i>” (Galtung 1985).
-        \n\n“<i>El uso deliberado de la fuerza física o el <b>poder</b>, ya sea en grado de amenaza
-         o efectivo, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas
-         probabilidades de <b>causar lesiones, muerte, daños psicológicos, trastornos del desarrollo
-         o privaciones</b></i>” (OMS 2002).
-        \n\n“<i>Cualquier acción o conducta que le <b>causa muerte, daño o sufrimiento físico,
-        sexual o psicológico</b> y que se produce en el contexto de una <b>relación de
-        responsabilidad, confianza o poder</b>, de parte de un integrante a otro del grupo
-        familiar</i>” (Ley N° 30364).</string>
+<!--    <string name="b1_6text">Caso 1-->
+<!--        \n\n“<i>La violencia está presente cuando los seres humanos <b>se ven influidos</b> de tal-->
+<!--         manera que sus realizaciones efectivas, somáticas y mentales, están <b>por debajo de sus-->
+<!--         realizaciones potenciales</b></i>” (Galtung 1985).-->
+<!--        \n\n“<i>El uso deliberado de la fuerza física o el <b>poder</b>, ya sea en grado de amenaza-->
+<!--         o efectivo, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas-->
+<!--         probabilidades de <b>causar lesiones, muerte, daños psicológicos, trastornos del desarrollo-->
+<!--         o privaciones</b></i>” (OMS 2002).-->
+<!--        \n\n“<i>Cualquier acción o conducta que le <b>causa muerte, daño o sufrimiento físico,-->
+<!--        sexual o psicológico</b> y que se produce en el contexto de una <b>relación de-->
+<!--        responsabilidad, confianza o poder</b>, de parte de un integrante a otro del grupo-->
+<!--        familiar</i>” (Ley N° 30364).</string>-->
+
     <!--    b2-->
     <string name="b2_0text">Esta lección abordará la violencia dentro de las relaciones de pareja. Para
         ello, nos aproximaremos a un concepto básico que, desde la psicología, explica la dinámica
@@ -247,6 +224,7 @@
         ofrecerán algunos aportes bíblicos y teológicos sobre las relaciones conyugales. Finalmente,
         se formularán recomendaciones para la prevención y atención de la violencia en y desde las
         comunidades de fe.</string>
+
     <string name="b2_1text">Es importante distinguir entre los conflictos familiares y la violencia.
         La distinción es importante porque los consejos que demos serán distintos en cada caso:
         <b>en caso de conflicto</b>, será necesario orientar a la persona con las <b>estrategias
@@ -254,6 +232,7 @@
         violencia</b>, deberás ayudar a la persona a poder <b>identificarla</b> y darle la opción de
         <b>denunciarla</b> (ver apartados 3 al 10). Debemos considerar, además, que a veces un
         conflicto mal llevado puede llevar a conductas violentas.</string>
+    <!--    b2_1table-->
     <string name="b2_1T11">Conflictos</string>
     <string name="b2_1T12">Son parte de la vida</string>
     <string name="b2_1T13">Es una oportunidad para fortalecer nuestros lazos familiares y cambiar
@@ -268,11 +247,14 @@
     <string name="b2_1T24">Debe siempre evitarse</string>
     <string name="b2_1T25">No toma en cuenta la autonomía de la otra persona</string>
     <string name="b2_1T26">Siempre se debe denunciar</string>
+    <!--    /b2_1table-->
+
     <string name="b2_2text">Existen relaciones de pareja en el que las conductas violentas no se dan
         de manera ocasional, sino de manera permanente. En estos casos, el concepto psicológico de
         “ciclo de la violencia” resulta útil para comprender la dinámica de la violencia en las
         relaciones de pareja. Este es un ciclo de tres pasos: 1) acumulación de la tensión, 2)
         episodio violento, 3) Luna de miel.</string>
+
     <string name="b2_3text">De acuerdo a los resultados de la investigación Dentro de las cuatro
         paredes (Paz y Esperanza, 2014), aproximadamente el 40% de la población evangélica en el Perú
         considera que no hay violencia en sushogares. Sin embargo, ello contrasta con la realidad de
@@ -322,6 +304,8 @@
         utilizados por las iglesias para la formación de los creyentes. De ahí la urgencia por
         volver a los fundamentos y examinar con mayor profundidad lo que dice la Biblia acerca de la
         relación hombre-mujer dentro del matrimonio.</string>
+
+<!--    TODO: finish button2-->
     <string name="b2_4text">b1_14</string>
     <string name="b2_5text">b1_15</string>
     <string name="b2_6text">b1_16</string>
@@ -330,6 +314,7 @@
     <string name="b3_0text">En esta lección abordaremos la violencia <b>la violencia ejercida
         contra los niños y niñas</b>, para la cual se ofrecerán también pautas para su prevención y
         atención.</string>
+
     <string name="b3_1text"><b>a. Adultocentrismo</b>
         \n\nLos adultos solemos tener ciertas expectativas sobre el comportamiento de los niños y
         niñas. Esperamos que ellos “obedezcan”, “se porten bien”, “estén tranquilos”, “no hagan
@@ -351,9 +336,8 @@
         etapa más avanzada del desarrollo, los niños también tienen madurez, conocimiento y
         experiencia de acuerdo a la edad en la que se encuentran y que debemos tomar en cuenta en
         nuestro trato con ellos.</string>
-    <!--    TODO: add lil text box thing-->
-    <string name="b3_text2"><b>Los niños y el Reino de Dios</b>
-        \n\n<i>Yendo más allá de la igualdad entre adultos y niños, el evangelio coloca a los niños
+    <string name="b3_1text2"><b>Los niños y el Reino de Dios</b>
+        \n<i>Yendo más allá de la igualdad entre adultos y niños, el evangelio coloca a los niños
         como ejemplo de humildad y sensibilidad para el mundo adulto. Jesús pone al niño en medio de
         sus discípulos y lo pone como ejemplo para entrar al reino de los cielos (Mt 18:1-5).
         Estamos frente a un paradigma que exige de nosotros, los adultos, aprender de los niños y
@@ -368,6 +352,7 @@
         \n\nComo podemos advertir, el castigo no hace que los niños y niñas ejerciten su propio
         discernimiento y autonomía, sino que les enseña a comportarse por miedo a una conducta
         externa (miedo a la sanción o al dolor).</string>
+
     <string name="b3_2text">Diversos estudios que demuestran que el castigo físico, aún en su
         aplicación moderada, es ineficaz o puede resultar perjudicial:
         \n\na. Todo castigo físico, por “suave” o “leve” que sea, conlleva en sí el riesgo de ir a
@@ -407,11 +392,59 @@
         adolescentes se dan en el hogar y son cometidos por alguna persona de confianza.
         \n\nPor tanto, es necesario tomar en cuenta los mitos y verdades sobre el abuso
         sexual:</string>
-    <!--    TODO: insert table-->
+    <!--    b3_3table-->
+    <string name="b3_3T11"><b>FALSO</b></string>
+    <string name="b3_3T12">No son frecuentes</string>
+    <string name="b3_3T13">Los agresores son enfermos mentales</string>
+    <string name="b3_3T14">Los abusadores son gente desconocida</string>
+    <string name="b3_3T15">Ellas son las que provocan o buscan al agresor.</string>
+    <string name="b3_3T16">El incesto ocurre en familias desestructuradas o pobres</string>
+    <string name="b3_3T17">No ocurre en familias cristianas ni en la iglesia.</string>
+    <string name="b3_3T18">Son inventos o calumnias de los menores.</string>
+    <string name="b3_3T19">No es necesaria la ayuda de profesionales, pues Cristo sana todas
+        nuestras dolencias</string>
+    <string name="b3_3T21"><b>VERDADERO</b></string>
+    <string name="b3_3T22">Son más frecuentes de lo que suponemos</string>
+    <string name="b3_3T23">Los agresores son gente aparentemente normal</string>
+    <string name="b3_3T24">La mayoría de abusadores son conocidas</string>
+    <string name="b3_3T25">El abuso sexual ocurre independientemente de la forma de vestir.</string>
+    <string name="b3_3T26">El incesto ocurre en todos los tipos de familia y clase social.</string>
+    <string name="b3_3T27">En varios casos detectados los autores confesaron ser cristianos.</string>
+    <string name="b3_3T28">Pocas veces los niños y niñas inventan este tipo de historias</string>
+    <string name="b3_3T29">La intervención interdisciplinaria ha demostrado ser muy beneficiosa,
+        lo que no niega el poder de Dios.</string>
+    <!--    /b3_3table-->
     <string name="b3_3text2">La presencia de alguno de estos síntomas en los niños, niñas o
         adolescentes, podría indicar que haya sufrido abuso sexual. Los síntomas que están en
         negritas indican en un alto porcentaje la probabilidad de abuso sexual:</string>
-    <!--    TODO: insert table-->
+    <!--    b3_3table2-->
+    <string name="b3_3TT11"><b>Niños menores de 5 años</b></string>
+    <string name="b3_3TT12">&#8226; Cambios notorios del sueño.
+        \n&#8226; Tiene pesadillas repetidas, trastornos nocturnos.
+        \n&#8226; Pérdida de apetito.
+        \n&#8226; Regresión en su comportamiento (moja la cama o se chupa el dedo).
+        \n&#8226; Temor a estar con adultos.
+        \n&#8226; Se observa juegos sexuales hacia otros niños.
+        \n&#8226; <b>Enrojecimiento e infección en la zona genital.</b></string>
+    <string name="b3_3TT21"><b>Niños de 6 a 12 años</b></string>
+    <string name="b3_3TT22">&#8226; Baja autoestima.
+        \n&#8226; Repentina baja en su rendimiento escolar.
+        \n&#8226; Se comporta agresivamente o quiere estar solo.
+        \n&#8226; Habla de sí mismo negativamente.
+        \n&#8226; Muestra temor a personas extrañas o deseo de estar con una persona en particular.
+        \n&#8226; Erupciones, vómitos, dolor de cabeza, todos ellos sin explicación médica.
+        \n&#8226; <b>Dolores en el área genital.</b>
+        \n&#8226; <b>Sangrados o lesiones en la zona genital o anal.</b>
+        \n&#8226; <b>Presencia de enfermedades de transmisión sexual.</b></string>
+    <string name="b3_3TT31"><b>Adolescentes</b></string>
+    <string name="b3_3TT32">&#8226; Baja autoestima.
+        \n&#8226; Mayor interés por temas y juegos sexuales y masturbación constante.
+        \n&#8226; Depresión crónica que puede estar encubierta por constante fatiga o malestar físico.
+        \n&#8226; Baja tolerancia a la frustración.
+        \n&#8226; Es posible que comience a beber licor, fumar o drogarse.
+        \n&#8226; <b>Infecciones urinarias.</b>
+        \n&#8226; <b>Presencia de enfermedades de transmisión sexual.</b></string>
+    <!--    /b3_3table2-->
     <string name="b3_3text3"><b>La importancia de la autoprotección infantil</b>
         \n\nTomar en cuenta a los niños y niñas como personas, bajo el paradigma de los derechos y
         del Reino de Dios, supone reconocer su capacidad para informarse sobre la violencia y
@@ -423,7 +456,7 @@
     <string name="b3_3text4">“La Autoprotección Infantil puede ser definida como la capacidad
         desarrollada por los niños para evitar o disminuir situaciones de riesgo de abuso emocional,
         físico o sexual en la infancia, pasibles de producir un trauma psíquico o perturbaciones
-        psicológicas duraderas" (Diner, 2012).</string>
+        psicológicas duraderas” (Diner, 2012).</string>
     <string name="b3_3text5">A través de clases, charlas o talleres, los niñas y niñas pueden
         aprender cómo autoprotegerse. La enseñanza sobre la autoprotección debe comprender, por lo
         menos, los siguientes contenidos:
@@ -457,6 +490,7 @@
         \n&#x2713; Involucrar a niños, niñas y adolescentes con habilidades artísticas que ayuden a
         plasmar los compromisos tomados, de acuerdo al “lenguaje” de su edad (letreros, dibujos,
         etc.).</string>
+
     <string name="b3_4text">La investigación “<i>Dentro de las cuatro paredes. Evangélicos y
         violencia doméstica en el Perú</i>” (2014) ha demostrado que aproximadamente el 40% de los
         padres y madres evangélicos castiga con vara, correa u otro objeto. Así, se ha reportado que
@@ -506,10 +540,47 @@
         otro tipo de traducción, tal como se señala en el cuadro inferior. Por tanto, la propuesta
         bíblica no está reñida con la propuesta actual, que busca la erradicación del castigo físico
         en nuestras sociedades.</string>
-<!--    TODO: insert table-->
-<!--    TODO: check arrow symbol of following paragraph:-->
+    <!--    b3_4table-->
+    <string name="b3_4T11"><b>Prov. 3:11</b></string>
+    <string name="b3_4T12">No menosprecies, hijo mío, el castigo <b>(<i><u>musar</u></i> –
+        advertencia)</b> de Jehová, Ni te fatigues de su corrección <b>(<i><u>tokekjá</u></i> –
+        reprensión)</b>.</string>
+    <string name="b3_4T21"><b>Prov. 3:12</b></string>
+    <string name="b3_4T22">Porque Jehová al que ama castiga <b>(<i><u>yakákj</u></i> – corrige)</b>,
+        Como el padre al hijo a quien quiere.</string>/
+    <string name="b3_4T31"><b>Prov. 13:24</b></string>
+    <string name="b3_4T32">El que no aplica el castigo <b>(<i><u>shébet</u></i> – cayado)</b>
+        aborrece a su hijo; el que lo ama, lo corrige <b>(<i><u>musar</u></i> – advertencia)</b>
+        a tiempo.</string>
+    <!--    /b3_4table-->
+    <!--    b3_4table2-->
+    <string name="b3_4TT11"><b>Prov. 19:18</b></string>
+    <string name="b3_4TT12">Castiga <b>(<i><u>yasar</u></i> – enseña)</b> a tu hijo en tanto que hay
+        esperanza; Más no se apresure tu alma para destruirlo.</string>
+    <string name="b3_4TT21"><b>Prov. 20:30</b></string>
+    <string name="b3_4TT22">Los azotes que hieren son medicina para el malo, Y el castigo
+        <b>(<i><u>makkah</u></i>)</b> purifica el corazón.</string>
+    <string name="b3_4TT31"><b>Prov. 22:15</b></string>
+    <string name="b3_4TT32">La necedad está ligada al corazón del muchacho, pero la vara
+        <b>(<i><u>shébet</u></i> – cayado)</b> de la corrección <b>(<i><u>musar</u></i> –
+            advertencia)</b> la alejará de él.</string>
+    <!--    /b3_4table2-->
+    <!--    b3_4table3-->
+    <string name="b3_4TTT11"><b>Prov. 23:13-14</b></string>
+    <string name="b3_4TTT12">No rehúses corregir <b>(<i><u>musar</u></i> – advertencia)</b> al
+        muchacho, porque si lo castigas <b>(<i><u>naka</u></i>)</b> con vara
+        <b>(<i><u>shébet</u></i> – cayado)</b>, no morirá. Castígalo <b>(<i><u>naka</u></i>)</b> con
+        la vara <b>(<i><u>shébet</u></i> – cayado)</b> y librarás su alma del SEOL.</string>
+    <string name="b3_4TTT21"><b>Prov. 26:3</b></string>
+    <string name="b3_4TTT22">El látigo para el caballo, el cabestro para el asno, Y la vara
+        <b>(<i><u>shébet</u></i> – cayado)</b> para la espalda del necio.</string>
+    <string name="b3_4TTT31"><b>Prov. 29:15</b></string>
+    <string name="b3_4TTT32">La vara <b>(<i><u>shébet</u></i> – cayado)</b> y la corrección
+        <b>(<i><u>tokekjá</u></i> – reprensión)</b> dan sabiduría; pero el muchacho consentido
+        avergüenza a su madre.</string>
+    <!--    /b3_4table3-->
     <string name="b3_4text2">En Proverbios 3.12, la palabra hebrea que se traduce como castigo
-        es yakákj, cuya “raíz primaria es tener razón”36, lo que nos permite entonces argumentar
+        es <i>yakákj</i>, cuya “raíz primaria es tener razón”36, lo que nos permite entonces argumentar
         que el sentido de esta palabra usada aquí no es tanto el uso del castigo físico sino de
         discutir, exponer razones, cuestionar y hasta condenar (en el sentido de emitir un juicio
         de valor sobre alguna acción o pensamiento expuesto). Una de las traducciones es castigar,
@@ -524,8 +595,8 @@
         antes que castigo, como traducción. El diccionario VINE traduce como: «disciplina» enseñar
         a vivir correctamente en el temor del Señor, para que el sabio aprenda la lección antes de
         que lo tienten y pongan a prueba: «Cuando lo vi, reflexioné sobre ello; miré, y recibí
-        instrucción» (Prov. 24:32 LBA).” (VINE 1999: 193; Chávez 1997: 303).
-        \n\nLa otra palabra que aparece en el texto es shébet, la traducción literal aquí es
+        instrucción» (Prov. 24:32 LBA). (VINE 1999: 193; Chávez 1997: 303).
+        \n\nLa otra palabra que aparece en el texto es <i><b>shébet</b></i>, la traducción literal aquí es
         “Cayado de pastor, vara de instructor, palo, cetro” (Chávez 1997: 601), y la traducción
         figurativa es: castigo, azote, báculo, entre otros (Strong 2002: 427). Dependiendo del
         contexto el autor traduce vara o castigo. Sin embargo, la traducción de vara, puede
@@ -533,17 +604,17 @@
         camino, y no se estaría lejos del propósito del libro de proverbios, que busca, como hemos
         dicho primero convencer, persuadir con argumentos razonables, antes que tomar medidas
         punitivas.
-        \n\nOtra palabra que aparece traducida como castigo es yasár. Se traduce como castigar,
+        \n\nOtra palabra que aparece traducida como castigo es <i><b>yasár</b></i>. Se traduce como castigar,
         literalmente (con golpes) o figurativamente (con palabras); de aquí que la traducción
         también se alterna con instruir: amonestación, azotar, castigar, corregir, dirigir, enseñar,
         escarmentar, lavar, poner (Strong 2002: 427; VINE 1999: 193; Chávez 1997: 229). Como podemos
         ver, dependerá del contexto para usarlo de una u otra forma. Sin embargo, es muy ilustrativo
         que no sea la única interpretación la que se hace desde una mirada punitiva.
-        \n\nOtra palabra es Tokekjá que algunos traducen como castigo figurativamente (por
+        \n\nOtra palabra es <i><b>tokekjá</b></i> que algunos traducen como castigo figurativamente (por
         palabras), también se traduce como corrección, amonestar, argumentar, refutación, prueba
         (incluso en defensa): queja, razonamiento, reprender, reprensión (Strong 2002: 470), con lo
         cual la palabra está haciendo énfasis en que la persona entre en razón.
-        \n\nLa palabra naká traducida como castigar, tiene como raíz primaria; golpear (ligeramente
+        \n\nLa palabra <i><b>naká</b></i> traducida como castigar, tiene como raíz primaria; golpear (ligeramente
         o severamente; literal. o figurativamente): abatir, afligir, asolar, atacar, azotar, azote,
         batir, castigar, causar, combatir, conquistar, cortar, dejar, derribar, derrota, derrotar,
         desbaratar, deshacer, destrozar, destruir, devastar, enclavar, extender, fatigar, golpe,
@@ -554,7 +625,7 @@
         si lo castigas (naka) con vara….”). De otro lado, debemos enfatizar que (naar) muchacho
         también se puede traducir como criado, niño pequeño, joven37. Bien podría estarse refiriendo
         al castigo físico que se impartía al criado de la casa, no necesariamente al hijo.
-        \n\nFinalmente, la palabra makkah, que se también traduce como castigo (Chávez 1997: 316),
+        \n\nFinalmente, la palabra <i><b>makkah</b></i>, que se también traduce como castigo (Chávez 1997: 316),
         así como: golpe; por implicancia, herida; fig. Carnicería, también pestilencia: azote,
         calamidad, castigo, derrota, destrucción, estrago, herida, herir, llaga, matanza, mortandad,
         plaga.
@@ -575,7 +646,7 @@
         Proverbios, entre otros muchos pasajes, nos enseñan que la instrucción (disciplina) es
         prioritaria y más importante que el castigo.</string>
 
-    // b4
+    <!--    b4-->
     <string name="b4_0text">Los conflictos son parte de la vida, más aún en el ámbito de la familia.
         Puesto que los seres humanos tendemos a desarrollar distintas creencias, intereses y
         necesidades, es usual que el impulso por querer vivirlas o satisfacerlas genere acciones y
@@ -590,6 +661,7 @@
         estos conceptos e ideas para aplicarlos a nuestra vida familiar y para ayudar a otras
         familias a ver en sus conflictos cotidianos oportunidades para el crecimiento y no para el
         maltrato.</string>
+
     <string name="b4_1text">A diferencia de la violencia, los conflictos forman parte de la vida
         familiar. Los conflictos aparecen cuando dos o más personas tienen opiniones, intereses y
         necesidades distintas. Si bien podemos ser miembros de una misma familia, tenemos gustos,
@@ -673,6 +745,7 @@
 <!--    TODO: add lil box around this verse:-->
     <string name="b4_1text2"><i>“La blanda respuesta quita la ira; Mas la palabra áspera hace subir
         el furor.” (Proverbios 15:1)</i></string>
+
     <string name="b4_2text"><b>Conflictos frecuentes en la pareja</b>
         \n\nExisten algunos temas que originan conflictos frecuentes en la vida de pareja:
         \n\n<b>Labores del hogar</b>: Pueden generarse discusiones en torno al reparto de las
@@ -723,13 +796,14 @@
         y que la esposa respete a su esposo.”
         \n(Efesios 5:33)</i></string>
 
-    //b5
+    <!--    b5-->
     <string name="b5_0text">El castigo físico es muy común en nuestras sociedades. En muchos casos,
         este es acompañado por la ira y el descontrol, alcanzando niveles violentos en perjuicio
         del desarrollo psíquico, físico y sexual de los niños, niñas y adolescentes.
         \n\nEn esta sesión aprenderemos que la <b>crianza o disciplina positiva</b> es una sana
         alternativa para educar a nuestros hijos e hijas sin golpes. Asimismo, relacionaremos este
         concepto y su puesta en práctica con los valores bíblicos.</string>
+
     <string name="b5_1text">La crianza o disciplina positiva es un concepto que proviene de la
         psicología que nos enseña que podemos educar a nuestros hijos e hijas sin necesidad de
         golpearlos. Como ya hemos visto, decir que no debemos castigar a los niños no significa que
@@ -827,6 +901,7 @@
         control ni se limita a solucionar nuestras vidas solo por un “momento”. Por esta razón,
         nosotros no debemos perder de vista esos objetivos a largo plazo que tenemos hacia nuestros
         hijos, aun cuando estos nos puedan fallar.</string>
+
     <string name="b5_3text">El segundo principio de la disciplina positiva tiene dos elementos:
         <b>calidez</b> y <b>estructura</b>.
         \n\nLa <b>calidez</b> significa que papás y mamás deben brindar siempre un <b>afecto
@@ -910,10 +985,11 @@
         actos. Por ejemplo: si rompió un vaso, debe barrerlo. Si no guarda sus juguetes entonces le
         decimos que la próxima vez solo podrá sacar algunos.</string>
 
-    //b6
+    <!--    b6-->
     <string name="b6_0text">En este módulo hallarás diversos recursos bíblicos (documentales,
         videos, guías, reflexiones, artículos) que te ayudarán a enriquecer lo aprendido en las
         sesiones anteriores.</string>
+
     <string name="b6_1text"><b><u>Videos</u></b>
         \n\nDocumental “Promesas quebrantadas”:
         \nParte 1: https://www.youtube.com/watch?v=oQlPxn1F8Oo&amp;t
@@ -943,6 +1019,7 @@
         \nhttp://institutopaz.net/recursos/manual-victimas-violencia-sexual
         \n\nDevocional sobre violencia familiar
         \nhttp://pacto2021.org/sistema/data/files/Gui%CC%81a%20devocional.pdf</string>
+
     <string name="b6_2text">“Celestino, el principito”
         \nhttps://www.youtube.com/watch?v=wuRk20dBgjM
         \n\n¡No es maña!
@@ -961,6 +1038,7 @@
         \nhttps://www.youtube.com/watch?v=UWrrrHNnSug
         \n\nDevocional “Atrévete a Criar con Amor”
         \nhttp://pacto2021.org/sistema/data/files/Guia%20Devocional%202018.pdf</string>
+
     <string name="b6_3text">Video: “Evangélicos y enfoque de género”
         \nhttps://www.youtube.com/watch?v=EEkyDg3zr8A
         \n\nDevocional “Mujer, imagen y semejanza de Dios”
@@ -988,19 +1066,22 @@
         \n\nGuía “Todo lo que siempre quisiste saber sobre la <i>Ideología de Género</i>”
         \nhttp://www.gemrip.org/wp-content/uploads/2019/11/Folleto-Ideolog%C3%ADa-de-G%C3%A9nero-ligero.pdf
     </string>
+
     <string name="b6_4text">Guía “La fe no abusa”
         \nhttp://institutopaz.net/recursos/la-fe-no-abusa-guia</string>
+
     <string name="b6_5text">Ecuador
         \nhttp://institutopaz.net/recursos/manual-victimas-violencia-familiar
         \n\nPerú</string>
 <!--    TODO: más recursos para esta sección de 'ruta de la denuncia'?-->
 
-    //b7
+    <!--    b7-->
     <string name="b7_0text">Es indispensable que todo creyente, en especial los agentes pastorales
         y los líderes de iglesias, tengan un conocimiento básico sobre cómo denunciar los casos de
         violencia. En este módulo aprenderás por qué es necesario denunciar, que acciones deberás
         realizar en el marco de una denuncia, cómo deberás preparar a la iglesia para que acompañe
         a una víctima de violencia y cuáles son los mecanismos legales para denunciar.</string>
+
     <string name="b7_1text"><b><i>Para garantizar el bienestar de la víctima</i></b>
         \nEl evangelio no solo es predicar a Buena Nueva, sino también realizar acciones que
         permiten liberar a las personas de cualquier tipo de opresión física y espiritual (Mt 4:23;
@@ -1026,8 +1107,10 @@
         no es posible sin arrepentimiento (Lc 17:3) y es posible identificar el arrepentimiento
         cuando hay indignación, temor, anhelo, preocupación y disposición para que se haga justicia
         (2 Co 7:11).</string>
+
     <string name="b7_2text">chart</string>
 <!--    TODO: make table with the mito/verdad section-->
+
     <string name="b7_3text">El texto de 1 Co 6:1-11 podría interpretarse como una especie de
         prohibición a los cristianos de recurrir a los tribunales públicos en busca de justicia.
         ¿Es correcta esta interpretación? ¿Podría utilizarse este pasaje para que los creyentes no
@@ -1066,6 +1149,7 @@
         exigiría un conocimiento especializado, sino también un gran esfuerzo por establecer
         procedimientos para determinar la verdad de los hechos, algo con lo que sí cuenta la
         justicia ordinaria.</string>
+
     <string name="b7_4text">Cada país tienes sus propios mecanismos de denuncia de la violencia. Es
         importante que los miembros de la iglesia sepan a qué lugares acudir para interponer una
         denuncia. Asimismo, cada país tiene una línea de emergencia en casos de violencia familiar
@@ -1153,6 +1237,7 @@
         \n&#8226; Si el agresor no respeta las medidas de protección, los agentes pastorales pueden
         denunciarlo ante la comisaría o ante la Fiscalía por el delito de resistencia o
         desobediencia a la autoridad.</string>
+
     <string name="b7_5text"><b><u>ANTES DE LA DENUNCIA</u>: ¿de qué manera los pastores, líderes y
         creyentes pueden estar preparados para prevenir los casos de violencia?</b>
         \n\n<b>Reconociendo que el problema puede ocurrir en la vida de los creyentes</b>

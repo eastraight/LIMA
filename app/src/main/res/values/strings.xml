@@ -63,7 +63,7 @@
 
     <string name="b7_1">¿Por qué los creyentes debemos denunciar la violencia?</string>
     <string name="b7_2">Mitos y verdades sobre la denuncia contra la violencia</string>
-    <string name="b7_3">¿Prohíbe 1 Corintios 6:1-11 denunciar a las autoridades?</string>
+    <string name="b7_3">¿Prohíbe 1 Corintios 6:1–11 denunciar a las autoridades?</string>
     <string name="b7_4">La ruta de la denuncia</string>
     <string name="b7_5">Consejos pastorales para el acompañamiento de la víctima de
         violencia</string>
@@ -78,7 +78,7 @@
 <!--    For example, b1_3T21 is the second element on the top row of the third part of button 1-->
 <!--    When there is more than one table in a layout, the elements in the second will have "TT"-->
 
-    <!--    b1-->
+    <!--    b1 Texts-->
     <string name="b1_0text">La violencia no es algo que ocurre solo en las noticias. Es más frecuente
         de lo que creemos. Sin embargo, para combatirla es necesario saber identificarla. En esta
         sesión aprenderás qué es la violencia, cómo ella actúa en las relaciones familiares, qué
@@ -217,13 +217,16 @@
 <!--        responsabilidad, confianza o poder</b>, de parte de un integrante a otro del grupo-->
 <!--        familiar</i>” (Ley N° 30364).</string>-->
 
-    <!--    b2-->
-    <string name="b2_0text">Esta lección abordará la violencia dentro de las relaciones de pareja. Para
-        ello, nos aproximaremos a un concepto básico que, desde la psicología, explica la dinámica
-        de las relaciones conyugales violentas: <b>el ciclo de la violencia</b>. Asimismo, se
-        ofrecerán algunos aportes bíblicos y teológicos sobre las relaciones conyugales. Finalmente,
-        se formularán recomendaciones para la prevención y atención de la violencia en y desde las
-        comunidades de fe.</string>
+    <!--    b2 Texts-->
+<!--    <string name="b2_0text">Esta lección abordará la violencia dentro de las relaciones de pareja. Para-->
+<!--        ello, nos aproximaremos a un concepto básico que, desde la psicología, explica la dinámica-->
+<!--        de las relaciones conyugales violentas: <b>el ciclo de la violencia</b>. Asimismo, se-->
+<!--        ofrecerán algunos aportes bíblicos y teológicos sobre las relaciones conyugales. Finalmente,-->
+<!--        se formularán recomendaciones para la prevención y atención de la violencia en y desde las-->
+<!--        comunidades de fe.</string>-->
+    <string name="b2_0text">Esta lección abordará la violencia dentro de las relaciones familiares.
+        Aprenderemos la dinámica de la <b>violencia en las relaciones de pareja</b>, ofreciendo
+        pautas para prevenirla y atenderla.</string>
 
     <string name="b2_1text">Es importante distinguir entre los conflictos familiares y la violencia.
         La distinción es importante porque los consejos que demos serán distintos en cada caso:
@@ -306,11 +309,11 @@
         relación hombre-mujer dentro del matrimonio.</string>
 
 <!--    TODO: finish button2-->
-    <string name="b2_4text">b1_14</string>
-    <string name="b2_5text">b1_15</string>
-    <string name="b2_6text">b1_16</string>
+    <string name="b2_4text">b2_4</string>
+    <string name="b2_5text">b2_5</string>
+    <string name="b2_6text">b2_6</string>
 
-    <!--    b3-->
+    <!--    b3 Texts-->
     <string name="b3_0text">En esta lección abordaremos la violencia <b>la violencia ejercida
         contra los niños y niñas</b>, para la cual se ofrecerán también pautas para su prevención y
         atención.</string>
@@ -580,7 +583,7 @@
         avergüenza a su madre.</string>
     <!--    /b3_4table3-->
     <string name="b3_4text2">En Proverbios 3.12, la palabra hebrea que se traduce como castigo
-        es <i>yakákj</i>, cuya “raíz primaria es tener razón”36, lo que nos permite entonces argumentar
+        es <i><b>yakákj</b></i>, cuya “raíz primaria es tener razón”36, lo que nos permite entonces argumentar
         que el sentido de esta palabra usada aquí no es tanto el uso del castigo físico sino de
         discutir, exponer razones, cuestionar y hasta condenar (en el sentido de emitir un juicio
         de valor sobre alguna acción o pensamiento expuesto). Una de las traducciones es castigar,
@@ -646,7 +649,7 @@
         Proverbios, entre otros muchos pasajes, nos enseñan que la instrucción (disciplina) es
         prioritaria y más importante que el castigo.</string>
 
-    <!--    b4-->
+    <!--    b4 Texts-->
     <string name="b4_0text">Los conflictos son parte de la vida, más aún en el ámbito de la familia.
         Puesto que los seres humanos tendemos a desarrollar distintas creencias, intereses y
         necesidades, es usual que el impulso por querer vivirlas o satisfacerlas genere acciones y
@@ -796,7 +799,7 @@
         y que la esposa respete a su esposo.”
         \n(Efesios 5:33)</i></string>
 
-    <!--    b5-->
+    <!--    b5 Texts-->
     <string name="b5_0text">El castigo físico es muy común en nuestras sociedades. En muchos casos,
         este es acompañado por la ira y el descontrol, alcanzando niveles violentos en perjuicio
         del desarrollo psíquico, físico y sexual de los niños, niñas y adolescentes.
@@ -985,7 +988,7 @@
         actos. Por ejemplo: si rompió un vaso, debe barrerlo. Si no guarda sus juguetes entonces le
         decimos que la próxima vez solo podrá sacar algunos.</string>
 
-    <!--    b6-->
+    <!--    b6 Texts-->
     <string name="b6_0text">En este módulo hallarás diversos recursos bíblicos (documentales,
         videos, guías, reflexiones, artículos) que te ayudarán a enriquecer lo aprendido en las
         sesiones anteriores.</string>
@@ -1075,7 +1078,7 @@
         \n\nPerú</string>
 <!--    TODO: más recursos para esta sección de 'ruta de la denuncia'?-->
 
-    <!--    b7-->
+    <!--    b7 Texts-->
     <string name="b7_0text">Es indispensable que todo creyente, en especial los agentes pastorales
         y los líderes de iglesias, tengan un conocimiento básico sobre cómo denunciar los casos de
         violencia. En este módulo aprenderás por qué es necesario denunciar, que acciones deberás
@@ -1108,8 +1111,45 @@
         cuando hay indignación, temor, anhelo, preocupación y disposición para que se haga justicia
         (2 Co 7:11).</string>
 
-    <string name="b7_2text">chart</string>
-<!--    TODO: make table with the mito/verdad section-->
+<!--    b7_2table-->
+    <string name="b7_2T11"><b>Mito:</b></string>
+    <string name="b7_2T12"><b>Verdad:</b></string>
+    <string name="b7_2T21"><b>“Se necesita ser abogado o especialista para denunciar”</b></string>
+    <string name="b7_2T22">Según la ley, cualquier persona puede realizar una denuncia en caso de
+        violencia, incluso los menores de edad sin la presencia de personas adultas.</string>
+    <string name="b7_2T23"><b>“Si la mujer se deja golpear es porque quiere, no me tengo por qué
+        meter en líos ajenos”</b></string>
+    <string name="b7_2T24">Las mujeres golpeadas permanecen al lado de su agresor no porque quieran,
+        sino por una serie de factores psicológicos que hay que tomar en cuenta antes de
+        enjuiciarlas. Uno de estos factores es el denominado “<b>ciclo de la violencia</b>”. Este
+        concepto psicológico nos ayuda a entender que si una mujer permanece en una relación
+        violenta lo es por diversos factores que escapan a su voluntad: miedo a que el agresor le
+        haga más daño, baja autoestima, incluso la presencia de ciertas patologías como depresión,
+        estrés postraumático, etc. La única manera de romper con el ciclo de la violencia es a
+        través de la intervención externa.</string>
+    <string name="b7_2T25"><b>“No tiene sentido denunciar porque ella ya lo perdonó”</b></string>
+    <string name="b7_2T26">Que el agresor se arrepienta no significa que posteriormente sea capaz
+        de controlarse o que deje de ver a la víctima como su posesión personal. Muchos casos de
+        feminicidio se han dado luego de que la víctima perdonase a su agresor.</string>
+    <string name="b7_2T27"><b>“Los padres tienen el derecho de golpear a sus hijos”</b></string>
+    <string name="b7_2T28">En el Perú, como en otros países latinoamericanos, el castigo físico a
+        los niños, niñas y adolescentes está prohibido por ley. En efecto, la Ley N° 30403 prohíbe
+        “el uso de la fuerza, en ejercicio de las potestades de crianza o educación, con la
+        intención de causar algún grado de dolor o incomodidad corporal, con el fin de corregir,
+        controlar o cambiar el comportamiento de los niños, niñas y adolescentes, siempre que no
+        constituya un hecho punible.”</string>
+    <string name="b7_2T29"><b>“La violencia ocurre a hombres y mujeres por igual”</b></string>
+    <string name="b7_2T210">Según las estadísticas, las mujeres son más violentadas que los varones
+        en el ámbito familiar. Existe mayor riesgo de muerte para las mujeres en aquellos espacios
+        que deberían ser los más seguros para ellas.</string>
+    <string name="b7_2T211"><b>“Da lo mismo denunciar que no denunciar porque el sistema no
+        funciona”</b></string>
+    <string name="b7_2T212">Aunque es verdad que hay todavía grandes defectos en nuestro sistema
+        de justicia, nuestra responsabilidad es denunciar, ya que existen también muchos casos en
+        los que se ha podido identificar al agresor y sancionarlo a fin de que no pueda dañar a la
+        víctima como a otras personas a futuro. </string>
+    <!--    /b7_2table-->
+
 
     <string name="b7_3text">El texto de 1 Co 6:1-11 podría interpretarse como una especie de
         prohibición a los cristianos de recurrir a los tribunales públicos en busca de justicia.
@@ -1150,7 +1190,7 @@
         procedimientos para determinar la verdad de los hechos, algo con lo que sí cuenta la
         justicia ordinaria.</string>
 
-    <string name="b7_4text">Cada país tienes sus propios mecanismos de denuncia de la violencia. Es
+    <string name="b7_4text">Cada país tiene sus propios mecanismos de denuncia de la violencia. Es
         importante que los miembros de la iglesia sepan a qué lugares acudir para interponer una
         denuncia. Asimismo, cada país tiene una línea de emergencia en casos de violencia familiar
         y violencia de género. Es bueno que los creyentes de la congregación conozcan ese número

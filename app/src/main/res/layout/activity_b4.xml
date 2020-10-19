@@ -9,7 +9,7 @@
         android:layout_height="wrap_content">
 
         <Button
-            android:id="@+id/b1_1"
+            android:id="@+id/b4_1"
             style="@style/Widget.AppCompat.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -17,14 +17,14 @@
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
             android:padding="20dip"
-            android:text="@string/b1_1"
+            android:text="@string/b4_1"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_0text" />
+            app:layout_constraintTop_toBottomOf="@+id/b4_0text" />
 
         <Button
-            android:id="@+id/b1_2"
+            android:id="@+id/b4_2"
             style="@style/Widget.AppCompat.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -32,14 +32,14 @@
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
             android:padding="20dip"
-            android:text="@string/b1_2"
+            android:text="@string/b4_2"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_1layout" />
+            app:layout_constraintTop_toBottomOf="@+id/b4_1layout" />
 
         <Button
-            android:id="@+id/b1_3"
+            android:id="@+id/b4_3"
             style="@style/Widget.AppCompat.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -47,266 +47,64 @@
             android:drawableRight="@drawable/down_arrow"
             android:gravity="start|center_vertical"
             android:padding="20dip"
-            android:text="@string/b1_3"
+            android:text="@string/b4_3"
             android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_2layout" />
-
-        <Button
-            android:id="@+id/b1_4"
-            style="@style/Widget.AppCompat.Button.Small"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:drawableEnd="@drawable/down_arrow"
-            android:drawableRight="@drawable/down_arrow"
-            android:gravity="start|center_vertical"
-            android:padding="20dip"
-            android:text="@string/b1_4"
-            android:textSize="15sp"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_3layout" />
-
-        <Button
-            android:id="@+id/b1_5"
-            style="@style/Widget.AppCompat.Button.Small"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:drawableEnd="@drawable/down_arrow"
-            android:drawableRight="@drawable/down_arrow"
-            android:gravity="start|center_vertical"
-            android:padding="20dip"
-            android:text="@string/b1_5"
-            android:textSize="15sp"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_4layout" />
-
-        <Button
-            android:id="@+id/b1_6"
-            style="@style/Widget.AppCompat.Button.Small"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:drawableEnd="@drawable/down_arrow"
-            android:drawableRight="@drawable/down_arrow"
-            android:gravity="start|center_vertical"
-            android:padding="20dip"
-            android:text="@string/b1_6"
-            android:textSize="15sp"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_5layout" />
+            app:layout_constraintTop_toBottomOf="@+id/b4_2layout" />
 
         <RelativeLayout
-            android:id="@+id/b1_3layout"
+            android:id="@+id/b4_1layout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_3">
-
-            <TableLayout
-                android:id="@+id/b1_3table"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/b1_3text">
-
-                <TableRow
-                    android:layout_width="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_weight="1"
-                    android:background="#000000">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="1dp"
-                        android:background="#FFFFFF"
-                        android:gravity="center"
-                        android:padding="5dp"
-                        android:text="@string/b1_3T11"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="1dp"
-                        android:layout_weight="1"
-                        android:background="#FFFFFF"
-                        android:padding="5dp"
-                        android:text="@string/b1_3T21" />
-                </TableRow>
-
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    android:layout_margin="1dp"
-                    android:layout_weight="1"
-                    android:background="#000000">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="1dp"
-                        android:background="#FFFFFF"
-                        android:gravity="center"
-                        android:padding="5dp"
-                        android:text="@string/b1_3T12"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="1dp"
-                        android:layout_weight="1"
-                        android:background="#FFFFFF"
-                        android:padding="5dp"
-                        android:text="@string/b1_3T22" />
-                </TableRow>
-
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    android:layout_margin="1dp"
-                    android:layout_weight="1"
-                    android:background="#000000">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="1dp"
-                        android:background="#FFFFFF"
-                        android:gravity="center"
-                        android:padding="5dp"
-                        android:text="@string/b1_3T13"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="1dp"
-                        android:layout_weight="1"
-                        android:background="#FFFFFF"
-                        android:padding="5dp"
-                        android:text="@string/b1_3T23" />
-                </TableRow>
-
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    android:layout_margin="1dp"
-                    android:layout_weight="1"
-                    android:background="#000000">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="1dp"
-                        android:background="#FFFFFF"
-                        android:gravity="center"
-                        android:padding="5dp"
-                        android:text="@string/b1_3T14"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="1dp"
-                        android:layout_weight="1"
-                        android:background="#FFFFFF"
-                        android:padding="5dp"
-                        android:text="@string/b1_3T24" />
-                </TableRow>
-
-            </TableLayout>
+            app:layout_constraintTop_toBottomOf="@+id/b4_1">
 
             <TextView
-                android:id="@+id/b1_3text"
+                android:id="@+id/b4_1text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="@string/b1_3text"
+                android:hint="@string/b4_1text"
                 android:padding="10dip" />
+
+            <TextView
+                android:id="@+id/b4_1text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/b4_1text"
+                android:gravity="center"
+                android:hint="@string/b4_1text2"
+                android:padding="20dip" />
         </RelativeLayout>
 
         <RelativeLayout
-            android:id="@+id/b1_1layout"
+            android:id="@+id/b4_2layout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_1">
+            app:layout_constraintTop_toBottomOf="@+id/b4_2">
 
             <TextView
+                android:id="@+id/b4_2text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="@string/b1_1text"
+                android:hint="@string/b4_2text"
                 android:padding="10dip" />
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:id="@+id/b1_2layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_2">
 
             <TextView
+                android:id="@+id/b4_2text2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="@string/b1_2text"
-                android:padding="10dip"/>
+                android:layout_below="@+id/b4_2text"
+                android:gravity="center"
+                android:hint="@string/b4_2text2"
+                android:padding="20dip" />
         </RelativeLayout>
-
-        <RelativeLayout
-            android:id="@+id/b1_4layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_4">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:hint="@string/b1_4text"
-                android:padding="10dip"/>
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:id="@+id/b1_5layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_5">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:hint="@string/b1_5text"
-                android:padding="10dip" />
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:id="@+id/b1_6layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b1_6">
-
-            <!--            <TextView-->
-            <!--                android:layout_width="wrap_content"-->
-            <!--                android:layout_height="wrap_content"-->
-            <!--                android:hint="@string/b1_6text"-->
-            <!--                android:padding="10dip" />-->
-        </RelativeLayout>
-
 
         <TextView
-            android:id="@+id/b1_0text"
+            android:id="@+id/b4_0text"
             android:layout_width="411dp"
             android:layout_height="wrap_content"
             android:layout_marginEnd="16dp"
@@ -314,7 +112,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
-            android:hint="@string/b1_0text"
+            android:hint="@string/b4_0text"
             android:padding="20dip"
             android:textColor="#ff000000"
             android:textSize="18sp"

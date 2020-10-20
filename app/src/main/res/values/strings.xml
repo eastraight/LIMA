@@ -50,10 +50,11 @@
     <string name="b4_3">Evaluación</string>
 
     <string name="b5_1">Introducción: los cuatro pilares de la crianza positiva</string>
-    <string name="b5_2">Calidez y estructura</string>
-    <string name="b5_3">Etapas del desarrollo de los niños y niñas</string>
-    <string name="b5_4">Buscando soluciones prácticas</string>
-    <string name="b5_5">Evaluación</string>
+    <string name="b5_2">Objetivos a largo plazo</string>
+    <string name="b5_3">Calidez y estructura</string>
+    <string name="b5_4">Tomar en cuenta las capacidades de los niños y niñas</string>
+    <string name="b5_5">Buscando soluciones prácticas</string>
+    <string name="b5_6">Evaluación</string>
 
     <string name="b6_1">Violencia familiar</string>
     <string name="b6_2">Crianza positiva</string>
@@ -909,10 +910,47 @@
         <b>calidez</b> y <b>estructura</b>.
         \n\nLa <b>calidez</b> significa que papás y mamás deben brindar siempre un <b>afecto
         incondicional</b> a niños y niñas.</string>
-    <!--    TODO: insert table-->
+    <!--    b5_table-->
+    <string name="b5_3T11"><b>¿Cómo aplicar la calidez?</b></string>
+    <string name="b5_3T12"><b>Características de un papá o mamá que aplica calidez</b></string>
+    <string name="b5_3T22"><b>Ejemplos</b></string>
+    <string name="b5_3T13">&#8226; Procura que su hijo o hija se sienta seguro
+        \n&#8226; Logra que su hijo o hija se sienta amado, sin importar qué haga.
+        \n&#8226; Muestra amor en palabras y acciones.
+        \n&#8226; Reflexiona sobre cómo su hijo o hija piensa a esta edad.
+        \n&#8226; Conoce qué necesita su hijo o hija a esta edad.
+        \n&#8226; Sabe cómo se siente su hijo o hija.</string>
+    <string name="b5_3T23">&#8226; Use palabras y gestos que transmitan amor (sonreír, abrazar,
+        decir “te amo”).
+        \n&#8226; Hágalo parte en las cosas de la casa (que coopere con usted).
+        \n&#8226; Si pierde la paciencia, haga algo que lo distraiga o use el sentido del humor.
+        \n&#8226; Use palabras de aliento o estímulo (“¡Eres tan bueno!”, “Confío en tu opinión”,
+        “Sé que lo puedes hacer muy bien”).</string>
+    <!--    /b5_table-->
     <string name="b5_3text2">La estructura significa colocar límites claros y ofrecer razones de
         por qué lo que hacemos es mejor para ellos.</string>
-    <!--    TODO: insert table-->
+    <!--    b5_table2-->
+    <string name="b5_3TT11"><b>¿Cómo utilizar las razones?</b></string>
+    <string name="b5_3TT12"><b>Características de un papá o mamá que usa estructura</b></string>
+    <string name="b5_3TT22"><b>Ejemplos</b></string>
+    <string name="b5_3TT13">&#8226; Da previamente y de manera clara, directrices de comportamiento.
+        \n&#8226; Dialoga con el niño(a).
+        \n&#8226; Explica claramente sus razones.
+        \n&#8226; Apoya y ayuda al niño o niña a aprender.
+        \n&#8226; Es un modelo positivo.
+        \n&#8226; Alienta al niño o niña a desarrollar sus propios pensamientos e ideas.
+        \n&#8226; Resuelve problemas junto con sus hijos o hijas.
+        \n&#8226; Promueve la autonomía.</string>
+    <string name="b5_3TT23">&#8226; No da órdenes, sino opciones (Por ejemplo, en vez de decir
+        “¡anda a bañarte!”, es mejor decir “¿quieres bañarte ahora o después de cenar?”).
+        \n&#8226; Enseña con el ejemplo y es coherente (aplica las mismas reglas que establece a
+        sus hijos e hijas).
+        \n&#8226; Usa preguntas.
+        \n&#8226; Póngase a pensar: “¿lo que le digo a mi hijo se lo diría a mi mejor amigo?” (si
+        la respuesta es no, algo anda mal).
+        \n&#8226; Déjelo hablar, respete sus silencios.
+        \n&#8226; Establezca límites claros y siempre comuníquelo a sus hijos de antemano.</string>
+    <!--    /b5_table2-->
     <string name="b5_3text3">Pongamos otro ejemplo. Es la hora de comer. Carlitos tiene 4 años y
         está jugando con su carrito en la mesa. A su madre no le gusta que se distraiga con el
         juguete y que ponga cosas sucias en la mesa, por esa razón se lo arrancha, pero el niño se
@@ -929,7 +967,19 @@
         \n\nLee a continuación la parábola que aparece en Lucas 15:11 – 32. Después de leer el
         texto, identifica en el cuadro que aparece a continuación de qué manera el padre de la
         parábola aplicó la calidez y la estructura.</string>
-    <!--    TODO: insert table-->
+    <!--    b5_table3-->
+    <string name="b5_3TTT11"><b>LA PARÁBOLA DEL PADRE AMOROSO</b></string>
+    <string name="b5_3TTT12"><b>¿Cómo manifestó su calidez?</b></string>
+    <string name="b5_3TTT22"><b>¿Cómo manifestó la estructura?</b></string>
+    <string name="b5_3TTT13">V. 12 🡪 No se molesta
+        \n\nV. 20 🡪 Manifiesta su amor
+        \n\nV. 22 🡪 Satisface sus necesidades
+        \n\nV. 23 🡪 Lo honra
+        \n\nV. 28 🡪 Un gesto de atención
+        \n\nV. 31 🡪 Expresa consideración</string>
+    <string name="b5_3TTT23">V. 24 🡪 Explicó por qué tuvo ese gesto con su hijo
+        \n\nV. 31 y 32 🡪 Ofrece una explicación</string>
+    <!--    /b5_table3-->
 
     <string name="b5_4text">El tercer principio de la crianza positiva es tomar en cuentas las
         capacidades de los niños y niñas. Es importante considerar lo que el niño puede o no puede
@@ -946,7 +996,66 @@
         valiosos. Lo correcto aquí hubiera sido que el padre explique a Julieta con qué juguetes
         ella puede jugar y con cuáles no. Él no tomo en cuenta su edad a la hora de
         “disciplinarla”.</string>
-    <!--    TODO: insert table-->
+    <!--    b4_table-->
+    <string name="b5_4T11"><b>Edad</b></string>
+    <string name="b5_4T21"><b>Capacidades de los niños, niñas y adolescentes</b></string>
+    <string name="b5_4T12"><b>0 a 6 meses</b></string>
+    <string name="b5_4T22">&#8226; No pueden darle sentido a las cosas, se asustan fácilmente y
+        necesitan saber que están seguros y protegidos
+        \n&#8226; Necesitan calidez 🡪 Ser tomados en brazos, abrazados, mecidos y cargados 🡪 Apego
+        \n&#8226; Agarrar y masticar objetos desarrolla sus músculos 🡪 Pone todo en la boca por
+        instinto 🡪 No entienden el peligro</string>
+    <string name="b5_4T13"><b>6 a 12 meses</b></string>
+    <string name="b5_4T23">&#8226; Etapa para construir confianza del bebe en padre/madre
+        \n&#8226; Razones de llanto: dolor por salida de dientes, de cabeza, fiebre, etc.; por la
+        “organización” de sus cerebros (señal de que sus cuerpos y cerebros se desarrollan
+        normalmente)
+        \n&#8226; Responder al balbuceo motiva la comunicación. Mostrarle al bebe que es escuchado
+        y respetado.</string>
+    <string name="b5_4T14"><b>1 a 2 años</b></string>
+    <string name="b5_4T24">&#8226; Caminan y se da la “explosión de lenguaje”
+        \n&#8226; Necesitan explorar, tocar y saborear para el desarrollo de su cerebro 🡪
+        “Experimentos” de cómo funciona el mundo
+        \n&#8226; Es importante hablarles, leerles, escucharles y responderles
+        \n&#8226; Empiezan a decir “NO” para expresar sus sentimientos 🡪 No pueden nombrarlos,
+        tampoco pueden reconocer los sentimientos de los demás</string>
+    <string name="b5_4T15"><b>2 a 3 años</b></string>
+    <string name="b5_4T25">&#8226; Aprende más sobre los peligros 🡪 Empiezan a sentir miedo
+        \n&#8226; Necesita confianza y apoyo, sentir que está a salvo
+        \n&#8226; Desarrollan la vergüenza repentina 🡪 Signo de mayor entendimiento del mundo y
+        relaciones / Rechazo a ser cargado 🡪 Empieza a controlar su propio cuerpo y decisión sobre
+        quién puede tocarlo 🡪 Respetar sus sentimientos</string>
+    <string name="b5_4T16"><b>3 a 5 años</b></string>
+    <string name="b5_4T26">&#8226; Etapa de las preguntas (Qué, por qué) 🡪 Responderles construye
+        la base de su aprendizaje 🡪 Respetar su curiosidad
+        \n&#8226; Pueden querer aprender sobre cosas peligrosas 🡪 Tiempo de establecer reglas
+        (aunque no entienda las razones)
+        \n&#8226; Etapa de juegos 🡪 Importante para su desarrollo cerebral 🡪 Imaginación,
+        creatividad, resolución de problemas
+        \n&#8226; Quieren ayudar 🡪 Darles confianza en sus habilidades</string>
+    <string name="b5_4T17"><b>5 a 9 años</b></string>
+    <string name="b5_4T27">&#8226; Etapa del colegio 🡪 Aprenden a desenvolverse solos, a llevarse
+        bien con otros, cumplir con tareas que piden adultos “nuevos”, seguir horarios y rutinas
+        \n&#8226; Se hace notoria la personalidad de cada niño(a) 🡪 Determina su forma de adaptarse
+        en esta etapa 🡪 Identificar fortalezas y aprovecharlas / Identificar desafíos y apoyarlos
+        (confianza desarrollada en primeros años influye en esto)
+        \n&#8226; Conflictos pueden darse por diferentes personalidades de padres e hijos</string>
+    <string name="b5_4T18"><b>10 a 13 años</b></string>
+    <string name="b5_4T28">&#8226; A punto de entrar a pubertad 🡪 Etapa de cambios 🡪 Conflictos
+        se hacen más comunes 🡪 Razones:  deseo de independencia, cambios de humor, amigos(as) se
+        hacen más importantes
+        \n&#8226; Tratar de pasar tiempo juntos, construir su autoestima, involucrarse en su
+        colegio, conocer a sus amigos(as), estar cerca –pero con distancia
+    </string>
+    <string name="b5_4T19"><b>14 a 18 años</b></string>
+    <string name="b5_4T29">&#8226; Etapa de relaciones cambiantes 🡪 Quiere experimentar de todo
+        para averiguar quién es: Identidad única 🡪 Pueden desarrollar nuevas creencias, políticas,
+        etc 🡪 Buscan ser diferentes de sus padres
+        \n&#8226; Confianza es extremadamente importante 🡪 Saber que pueden acudir a padres SIN
+        temores para obtener información y consejo
+        \n&#8226; Brindar estructura (para monitorear) es un desafío 🡪 Necesitan independencia,
+        pero también orientación.    </string>
+    <!--    /b4_table-->
     <string name="b5_4text2">Padres y madres no podemos tratar a nuestros hijos e hijas de la misma
         forma a lo largo de su vida. Es importante conocer cuáles son sus capacidades según su edad
         para saber cómo tratarlos, cómo comprenderlos, cómo responder a sus necesidades y cómo

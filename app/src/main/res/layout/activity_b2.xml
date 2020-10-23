@@ -83,21 +83,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/b2_4layout" />
 
-        <Button
-            android:id="@+id/b2_6"
-            style="@style/Widget.AppCompat.Button.Small"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:drawableEnd="@drawable/down_arrow"
-            android:drawableRight="@drawable/down_arrow"
-            android:gravity="start|center_vertical"
-            android:padding="20dip"
-            android:text="@string/b2_6"
-            android:textSize="15sp"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b2_5layout" />
-
         <RelativeLayout
             android:id="@+id/b2_1layout"
             android:layout_width="wrap_content"
@@ -322,10 +307,47 @@
             app:layout_constraintTop_toBottomOf="@+id/b2_2">
 
             <TextView
+                android:id="@+id/b2_2text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:hint="@string/b2_2text"
                 android:padding="10dip" />
+            <ImageView
+                android:id="@+id/b2_2image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/b2_2text"
+                app:srcCompat="@mipmap/el_ciclo"
+                android:contentDescription="@string/b2_2image" />
+            <TextView
+                android:id="@+id/b2_2imagetext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/b2_2image"
+                android:hint="@string/b2_2imagetext"
+                android:padding="20dip" />
+            <TextView
+                android:id="@+id/b2_2text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/b2_2imagetext"
+                android:hint="@string/b2_2text2"
+                android:padding="10dip" />
+            <ImageView
+                android:id="@+id/b2_2image2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/b2_2text2"
+                app:srcCompat="@mipmap/trastornos_psicologicos"
+                android:contentDescription="@string/b2_2image2" />
+            <TextView
+                android:id="@+id/b2_2text3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/b2_2image2"
+                android:hint="@string/b2_2text3"
+                android:padding="10dip" />
+
         </RelativeLayout>
 
         <RelativeLayout
@@ -342,37 +364,6 @@
                 android:hint="@string/b2_4text"
                 android:padding="10dip" />
         </RelativeLayout>
-
-        <RelativeLayout
-            android:id="@+id/b2_5layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b2_5">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:hint="@string/b2_5text"
-                android:padding="10dip" />
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:id="@+id/b2_6layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/b2_6">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:hint="@string/b2_6text"
-                android:padding="10dip" />
-        </RelativeLayout>
-
 
         <TextView
             android:id="@+id/b2_0text"

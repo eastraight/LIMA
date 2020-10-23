@@ -14,9 +14,9 @@ import android.widget.RelativeLayout;
 
 /* B2 - Violencia en la pareja */
 public class B2Activity extends AppCompatActivity implements View.OnClickListener {
-    Button b2_1, b2_2, b2_3, b2_4, b2_5, b2_6;
-    RelativeLayout layout1, layout2, layout3, layout4, layout5, layout6;
-    int h1, h2, h3, h4, h5, h6; // layout heights
+    Button b2_1, b2_2, b2_3, b2_4;
+    RelativeLayout layout1, layout2, layout3, layout4;
+    int h1, h2, h3, h4; // layout heights
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,22 +27,16 @@ public class B2Activity extends AppCompatActivity implements View.OnClickListene
         layout2 = findViewById(R.id.b2_2layout);
         layout3 = findViewById(R.id.b2_3layout);
         layout4 = findViewById(R.id.b2_4layout);
-        layout5 = findViewById(R.id.b2_5layout);
-        layout6 = findViewById(R.id.b2_6layout);
 
         b2_1 = findViewById(R.id.b2_1);
         b2_2 = findViewById(R.id.b2_2);
         b2_3 = findViewById(R.id.b2_3);
         b2_4 = findViewById(R.id.b2_4);
-        b2_5 = findViewById(R.id.b2_5);
-        b2_6 = findViewById(R.id.b2_6);
 
         b2_1.setOnClickListener(this);
         b2_2.setOnClickListener(this);
         b2_3.setOnClickListener(this);
         b2_4.setOnClickListener(this);
-        b2_5.setOnClickListener(this);
-        b2_6.setOnClickListener(this);
 
         layout1.getViewTreeObserver().addOnPreDrawListener(
                 new ViewTreeObserver.OnPreDrawListener() {
@@ -54,16 +48,12 @@ public class B2Activity extends AppCompatActivity implements View.OnClickListene
                         layout2.setVisibility(View.GONE);
                         layout3.setVisibility(View.GONE);
                         layout4.setVisibility(View.GONE);
-                        layout5.setVisibility(View.GONE);
-                        layout6.setVisibility(View.GONE);
 
                         // Get heights:
                         h1 = layout1.getMeasuredHeight();
                         h2 = layout2.getMeasuredHeight();
                         h3 = layout3.getMeasuredHeight();
                         h4 = layout4.getMeasuredHeight();
-                        h5 = layout5.getMeasuredHeight();
-                        h6 = layout6.getMeasuredHeight();
                         return true;
                     }
                 });
@@ -140,18 +130,6 @@ public class B2Activity extends AppCompatActivity implements View.OnClickListene
                 if (layout4.getVisibility() == View.GONE) {
                     expand(layout4, h4);
                 } else collapse(layout4);
-                break;
-
-            case R.id.b2_5:
-                if (layout5.getVisibility() == View.GONE) {
-                    expand(layout5, h5);
-                } else collapse(layout5);
-                break;
-
-            case R.id.b2_6:
-                if (layout6.getVisibility() == View.GONE) {
-                    expand(layout6, h6);
-                } else collapse(layout6);
                 break;
         }
     }

@@ -34,9 +34,8 @@
     <string name="b2_1">Conflicto y violencia</string>
     <string name="b2_2">El ciclo de la violencia en la pareja</string>
     <string name="b2_3">Violencia y sujeción de la mujer</string>
-    <string name="b2_4">Recursos bíblicos</string>
-    <string name="b2_5">Ideas pastorales contra la violencia</string>
-    <string name="b2_6">Evaluación</string>
+    <string name="b2_4">Ideas pastorales contra la violencia</string>
+    <string name="b2_5">Evaluación</string>
 
     <string name="b3_1">Causas del maltrato infantil</string>
     <string name="b3_2">El castigo físico como forma del maltrato</string>
@@ -70,14 +69,14 @@
         violencia</string>
     <string name="b7_6">Evaluación</string>
 
-<!--    TODO: make font size adjustable in the seven activities-->
-<!--    TODO: figure out how to make hyperlinks work-->
+    <!--    TODO: make font size adjustable in the seven activities, change image sizes-->
+    <!--    TODO: figure out how to make hyperlinks work-->
     <!--    Text-->
 
-<!--    Note about tables:-->
-<!--    Table elements are named with button#, layout#, and then COLUMN#, ROW#-->
-<!--    For example, b1_3T21 is the second element on the top row of the third part of button 1-->
-<!--    When there is more than one table in a layout, the elements in the second will have "TT"-->
+    <!--    Note about tables:-->
+    <!--    Table elements are named with button#, layout#, and then COLUMN#, ROW#-->
+    <!--    For example, b1_3T21 is the second element on the top row of the third part of button 1-->
+    <!--    When there is more than one table in a layout, the elements in the second will have "TT"-->
 
     <!--    b1 Texts-->
     <string name="b1_0text">La violencia no es algo que ocurre solo en las noticias. Es más frecuente
@@ -205,26 +204,26 @@
         miembros.
         \n&#8226; Realizar campañas de información y prevención sobre la violencia familiar a la
         comunidad.</string>
-<!--    <string name="b1_6text">Caso 1-->
-<!--        \n\n“<i>La violencia está presente cuando los seres humanos <b>se ven influidos</b> de tal-->
-<!--         manera que sus realizaciones efectivas, somáticas y mentales, están <b>por debajo de sus-->
-<!--         realizaciones potenciales</b></i>” (Galtung 1985).-->
-<!--        \n\n“<i>El uso deliberado de la fuerza física o el <b>poder</b>, ya sea en grado de amenaza-->
-<!--         o efectivo, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas-->
-<!--         probabilidades de <b>causar lesiones, muerte, daños psicológicos, trastornos del desarrollo-->
-<!--         o privaciones</b></i>” (OMS 2002).-->
-<!--        \n\n“<i>Cualquier acción o conducta que le <b>causa muerte, daño o sufrimiento físico,-->
-<!--        sexual o psicológico</b> y que se produce en el contexto de una <b>relación de-->
-<!--        responsabilidad, confianza o poder</b>, de parte de un integrante a otro del grupo-->
-<!--        familiar</i>” (Ley N° 30364).</string>-->
+    <!--    <string name="b1_6text">Caso 1-->
+    <!--        \n\n“<i>La violencia está presente cuando los seres humanos <b>se ven influidos</b> de tal-->
+    <!--         manera que sus realizaciones efectivas, somáticas y mentales, están <b>por debajo de sus-->
+    <!--         realizaciones potenciales</b></i>” (Galtung 1985).-->
+    <!--        \n\n“<i>El uso deliberado de la fuerza física o el <b>poder</b>, ya sea en grado de amenaza-->
+    <!--         o efectivo, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas-->
+    <!--         probabilidades de <b>causar lesiones, muerte, daños psicológicos, trastornos del desarrollo-->
+    <!--         o privaciones</b></i>” (OMS 2002).-->
+    <!--        \n\n“<i>Cualquier acción o conducta que le <b>causa muerte, daño o sufrimiento físico,-->
+    <!--        sexual o psicológico</b> y que se produce en el contexto de una <b>relación de-->
+    <!--        responsabilidad, confianza o poder</b>, de parte de un integrante a otro del grupo-->
+    <!--        familiar</i>” (Ley N° 30364).</string>-->
 
     <!--    b2 Texts-->
-<!--    <string name="b2_0text">Esta lección abordará la violencia dentro de las relaciones de pareja. Para-->
-<!--        ello, nos aproximaremos a un concepto básico que, desde la psicología, explica la dinámica-->
-<!--        de las relaciones conyugales violentas: <b>el ciclo de la violencia</b>. Asimismo, se-->
-<!--        ofrecerán algunos aportes bíblicos y teológicos sobre las relaciones conyugales. Finalmente,-->
-<!--        se formularán recomendaciones para la prevención y atención de la violencia en y desde las-->
-<!--        comunidades de fe.</string>-->
+    <!--    <string name="b2_0text">Esta lección abordará la violencia dentro de las relaciones de pareja. Para-->
+    <!--        ello, nos aproximaremos a un concepto básico que, desde la psicología, explica la dinámica-->
+    <!--        de las relaciones conyugales violentas: <b>el ciclo de la violencia</b>. Asimismo, se-->
+    <!--        ofrecerán algunos aportes bíblicos y teológicos sobre las relaciones conyugales. Finalmente,-->
+    <!--        se formularán recomendaciones para la prevención y atención de la violencia en y desde las-->
+    <!--        comunidades de fe.</string>-->
     <string name="b2_0text">Esta lección abordará la violencia dentro de las relaciones familiares.
         Aprenderemos la dinámica de la <b>violencia en las relaciones de pareja</b>, ofreciendo
         pautas para prevenirla y atenderla.</string>
@@ -258,6 +257,47 @@
         “ciclo de la violencia” resulta útil para comprender la dinámica de la violencia en las
         relaciones de pareja. Este es un ciclo de tres pasos: 1) acumulación de la tensión, 2)
         episodio violento, 3) Luna de miel.</string>
+    <string name="b2_2image">El ciclo</string>
+    <string name="b2_2imagetext"><b>Acumulación de la tensión</b>
+        \n&#8226; En el trato cotidiano con el agresor, la victima se acostumbra a ir perdiendo
+        autonomía. La violencia psicológica se vuelve algo normal y tolerable.
+        \n&#8226; Trata de calmar al agresor: es condescendiente, se anticipa a sus caprichos, etc.
+        \n&#8226; Piensa que puede merecer el comportamiento agresivo.
+        \n&#8226; Tiende a minimizar los incidentes.
+        \n&#8226; Echa la culpa a las situaciones: "tuvo un mal día", "está muy tenso".
+        \n&#8226; Encubre al agresor para impedir episodios de mayor agresión.
+        \n\n<b>Episodio violenta</b>
+        \n&#8226; Falta de control del agresor
+        \n&#8226; La mujer es gravemente golpeada.
+        \n&#8226; No busca ayuda y minimiza los hechos.
+        \n&#8226; La mujer se aísla: "Si no lo cuenta es como si no hubiera pasado."
+        \n\n<b>Luna de miel</b>
+        \n&#8226; Fase bienvenida por ambas partes
+        \n&#8226; El agresor se arrepiente, suplica perdón, promete que no lo hará nunca más.
+        Cree que puede controlarse y que ella ha aprendido la lección.
+        \n&#8226; Ella cree que el agresor es el tipo de persona que se muestra en esta fase.
+        \n&#8226; Se estrecha la relación de dependencia.</string>
+    <string name="b2_2text2">Existen, asimismo, una serie de trastornos psicológicos que afectan a
+        la víctima, originados por el constante maltrato hacia su persona y que pueden darse dentro
+        de la dinámica cíclica de la violencia. Estos trastornos explicarían por qué razón la mujer
+        maltratada permanece en la violencia o no está capacitada para denunciar. En estos casos es
+        necesaria la asistencia de un especialista.</string>
+    <string name="b2_2image2">Trastornos psicológicos</string>
+    <string name="b2_2text3">Como consejeros, es importante conocer el ciclo de la violencia y
+        tomar en cuenta, durante la consejería, las siguientes <b>ideas clave</b>:
+        \n\n&#8226; La mayoría de víctimas de violencia en la pareja son mujeres.
+        \n&#8226; El ciclo de la violencia puede llevar al feminicidio.
+        \n&#8226; No se debe estigmatizar a la víctima (p. ejm.: “es bruta porque se deja golpear”,
+        “si la maltrata, por algo será”, “si es cierto lo que dice, por qué no denuncia”). Debemos
+        recordar que la situación emocional y psíquica de la víctima afecta en muchos casos sus
+        procesos decisionales, por lo que no se anima a denunciar.
+        \n&#8226; No es adecuado aconsejar la reconciliación con el agresor. El agresor puede
+        mostrarse “arrepentido”, pero no significa que pueda autocontrolarse o dejar de maltratar
+        a la víctima. Lo mejor en estos casos es aparatar a la víctima de su agresor y proveerle de
+        un lugar seguro para ella y sus hijo(a)s.
+        \n&#8226; Denunciar la violencia a las autoridades es la manera más efectiva de romper
+        con el ciclo y salvar una vida.
+    </string>
 
     <string name="b2_3text">De acuerdo a los resultados de la investigación Dentro de las cuatro
         paredes (Paz y Esperanza, 2014), aproximadamente el 40% de la población evangélica en el Perú
@@ -309,10 +349,49 @@
         volver a los fundamentos y examinar con mayor profundidad lo que dice la Biblia acerca de la
         relación hombre-mujer dentro del matrimonio.</string>
 
-<!--    TODO: finish button2-->
-    <string name="b2_4text">b2_4</string>
-    <string name="b2_5text">b2_5</string>
-    <string name="b2_6text">b2_6</string>
+    <string name="b2_4text">Existe una mayor proporción de violencia psicológica contra la pareja
+        en la población evangélica que en la población en general. Este hecho está vinculado a la
+        forma en que los cristianos comprenden o ponen en práctica la creencia en la sujeción de la
+        mujer al marido.
+        \n\nEn ocasiones, las iglesias perpetúan la violencia conyugal al sostener posturas que
+        plantean una dudosa interpretación sobre la sujeción de la mujer al esposo.
+        \n\nExiste una mayor proporción de violencia psicológica en la pareja en la población
+        evangélica que en la población en general. Este hecho está vinculada a la forma en que los
+        cristianos creen o ponen en práctica la creencia en la sujeción de la mujer al marido.
+        \n\nA lo largo de las páginas de la Biblia podemos hallar una propuesta contracultural, que
+        va a contracorriente de la cultura patriarcal de la época, la cual aboga por la igualdad en
+        dignidad y trato entre hombres y mujeres (Gálatas 3:28).
+        \n\nLa posibilidad de que el esposo tenga deberes hacia la esposa, los hijos y los esclavos
+        constituye la novedad de la revelación cristiana en los pasajes de Efesios 5:21 – 6:9 y
+        Colosenses 3:18-25 – 4:1. En aquel tiempo, el poder del hombre era jerárquico y este
+        ejercía toda su potestad sobre los miembros de la familia. En el cristianismo del primer
+        siglo, el evangelio cambia esta lógica, estableciendo deberes del varón hacia su esposa,
+        hijos y esclavos.
+        \n\nLa palabra “cabeza”, que se traduce del griego “kephale”, no significa “autoridad”,
+        “cabeza” o “líder”, sino “fuente” u “origen”.
+        \n\nLa argumentación utilizada por el apóstol en Efesios 5:21-32 está sujeta a una
+        evolución: empieza utilizando el lenguaje patriarcal (cabeza/sujeción), habla de la unidad
+        en Cristo, para, finalmente, reemplazar el término “sujeción” por el de “respeto” (v. 33).
+        \n\nLa Biblia plantea un modelo de relaciones igualitarias, horizontales y armónicas entre
+        hombres y mujeres. Pasajes bíblicos como el de Efesios, al ser leídos a la luz del contexto
+        cultural de la época y en concordancia con el resto de pasajes y enseñanzas a lo largo de
+        la Escritura, nos demuestran que esta búsqueda de unidad, igualdad y mutualidad posee un
+        carácter contracultural, presto siempre a desafiar aquellas tradiciones culturales,
+        convenciones sociales, sistemas de pensamiento o ideologías que pretenden socavar las
+        relaciones entre hombres y mujeres, o limitar sus capacidades.
+        \n\nEs necesario ser muy cautelosos con pretender asignar roles eternos a hombres y mujeres
+        a partir de la Biblia. Los roles dependen por lo general de la cultura, pero, sobre todo,
+        de los talentos naturales, dones, habilidades y experiencia de cada uno. Por ejemplo, la
+        Biblia no dice que los hombres deben trabajar y que las mujeres deben dedicarse al hogar.
+        \n\nSe hace preciso, por tanto, empezar a evitar un vocabulario (“cabeza”, “sujeción”) que,
+        en una gran mayoría de casos es motivo de confusión. Estos términos fueron apropiados para
+        la época del NT, pero no reflejan la igualdad ni el carácter contracultural del evangelio,
+        opuesto a la jerarquía y el despotismo hacia la mujer. “Cabeza” y “sujeción” aparecen en la
+        Biblia, pero son modelos culturales que no tienen por qué ser seguidos hoy en día ya que la
+        lógica del evangelio era la de la igualdad.
+        \n\nDel mismo modo en que el cristianismo del primer siglo se opuso a los abusos de la
+        cultura patriarcal, hoy en día los creyentes estamos llamados a generar un discurso y
+        realizar una práctica que se oponga a la violencia doméstica en nuestro país.</string>
 
     <!--    b3 Texts-->
     <string name="b3_0text">En esta lección abordaremos la violencia <b>la violencia ejercida
@@ -495,8 +574,7 @@
         plasmar los compromisos tomados, de acuerdo al “lenguaje” de su edad (letreros, dibujos,
         etc.).</string>
 
-    <string name="b3_4text">La investigación “<i>Dentro de las cuatro paredes. Evangélicos y
-        violencia doméstica en el Perú</i>” (2014) ha demostrado que aproximadamente el 40% de los
+    <string name="b3_4text">La investigación “<b>instruir en sabiduría</b>” (2014) ha demostrado que aproximadamente el 40% de los
         padres y madres evangélicos castiga con vara, correa u otro objeto. Así, se ha reportado que
         el castigo físico a los niños y niñas se ejerce de una manera mucho más recurrente en las
         familias evangélicas que en la sociedad en general. La creencia de que la Biblia enseña el
@@ -527,7 +605,8 @@
         aquél en el que, aparentemente, encontramos la mayor cantidad de alusiones al castigo
         físico. Sin embargo, debemos considerar primero el propósito de este libro. En efecto, hay
         que tener en cuenta que el libro de Proverbios tiene como propósito, según los primeros
-        versos del capítulo 1 (Pr.1.2-7), <b>instruir en sabiduría</b>. Con ese fin, el autor
+        versos del capítulo 1 (Pr.1.2-7), <i>Dentro de las cuatro paredes. Evangélicos y
+        violencia doméstica en el Perú</i>. Con ese fin, el autor
         muestra continuamente el contraste entre la vida de aquel que busca vivir sabiamente en
         comparación con aquellos que viven una vida desenfrenada. La instrucción está en el centro
         del motivo del libro.
@@ -551,7 +630,8 @@
         reprensión)</b>.</string>
     <string name="b3_4T21"><b>Prov. 3:12</b></string>
     <string name="b3_4T22">Porque Jehová al que ama castiga <b>(<i><u>yakákj</u></i> – corrige)</b>,
-        Como el padre al hijo a quien quiere.</string>/
+        Como el padre al hijo a quien quiere.</string>
+    /
     <string name="b3_4T31"><b>Prov. 13:24</b></string>
     <string name="b3_4T32">El que no aplica el castigo <b>(<i><u>shébet</u></i> – cayado)</b>
         aborrece a su hijo; el que lo ama, lo corrige <b>(<i><u>musar</u></i> – advertencia)</b>
@@ -746,7 +826,7 @@
         \n\nRecuerda: cada miembro de la pareja o familia tiene diversas maneras de reaccionar. Es
         importante ponerse de acuerdo previamente sobre la mejor estrategia que la pareja o la
         familia tendrá para resolver el conflicto.</string>
-<!--    TODO: add lil box around this verse:-->
+    <!--    TODO: add lil box around this verse:-->
     <string name="b4_1text2"><i>“La blanda respuesta quita la ira; Mas la palabra áspera hace subir
         el furor.” (Proverbios 15:1)</i></string>
 
@@ -795,7 +875,7 @@
         a la casa y que debemos decir que no cuando nos invitan a salir de los horarios
         establecidos. De esta manera se ha preservado la relación padre-hijo y cada parte sabe qué
         esperar del otro.</string>
-<!--    TODO: make cute lil box around this verse too-->
+    <!--    TODO: make cute lil box around this verse too-->
     <string name="b4_2text2"><i>“(...)cada uno de ustedes ame también a su esposa como a sí mismo,
         y que la esposa respete a su esposo.”
         \n(Efesios 5:33)</i></string>
@@ -819,13 +899,14 @@
         \n\nComo podemos advertir, el problema con el castigo es que este no hace que los niños y
         niñas ejerciten su propio discernimiento y autonomía, sino que les enseña a comportarse
         por miedo a una conducta externa (miedo al castigo).</string>
-<!--    TODO: insert the diagram-->
+    <string name="b5_1image">Los cuatro pilares</string>
     <string name="b5_1text2">La disciplina positiva tiene cuatro pilares:
         \n\n<b>1. Objetivos a largo plazo</b>
         \n<b>2. Calidez y estructura</b>
         \n<b>3. Tomar en cuenta las capacidades y necesidades del niño, niña o adolescente</b>
         \n<b>4. Solucionar los problemas con eficacia.</b>
         \n\nA continuación aprenderemos cómo aplicar estos principios.</string>
+
     <string name="b5_2text"><b>Aprendiendo a distinguir los objetivos de largo y corto plazo en la
         crianza</b>
         \n\nPreguntémonos cuál es el <b>objetivo o propósito de la crianza</b> que damos a nuestros
@@ -971,14 +1052,14 @@
     <string name="b5_3TTT11"><b>LA PARÁBOLA DEL PADRE AMOROSO</b></string>
     <string name="b5_3TTT12"><b>¿Cómo manifestó su calidez?</b></string>
     <string name="b5_3TTT22"><b>¿Cómo manifestó la estructura?</b></string>
-    <string name="b5_3TTT13">V. 12 🡪 No se molesta
-        \n\nV. 20 🡪 Manifiesta su amor
-        \n\nV. 22 🡪 Satisface sus necesidades
-        \n\nV. 23 🡪 Lo honra
-        \n\nV. 28 🡪 Un gesto de atención
-        \n\nV. 31 🡪 Expresa consideración</string>
-    <string name="b5_3TTT23">V. 24 🡪 Explicó por qué tuvo ese gesto con su hijo
-        \n\nV. 31 y 32 🡪 Ofrece una explicación</string>
+    <string name="b5_3TTT13">V. 12 &#x2794; No se molesta
+        \n\nV. 20 &#x2794; Manifiesta su amor
+        \n\nV. 22 &#x2794; Satisface sus necesidades
+        \n\nV. 23 &#x2794; Lo honra
+        \n\nV. 28 &#x2794; Un gesto de atención
+        \n\nV. 31 &#x2794; Expresa consideración</string>
+    <string name="b5_3TTT23">V. 24 &#x2794; Explicó por qué tuvo ese gesto con su hijo
+        \n\nV. 31 y 32 &#x2794; Ofrece una explicación</string>
     <!--    /b5_table3-->
 
     <string name="b5_4text">El tercer principio de la crianza positiva es tomar en cuentas las
@@ -1002,9 +1083,9 @@
     <string name="b5_4T12"><b>0 a 6 meses</b></string>
     <string name="b5_4T22">&#8226; No pueden darle sentido a las cosas, se asustan fácilmente y
         necesitan saber que están seguros y protegidos
-        \n&#8226; Necesitan calidez 🡪 Ser tomados en brazos, abrazados, mecidos y cargados 🡪 Apego
-        \n&#8226; Agarrar y masticar objetos desarrolla sus músculos 🡪 Pone todo en la boca por
-        instinto 🡪 No entienden el peligro</string>
+        \n&#8226; Necesitan calidez &#x2794; Ser tomados en brazos, abrazados, mecidos y cargados &#x2794; Apego
+        \n&#8226; Agarrar y masticar objetos desarrolla sus músculos &#x2794; Pone todo en la boca por
+        instinto &#x2794; No entienden el peligro</string>
     <string name="b5_4T13"><b>6 a 12 meses</b></string>
     <string name="b5_4T23">&#8226; Etapa para construir confianza del bebe en padre/madre
         \n&#8226; Razones de llanto: dolor por salida de dientes, de cabeza, fiebre, etc.; por la
@@ -1014,46 +1095,46 @@
         y respetado.</string>
     <string name="b5_4T14"><b>1 a 2 años</b></string>
     <string name="b5_4T24">&#8226; Caminan y se da la “explosión de lenguaje”
-        \n&#8226; Necesitan explorar, tocar y saborear para el desarrollo de su cerebro 🡪
+        \n&#8226; Necesitan explorar, tocar y saborear para el desarrollo de su cerebro &#x2794;
         “Experimentos” de cómo funciona el mundo
         \n&#8226; Es importante hablarles, leerles, escucharles y responderles
-        \n&#8226; Empiezan a decir “NO” para expresar sus sentimientos 🡪 No pueden nombrarlos,
+        \n&#8226; Empiezan a decir “NO” para expresar sus sentimientos &#x2794; No pueden nombrarlos,
         tampoco pueden reconocer los sentimientos de los demás</string>
     <string name="b5_4T15"><b>2 a 3 años</b></string>
-    <string name="b5_4T25">&#8226; Aprende más sobre los peligros 🡪 Empiezan a sentir miedo
+    <string name="b5_4T25">&#8226; Aprende más sobre los peligros &#x2794; Empiezan a sentir miedo
         \n&#8226; Necesita confianza y apoyo, sentir que está a salvo
-        \n&#8226; Desarrollan la vergüenza repentina 🡪 Signo de mayor entendimiento del mundo y
-        relaciones / Rechazo a ser cargado 🡪 Empieza a controlar su propio cuerpo y decisión sobre
-        quién puede tocarlo 🡪 Respetar sus sentimientos</string>
+        \n&#8226; Desarrollan la vergüenza repentina &#x2794; Signo de mayor entendimiento del mundo y
+        relaciones / Rechazo a ser cargado &#x2794; Empieza a controlar su propio cuerpo y decisión sobre
+        quién puede tocarlo &#x2794; Respetar sus sentimientos</string>
     <string name="b5_4T16"><b>3 a 5 años</b></string>
-    <string name="b5_4T26">&#8226; Etapa de las preguntas (Qué, por qué) 🡪 Responderles construye
-        la base de su aprendizaje 🡪 Respetar su curiosidad
-        \n&#8226; Pueden querer aprender sobre cosas peligrosas 🡪 Tiempo de establecer reglas
+    <string name="b5_4T26">&#8226; Etapa de las preguntas (Qué, por qué) &#x2794; Responderles construye
+        la base de su aprendizaje &#x2794; Respetar su curiosidad
+        \n&#8226; Pueden querer aprender sobre cosas peligrosas &#x2794; Tiempo de establecer reglas
         (aunque no entienda las razones)
-        \n&#8226; Etapa de juegos 🡪 Importante para su desarrollo cerebral 🡪 Imaginación,
+        \n&#8226; Etapa de juegos &#x2794; Importante para su desarrollo cerebral &#x2794; Imaginación,
         creatividad, resolución de problemas
-        \n&#8226; Quieren ayudar 🡪 Darles confianza en sus habilidades</string>
+        \n&#8226; Quieren ayudar &#x2794; Darles confianza en sus habilidades</string>
     <string name="b5_4T17"><b>5 a 9 años</b></string>
-    <string name="b5_4T27">&#8226; Etapa del colegio 🡪 Aprenden a desenvolverse solos, a llevarse
+    <string name="b5_4T27">&#8226; Etapa del colegio &#x2794; Aprenden a desenvolverse solos, a llevarse
         bien con otros, cumplir con tareas que piden adultos “nuevos”, seguir horarios y rutinas
-        \n&#8226; Se hace notoria la personalidad de cada niño(a) 🡪 Determina su forma de adaptarse
-        en esta etapa 🡪 Identificar fortalezas y aprovecharlas / Identificar desafíos y apoyarlos
+        \n&#8226; Se hace notoria la personalidad de cada niño(a) &#x2794; Determina su forma de adaptarse
+        en esta etapa &#x2794; Identificar fortalezas y aprovecharlas / Identificar desafíos y apoyarlos
         (confianza desarrollada en primeros años influye en esto)
         \n&#8226; Conflictos pueden darse por diferentes personalidades de padres e hijos</string>
     <string name="b5_4T18"><b>10 a 13 años</b></string>
-    <string name="b5_4T28">&#8226; A punto de entrar a pubertad 🡪 Etapa de cambios 🡪 Conflictos
-        se hacen más comunes 🡪 Razones:  deseo de independencia, cambios de humor, amigos(as) se
+    <string name="b5_4T28">&#8226; A punto de entrar a pubertad &#x2794; Etapa de cambios &#x2794; Conflictos
+        se hacen más comunes &#x2794; Razones:  deseo de independencia, cambios de humor, amigos(as) se
         hacen más importantes
         \n&#8226; Tratar de pasar tiempo juntos, construir su autoestima, involucrarse en su
         colegio, conocer a sus amigos(as), estar cerca –pero con distancia
     </string>
     <string name="b5_4T19"><b>14 a 18 años</b></string>
-    <string name="b5_4T29">&#8226; Etapa de relaciones cambiantes 🡪 Quiere experimentar de todo
-        para averiguar quién es: Identidad única 🡪 Pueden desarrollar nuevas creencias, políticas,
-        etc 🡪 Buscan ser diferentes de sus padres
-        \n&#8226; Confianza es extremadamente importante 🡪 Saber que pueden acudir a padres SIN
+    <string name="b5_4T29">&#8226; Etapa de relaciones cambiantes &#x2794; Quiere experimentar de todo
+        para averiguar quién es: Identidad única &#x2794; Pueden desarrollar nuevas creencias, políticas,
+        etc &#x2794; Buscan ser diferentes de sus padres
+        \n&#8226; Confianza es extremadamente importante &#x2794; Saber que pueden acudir a padres SIN
         temores para obtener información y consejo
-        \n&#8226; Brindar estructura (para monitorear) es un desafío 🡪 Necesitan independencia,
+        \n&#8226; Brindar estructura (para monitorear) es un desafío &#x2794; Necesitan independencia,
         pero también orientación.    </string>
     <!--    /b4_table-->
     <string name="b5_4text2">Padres y madres no podemos tratar a nuestros hijos e hijas de la misma
@@ -1157,7 +1238,7 @@
         \nhttp://pacto2021.org/sistema/data/files/guia-devocional-2019.pdf
         \n\nDevocional “Hombres Nuevos”
         \nhttp://pacto2021.org/sistema/data/files/Guia%20Devocional.pdf
-        \n\n\n<u>Devocionales bíblicos sobre masculinidades</u>
+        \n\n\n<i>Ideología de Género</i>
         \n\nLa masculinidad no hegemónica de Jesús:
         \nhttps://eleremita.lamula.pe/2019/12/05/genero-y-biblia-i-la-masculinidad-no-hegemonica-de-jesus/eleremita/
         \n\nLas emociones masculinas de Jesús:
@@ -1175,7 +1256,7 @@
         \n\nDiez razones por las que los evangélicos deberíamos dejar de hablar de “ideología de
         género”
         \nhttps://eleremita.lamula.pe/2018/10/01/diez-razones-por-las-que-los-evangelicos-deberiamos-de-hablar-de-ideologia-de-genero/eleremita/
-        \n\nGuía “Todo lo que siempre quisiste saber sobre la <i>Ideología de Género</i>”
+        \n\nGuía “Todo lo que siempre quisiste saber sobre la <u>Devocionales bíblicos sobre masculinidades</u>”
         \nhttp://www.gemrip.org/wp-content/uploads/2019/11/Folleto-Ideolog%C3%ADa-de-G%C3%A9nero-ligero.pdf
     </string>
 
@@ -1185,7 +1266,7 @@
     <string name="b6_5text">Ecuador
         \nhttp://institutopaz.net/recursos/manual-victimas-violencia-familiar
         \n\nPerú</string>
-<!--    TODO: más recursos para esta sección de 'ruta de la denuncia'?-->
+    <!--    TODO: más recursos para esta sección de 'ruta de la denuncia'?-->
 
     <!--    b7 Texts-->
     <string name="b7_0text">Es indispensable que todo creyente, en especial los agentes pastorales
@@ -1220,7 +1301,7 @@
         cuando hay indignación, temor, anhelo, preocupación y disposición para que se haga justicia
         (2 Co 7:11).</string>
 
-<!--    b7_2table-->
+    <!--    b7_2table-->
     <string name="b7_2T11"><b>Mito:</b></string>
     <string name="b7_2T12"><b>Verdad:</b></string>
     <string name="b7_2T21"><b>“Se necesita ser abogado o especialista para denunciar”</b></string>
@@ -1487,7 +1568,6 @@
         que lo requieran.
         \n&#8226; La iglesia debe considerar seriamente la posibilidad de desarrollar una labor de
         acompañamiento con el agresor, sobre todo si este ha sido miembro de la iglesia.</string>
-
 
 
 </resources>

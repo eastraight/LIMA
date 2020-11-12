@@ -13,7 +13,7 @@
     <string name="app_name">Paztoral</string>
     <string name="otra">Compartir esta aplicación</string>
 
-    <!--    Buttons-->
+    <!--region Buttons-->
     <string name="button1">La violencia: introducción</string>
     <string name="button2">Violencia en la pareja</string>
     <string name="button3">Maltrato infantil</string>
@@ -22,8 +22,9 @@
     <string name="button6">Recursos bíblicos</string>
     <string name="button7">Denunciando la violencia</string>
     <string name="button8">[otro]</string>
+    <!--endregion Buttons-->
 
-    <!--    Section titles-->
+    <!--region Section titles-->
     <string name="b1_1">Lo que la violencia no es</string>
     <string name="b1_2">El concepto de violencia</string>
     <string name="b1_3">Tipos de violencia</string>
@@ -68,17 +69,18 @@
     <string name="b7_5">Consejos pastorales para el acompañamiento de la víctima de
         violencia</string>
     <string name="b7_6">Evaluación</string>
+    <!--endregion Section Titles-->
 
+    <!--region Text-->
     <!--    TODO: make font size adjustable in the seven activities, change image sizes-->
     <!--    TODO: figure out how to make hyperlinks work-->
-    <!--    Text-->
 
-    <!--    Note about tables:-->
-    <!--    Table elements are named with button#, layout#, and then COLUMN#, ROW#-->
-    <!--    For example, b1_3T21 is the second element on the top row of the third part of button 1-->
-    <!--    When there is more than one table in a layout, the elements in the second will have "TT"-->
+    <!--Note about tables:-->
+    <!--Table elements are named with button#, layout#, and then COLUMN#, ROW#-->
+    <!--For example, b1_3T21 is the second element on the top row of the third part of button 1-->
+    <!--When there is more than one table in a layout, the elements in the second will have "TT"-->
 
-    <!--    b1 Texts-->
+    <!--region b1 Texts-->
     <string name="b1_0text">La violencia no es algo que ocurre solo en las noticias. Es más frecuente
         de lo que creemos. Sin embargo, para combatirla es necesario saber identificarla. En esta
         sesión aprenderás qué es la violencia, cómo ella actúa en las relaciones familiares, qué
@@ -114,7 +116,7 @@
         identificar cualquier tipo de conducta violenta. Sin embargo, los “tipos de violencia” son
         clasificaciones útiles que nos ayudan a identificar las violencias más cotidianas, sobre
         todo en el ámbito de la familia.</string>
-    <!--    b1_3table-->
+    <!--region b1_3table-->
     <string name="b1_3T11">Física</string>
     <string name="b1_3T12">Psicológica</string>
     <string name="b1_3T13">Sexual</string>
@@ -138,7 +140,7 @@
         permiten satisfacer sus necesidades. Por ejemplo: no apoyar económicamente el hogar,
         restringir el acceso al dinero o a las cuentas, destruir los bienes materiales de la otra
         persona, etc.</string>
-    <!--    /b1_3table-->
+    <!--endregion b1_3table-->
 
     <string name="b1_4text">¿Qué dice la Biblia sobre el concepto de violencia?\n\n
         En las Escrituras se establece el deber de amar al prójimo lo que implica, entre otras
@@ -216,8 +218,9 @@
     <!--        sexual o psicológico</b> y que se produce en el contexto de una <b>relación de-->
     <!--        responsabilidad, confianza o poder</b>, de parte de un integrante a otro del grupo-->
     <!--        familiar</i>” (Ley N° 30364).</string>-->
+    <!--endregion b1 Texts-->
 
-    <!--    b2 Texts-->
+    <!--region b2 Texts-->
     <!--    <string name="b2_0text">Esta lección abordará la violencia dentro de las relaciones de pareja. Para-->
     <!--        ello, nos aproximaremos a un concepto básico que, desde la psicología, explica la dinámica-->
     <!--        de las relaciones conyugales violentas: <b>el ciclo de la violencia</b>. Asimismo, se-->
@@ -235,7 +238,7 @@
         violencia</b>, deberás ayudar a la persona a poder <b>identificarla</b> y darle la opción de
         <b>denunciarla</b> (ver apartados 3 al 10). Debemos considerar, además, que a veces un
         conflicto mal llevado puede llevar a conductas violentas.</string>
-    <!--    b2_1table-->
+    <!--region b2_1table-->
     <string name="b2_1T11">Conflictos</string>
     <string name="b2_1T12">Son parte de la vida</string>
     <string name="b2_1T13">Es una oportunidad para fortalecer nuestros lazos familiares y cambiar
@@ -250,7 +253,7 @@
     <string name="b2_1T24">Debe siempre evitarse</string>
     <string name="b2_1T25">No toma en cuenta la autonomía de la otra persona</string>
     <string name="b2_1T26">Siempre se debe denunciar</string>
-    <!--    /b2_1table-->
+    <!--endregion b2_1table-->
 
     <string name="b2_2text">Existen relaciones de pareja en el que las conductas violentas no se dan
         de manera ocasional, sino de manera permanente. En estos casos, el concepto psicológico de
@@ -392,8 +395,9 @@
         \n\nDel mismo modo en que el cristianismo del primer siglo se opuso a los abusos de la
         cultura patriarcal, hoy en día los creyentes estamos llamados a generar un discurso y
         realizar una práctica que se oponga a la violencia doméstica en nuestro país.</string>
+    <!--endregion b2 Texts-->
 
-    <!--    b3 Texts-->
+    <!--region b3 Texts-->
     <string name="b3_0text">En esta lección abordaremos la violencia <b>la violencia ejercida
         contra los niños y niñas</b>, para la cual se ofrecerán también pautas para su prevención y
         atención.</string>
@@ -475,7 +479,7 @@
         adolescentes se dan en el hogar y son cometidos por alguna persona de confianza.
         \n\nPor tanto, es necesario tomar en cuenta los mitos y verdades sobre el abuso
         sexual:</string>
-    <!--    b3_3table-->
+    <!--region b3_3table-->
     <string name="b3_3T11"><b>FALSO</b></string>
     <string name="b3_3T12">No son frecuentes</string>
     <string name="b3_3T13">Los agresores son enfermos mentales</string>
@@ -496,11 +500,11 @@
     <string name="b3_3T28">Pocas veces los niños y niñas inventan este tipo de historias</string>
     <string name="b3_3T29">La intervención interdisciplinaria ha demostrado ser muy beneficiosa,
         lo que no niega el poder de Dios.</string>
-    <!--    /b3_3table-->
+    <!--endregion b3_3table-->
     <string name="b3_3text2">La presencia de alguno de estos síntomas en los niños, niñas o
         adolescentes, podría indicar que haya sufrido abuso sexual. Los síntomas que están en
         negritas indican en un alto porcentaje la probabilidad de abuso sexual:</string>
-    <!--    b3_3table2-->
+    <!--region b3_3table2-->
     <string name="b3_3TT11"><b>Niños menores de 5 años</b></string>
     <string name="b3_3TT12">&#8226; Cambios notorios del sueño.
         \n&#8226; Tiene pesadillas repetidas, trastornos nocturnos.
@@ -527,7 +531,7 @@
         \n&#8226; Es posible que comience a beber licor, fumar o drogarse.
         \n&#8226; <b>Infecciones urinarias.</b>
         \n&#8226; <b>Presencia de enfermedades de transmisión sexual.</b></string>
-    <!--    /b3_3table2-->
+    <!--endregion b3_3table2-->
     <string name="b3_3text3"><b>La importancia de la autoprotección infantil</b>
         \n\nTomar en cuenta a los niños y niñas como personas, bajo el paradigma de los derechos y
         del Reino de Dios, supone reconocer su capacidad para informarse sobre la violencia y
@@ -623,7 +627,7 @@
         otro tipo de traducción, tal como se señala en el cuadro inferior. Por tanto, la propuesta
         bíblica no está reñida con la propuesta actual, que busca la erradicación del castigo físico
         en nuestras sociedades.</string>
-    <!--    b3_4table-->
+    <!--region b3_4table-->
     <string name="b3_4T11"><b>Prov. 3:11</b></string>
     <string name="b3_4T12">No menosprecies, hijo mío, el castigo <b>(<i><u>musar</u></i> –
         advertencia)</b> de Jehová, Ni te fatigues de su corrección <b>(<i><u>tokekjá</u></i> –
@@ -636,8 +640,8 @@
     <string name="b3_4T32">El que no aplica el castigo <b>(<i><u>shébet</u></i> – cayado)</b>
         aborrece a su hijo; el que lo ama, lo corrige <b>(<i><u>musar</u></i> – advertencia)</b>
         a tiempo.</string>
-    <!--    /b3_4table-->
-    <!--    b3_4table2-->
+    <!--endregion b3_4table-->
+    <!--region b3_4table2-->
     <string name="b3_4TT11"><b>Prov. 19:18</b></string>
     <string name="b3_4TT12">Castiga <b>(<i><u>yasar</u></i> – enseña)</b> a tu hijo en tanto que hay
         esperanza; Más no se apresure tu alma para destruirlo.</string>
@@ -648,8 +652,8 @@
     <string name="b3_4TT32">La necedad está ligada al corazón del muchacho, pero la vara
         <b>(<i><u>shébet</u></i> – cayado)</b> de la corrección <b>(<i><u>musar</u></i> –
             advertencia)</b> la alejará de él.</string>
-    <!--    /b3_4table2-->
-    <!--    b3_4table3-->
+    <!--endregion b3_4table2-->
+    <!--region b3_4table3-->
     <string name="b3_4TTT11"><b>Prov. 23:13-14</b></string>
     <string name="b3_4TTT12">No rehúses corregir <b>(<i><u>musar</u></i> – advertencia)</b> al
         muchacho, porque si lo castigas <b>(<i><u>naka</u></i>)</b> con vara
@@ -662,7 +666,7 @@
     <string name="b3_4TTT32">La vara <b>(<i><u>shébet</u></i> – cayado)</b> y la corrección
         <b>(<i><u>tokekjá</u></i> – reprensión)</b> dan sabiduría; pero el muchacho consentido
         avergüenza a su madre.</string>
-    <!--    /b3_4table3-->
+    <!--endregion b3_4table3-->
     <string name="b3_4text2">En Proverbios 3.12, la palabra hebrea que se traduce como castigo
         es <i><b>yakákj</b></i>, cuya “raíz primaria es tener razón”36, lo que nos permite entonces argumentar
         que el sentido de esta palabra usada aquí no es tanto el uso del castigo físico sino de
@@ -729,8 +733,9 @@
         de lo aprendido hasta que forme parte de la vida diaria de los niños y niñas. El libro de
         Proverbios, entre otros muchos pasajes, nos enseñan que la instrucción (disciplina) es
         prioritaria y más importante que el castigo.</string>
+    <!--endregion b3 Texts-->
 
-    <!--    b4 Texts-->
+    <!--region b4 Texts-->
     <string name="b4_0text">Los conflictos son parte de la vida, más aún en el ámbito de la familia.
         Puesto que los seres humanos tendemos a desarrollar distintas creencias, intereses y
         necesidades, es usual que el impulso por querer vivirlas o satisfacerlas genere acciones y
@@ -879,8 +884,9 @@
     <string name="b4_2text2"><i>“(...)cada uno de ustedes ame también a su esposa como a sí mismo,
         y que la esposa respete a su esposo.”
         \n(Efesios 5:33)</i></string>
+    <!--endregion b4 Texts-->
 
-    <!--    b5 Texts-->
+    <!--region b5 Texts-->
     <string name="b5_0text">El castigo físico es muy común en nuestras sociedades. En muchos casos,
         este es acompañado por la ira y el descontrol, alcanzando niveles violentos en perjuicio
         del desarrollo psíquico, físico y sexual de los niños, niñas y adolescentes.
@@ -991,7 +997,7 @@
         <b>calidez</b> y <b>estructura</b>.
         \n\nLa <b>calidez</b> significa que papás y mamás deben brindar siempre un <b>afecto
         incondicional</b> a niños y niñas.</string>
-    <!--    b5_table-->
+    <!--region b5_3table-->
     <string name="b5_3T11"><b>¿Cómo aplicar la calidez?</b></string>
     <string name="b5_3T12"><b>Características de un papá o mamá que aplica calidez</b></string>
     <string name="b5_3T22"><b>Ejemplos</b></string>
@@ -1007,10 +1013,10 @@
         \n&#8226; Si pierde la paciencia, haga algo que lo distraiga o use el sentido del humor.
         \n&#8226; Use palabras de aliento o estímulo (“¡Eres tan bueno!”, “Confío en tu opinión”,
         “Sé que lo puedes hacer muy bien”).</string>
-    <!--    /b5_table-->
+    <!--endregion b5_3table-->
     <string name="b5_3text2">La estructura significa colocar límites claros y ofrecer razones de
         por qué lo que hacemos es mejor para ellos.</string>
-    <!--    b5_table2-->
+    <!--region b5_3table2-->
     <string name="b5_3TT11"><b>¿Cómo utilizar las razones?</b></string>
     <string name="b5_3TT12"><b>Características de un papá o mamá que usa estructura</b></string>
     <string name="b5_3TT22"><b>Ejemplos</b></string>
@@ -1031,7 +1037,7 @@
         la respuesta es no, algo anda mal).
         \n&#8226; Déjelo hablar, respete sus silencios.
         \n&#8226; Establezca límites claros y siempre comuníquelo a sus hijos de antemano.</string>
-    <!--    /b5_table2-->
+    <!--endregion b5_3table2-->
     <string name="b5_3text3">Pongamos otro ejemplo. Es la hora de comer. Carlitos tiene 4 años y
         está jugando con su carrito en la mesa. A su madre no le gusta que se distraiga con el
         juguete y que ponga cosas sucias en la mesa, por esa razón se lo arrancha, pero el niño se
@@ -1048,7 +1054,7 @@
         \n\nLee a continuación la parábola que aparece en Lucas 15:11 – 32. Después de leer el
         texto, identifica en el cuadro que aparece a continuación de qué manera el padre de la
         parábola aplicó la calidez y la estructura.</string>
-    <!--    b5_table3-->
+    <!--region b5_3table3-->
     <string name="b5_3TTT11"><b>LA PARÁBOLA DEL PADRE AMOROSO</b></string>
     <string name="b5_3TTT12"><b>¿Cómo manifestó su calidez?</b></string>
     <string name="b5_3TTT22"><b>¿Cómo manifestó la estructura?</b></string>
@@ -1060,7 +1066,7 @@
         \n\nV. 31 &#x2794; Expresa consideración</string>
     <string name="b5_3TTT23">V. 24 &#x2794; Explicó por qué tuvo ese gesto con su hijo
         \n\nV. 31 y 32 &#x2794; Ofrece una explicación</string>
-    <!--    /b5_table3-->
+    <!--endregion b5_3table3-->
 
     <string name="b5_4text">El tercer principio de la crianza positiva es tomar en cuentas las
         capacidades de los niños y niñas. Es importante considerar lo que el niño puede o no puede
@@ -1077,7 +1083,7 @@
         valiosos. Lo correcto aquí hubiera sido que el padre explique a Julieta con qué juguetes
         ella puede jugar y con cuáles no. Él no tomo en cuenta su edad a la hora de
         “disciplinarla”.</string>
-    <!--    b4_table-->
+    <!--region b5_4table-->
     <string name="b5_4T11"><b>Edad</b></string>
     <string name="b5_4T21"><b>Capacidades de los niños, niñas y adolescentes</b></string>
     <string name="b5_4T12"><b>0 a 6 meses</b></string>
@@ -1136,7 +1142,7 @@
         temores para obtener información y consejo
         \n&#8226; Brindar estructura (para monitorear) es un desafío &#x2794; Necesitan independencia,
         pero también orientación.    </string>
-    <!--    /b4_table-->
+    <!--endregion b4_4table-->
     <string name="b5_4text2">Padres y madres no podemos tratar a nuestros hijos e hijas de la misma
         forma a lo largo de su vida. Es importante conocer cuáles son sus capacidades según su edad
         para saber cómo tratarlos, cómo comprenderlos, cómo responder a sus necesidades y cómo
@@ -1177,8 +1183,9 @@
         aplicar consecuencias es enseñarle a los niños y niñas a asumir las consecuencias de sus
         actos. Por ejemplo: si rompió un vaso, debe barrerlo. Si no guarda sus juguetes entonces le
         decimos que la próxima vez solo podrá sacar algunos.</string>
+    <!--endregion b5 Texts-->
 
-    <!--    b6 Texts-->
+    <!--region b6 Texts-->
     <string name="b6_0text">En este módulo hallarás diversos recursos bíblicos (documentales,
         videos, guías, reflexiones, artículos) que te ayudarán a enriquecer lo aprendido en las
         sesiones anteriores.</string>
@@ -1267,8 +1274,9 @@
         \nhttp://institutopaz.net/recursos/manual-victimas-violencia-familiar
         \n\nPerú</string>
     <!--    TODO: más recursos para esta sección de 'ruta de la denuncia'?-->
+    <!--endregion b6 Texts-->
 
-    <!--    b7 Texts-->
+    <!--region b7 Texts-->
     <string name="b7_0text">Es indispensable que todo creyente, en especial los agentes pastorales
         y los líderes de iglesias, tengan un conocimiento básico sobre cómo denunciar los casos de
         violencia. En este módulo aprenderás por qué es necesario denunciar, que acciones deberás
@@ -1301,7 +1309,7 @@
         cuando hay indignación, temor, anhelo, preocupación y disposición para que se haga justicia
         (2 Co 7:11).</string>
 
-    <!--    b7_2table-->
+    <!--region b7_2table-->
     <string name="b7_2T11"><b>Mito:</b></string>
     <string name="b7_2T12"><b>Verdad:</b></string>
     <string name="b7_2T21"><b>“Se necesita ser abogado o especialista para denunciar”</b></string>
@@ -1338,8 +1346,7 @@
         de justicia, nuestra responsabilidad es denunciar, ya que existen también muchos casos en
         los que se ha podido identificar al agresor y sancionarlo a fin de que no pueda dañar a la
         víctima como a otras personas a futuro. </string>
-    <!--    /b7_2table-->
-
+    <!--endregion b7_2table-->
 
     <string name="b7_3text">El texto de 1 Co 6:1-11 podría interpretarse como una especie de
         prohibición a los cristianos de recurrir a los tribunales públicos en busca de justicia.
@@ -1568,6 +1575,93 @@
         que lo requieran.
         \n&#8226; La iglesia debe considerar seriamente la posibilidad de desarrollar una labor de
         acompañamiento con el agresor, sobre todo si este ha sido miembro de la iglesia.</string>
+    <!--endregion b7 Texts-->
+
+    <!--endregion Text-->
+
+    <!--region Evaluations-->
+
+    <!--region b1eval-->
+    <string name="b1e_1"><b>1. Marque la opción correcta:</b></string>
+    <string name="b1e_1a">La violencia es una cuestión de percepción, depende si la persona se siente
+        ofendida o violentada.</string>
+    <string name="b1e_1b">La violencia es lo mismo que la agresión.</string>
+    <string name="b1e_1c">La violencia tiene una definición precisa.</string>
+
+    <string name="b1e_2"><b>2. ¿Qué es la violencia?</b></string>
+    <string name="b1e_2a">Es cualquier conducta que daña al prójimo</string>
+    <string name="b1e_2b">Es todo daño o amenaza de daño provocado por un abuso de poder</string>
+    <string name="b1e_2c">Es toda conducta que pasa por alto la autonomía de la persona</string>
+
+    <string name="b1e_3"><b>3. Marque la opción correcta:</b></string>
+    <string name="b1e_3a">Existe daño cuando se limitan las capacidades de la persona y se genera
+        un sentimiento de malestar en ella.</string>
+    <string name="b1e_3b">El abuso de poder es cualquier situación en la que existe una posición de
+        dominio y en la que se impide a la persona decidir libremente y por sí misma.</string>
+    <string name="b1e_3c">a y b son correctas</string>
+
+    <string name="b1e_4"><b>4. Un hombre, encolerizado, empieza a golpear descontroladamente a su
+        pareja. Ella, para defenderse, toma un florero que encuentra a la mano y golpea a su pareja
+        en la cabeza. La conducta de la mujer hacia el varón en este caso, ¿es o no es
+        violencia?:</b></string>
+    <string name="b1e_4a">Sí es violencia</string>
+    <string name="b1e_4b">No es violencia</string>
+
+    <string name="b1e_5"><b>5. Carlos y Silvia son pareja. Él trabaja todo el día y ella se dedica
+        a los quehaceres de la casa y a atender a los hijos. Carlos se encarga de administrar el
+        dinero. Silvia le pide a Carlos un poco de dinero para poder comprarse ropa y más comida
+        para el bebé, pero Carlos se niega a darle más porque quiere ahorrar para comprarse un
+        televisor. ¿Este es un tipo de violencia?</b></string>
+    <string name="b1e_5a">Sí, física</string>
+    <string name="b1e_5b">Sí, psicológico</string>
+    <string name="b1e_5c">Sí, económica</string>
+    <string name="b1e_5d">No, no hay violencia</string>
+
+    <string name="b1e_6"><b>6. Hacer la ley del hielo a un miembro de la familia (ignorarlo, no
+        dirigirle la palabra por cierto tiempo), ¿es una conducta violenta?</b></string>
+    <string name="b1e_6a">Sí es violencia</string>
+    <string name="b1e_6b">No es violencia por que no hay daño o amenaza de daño</string>
+    <string name="b1e_6c">No es violencia porque no hay abuso de poder</string>
+
+    <string name="b1e_7"><b>7. Mario y Jimena son esposos. Mario le propone a Jimena tener
+        relaciones sexuales, pero ella no quiere. Entonces Mario empieza a quejarse y a renegar:
+        “tú no comprendes mis necesidades”, “por eso hay hombres infieles”, etc. Frente a ello,
+        Jimena accede a tener relaciones con él. ¿En este caso existe o no existe
+        violencia?</b></string>
+    <string name="b1e_7a">Sí existe violencia</string>
+    <string name="b1e_7b">No existe violencia porque no hay daño alguno</string>
+    <string name="b1e_7c">No hay violencia porque no hay abuso de poder</string>
+
+    <string name="b1e_8"><b>8. Carlos y Ada son enamorados. Ellos acuerdan tener relaciones sexuales
+        con preservativo. Sin embargo, a la mitad de la relación sexual, Carlos se retira el
+        preservativo sin que Ada se de cuenta para sentir más placer. ¿En este caso hay o no hay
+        violencia?</b></string>
+    <string name="b1e_8a">Sí hay violencia</string>
+    <string name="b1e_8b">No hay violencia porque no hay daño alguno</string>
+    <string name="b1e_8c">No hay violencia porque no hay abuso de poder</string>
+
+    <string name="b1e_9"><b>9. Una mujer camina por la calle. De pronto, un desconocido se le
+        acerca y le dice: “Qué bonita estás, me puedes dar tu número”. La mujer camina más
+        rápidamente para evitarlo. ¿En este caso hay o no hay violencia?</b></string>
+    <string name="b1e_9a">Sí hay violencia</string>
+    <string name="b1e_9b">No hay violencia porque no hay daño alguno</string>
+    <string name="b1e_9c">No hay violencia porque no hay abuso de poder</string>
+
+    <string name="b1e_10"><b>10. En una fiesta, un grupo de amigos empiezan a beber hasta
+        embriagarse. Camila, la única mujer del grupo, ha bebido demasiado y apenas puede hablar
+        claro y mantenerse en pie. Entonces, un chico del grupo le propone tener relaciones
+        sexuales. Camila no dice nada. Ante ello, su amigo insiste y empieza a besarla. Finalmente,
+        ellos terminan teniendo relaciones sexuales. ¿En este caso hay o no hay
+        violencia?</b></string>
+    <string name="b1e_10a">Sí hay violencia</string>
+    <string name="b1e_10b">No hay violencia porque no hay daño alguno</string>
+    <string name="b1e_10c">No hay violencia porque no hay abuso de poder</string>
+    <!--endregion-->
+
+    <!--region b2eval-->
+    <!--endregion-->
+
+    <!--endregion Evaluations-->
 
 
 </resources>

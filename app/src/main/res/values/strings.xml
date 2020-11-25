@@ -1581,17 +1581,26 @@
 
     <!--region Evaluations-->
 
+    <string name="start">Iniciar</string>
+    <string name="confirm">Confirmar</string>
+
     <!--region b1eval-->
+    <string name="b1e">Evaluación</string>
+    <string name="b1e_highscore">Puntación mejor: 0</string>
+    <string name="b1e_score">Puntación: 0</string>
+    <string name="b1e_question_count">Pregunta: 1/10</string>
     <string name="b1e_1"><b>1. Marque la opción correcta:</b></string>
     <string name="b1e_1a">La violencia es una cuestión de percepción, depende si la persona se siente
         ofendida o violentada.</string>
     <string name="b1e_1b">La violencia es lo mismo que la agresión.</string>
     <string name="b1e_1c">La violencia tiene una definición precisa.</string>
+    <string name="b1e_1d"></string>
 
     <string name="b1e_2"><b>2. ¿Qué es la violencia?</b></string>
     <string name="b1e_2a">Es cualquier conducta que daña al prójimo</string>
     <string name="b1e_2b">Es todo daño o amenaza de daño provocado por un abuso de poder</string>
     <string name="b1e_2c">Es toda conducta que pasa por alto la autonomía de la persona</string>
+    <string name="b1e_2d"></string>
 
     <string name="b1e_3"><b>3. Marque la opción correcta:</b></string>
     <string name="b1e_3a">Existe daño cuando se limitan las capacidades de la persona y se genera
@@ -1599,6 +1608,7 @@
     <string name="b1e_3b">El abuso de poder es cualquier situación en la que existe una posición de
         dominio y en la que se impide a la persona decidir libremente y por sí misma.</string>
     <string name="b1e_3c">a y b son correctas</string>
+    <string name="b1e_3d"></string>
 
     <string name="b1e_4"><b>4. Un hombre, encolerizado, empieza a golpear descontroladamente a su
         pareja. Ella, para defenderse, toma un florero que encuentra a la mano y golpea a su pareja
@@ -1606,11 +1616,13 @@
         violencia?:</b></string>
     <string name="b1e_4a">Sí es violencia</string>
     <string name="b1e_4b">No es violencia</string>
+    <string name="b1e_4c"></string>
+    <string name="b1e_4d"></string>
 
-    <string name="b1e_5"><b>5. Carlos y Silvia son pareja. Él trabaja todo el día y ella se dedica
-        a los quehaceres de la casa y a atender a los hijos. Carlos se encarga de administrar el
-        dinero. Silvia le pide a Carlos un poco de dinero para poder comprarse ropa y más comida
-        para el bebé, pero Carlos se niega a darle más porque quiere ahorrar para comprarse un
+    <string name="b1e_5"><b>5. Marco y Silvia son pareja. Él trabaja todo el día y ella se dedica
+        a los quehaceres de la casa y a atender a los hijos. Marco se encarga de administrar el
+        dinero. Silvia le pide a Marco un poco de dinero para poder comprarse ropa y más comida
+        para el bebé, pero Marco se niega a darle más porque quiere ahorrar para comprarse un
         televisor. ¿Este es un tipo de violencia?</b></string>
     <string name="b1e_5a">Sí, física</string>
     <string name="b1e_5b">Sí, psicológico</string>
@@ -1622,6 +1634,7 @@
     <string name="b1e_6a">Sí es violencia</string>
     <string name="b1e_6b">No es violencia por que no hay daño o amenaza de daño</string>
     <string name="b1e_6c">No es violencia porque no hay abuso de poder</string>
+    <string name="b1e_6d"></string>
 
     <string name="b1e_7"><b>7. Mario y Jimena son esposos. Mario le propone a Jimena tener
         relaciones sexuales, pero ella no quiere. Entonces Mario empieza a quejarse y a renegar:
@@ -1631,6 +1644,7 @@
     <string name="b1e_7a">Sí existe violencia</string>
     <string name="b1e_7b">No existe violencia porque no hay daño alguno</string>
     <string name="b1e_7c">No hay violencia porque no hay abuso de poder</string>
+    <string name="b1e_7d"></string>
 
     <string name="b1e_8"><b>8. Carlos y Ada son enamorados. Ellos acuerdan tener relaciones sexuales
         con preservativo. Sin embargo, a la mitad de la relación sexual, Carlos se retira el
@@ -1639,6 +1653,7 @@
     <string name="b1e_8a">Sí hay violencia</string>
     <string name="b1e_8b">No hay violencia porque no hay daño alguno</string>
     <string name="b1e_8c">No hay violencia porque no hay abuso de poder</string>
+    <string name="b1e_8d"></string>
 
     <string name="b1e_9"><b>9. Una mujer camina por la calle. De pronto, un desconocido se le
         acerca y le dice: “Qué bonita estás, me puedes dar tu número”. La mujer camina más
@@ -1646,6 +1661,7 @@
     <string name="b1e_9a">Sí hay violencia</string>
     <string name="b1e_9b">No hay violencia porque no hay daño alguno</string>
     <string name="b1e_9c">No hay violencia porque no hay abuso de poder</string>
+    <string name="b1e_9d"></string>
 
     <string name="b1e_10"><b>10. En una fiesta, un grupo de amigos empiezan a beber hasta
         embriagarse. Camila, la única mujer del grupo, ha bebido demasiado y apenas puede hablar
@@ -1656,6 +1672,7 @@
     <string name="b1e_10a">Sí hay violencia</string>
     <string name="b1e_10b">No hay violencia porque no hay daño alguno</string>
     <string name="b1e_10c">No hay violencia porque no hay abuso de poder</string>
+    <string name="b1e_10d"></string>
     <!--endregion-->
 
     <!--region b2eval-->

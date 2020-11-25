@@ -8,6 +8,7 @@ package com.example.lima;
 import android.animation.Animator;
 import android.animation.ValueAnimator;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
@@ -119,7 +120,6 @@ public class B1Activity extends AppCompatActivity implements View.OnClickListene
         return animator;
     }
 
-
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
@@ -154,9 +154,7 @@ public class B1Activity extends AppCompatActivity implements View.OnClickListene
                 break;
 
             case R.id.b1_6:
-                if (layout6.getVisibility() == View.GONE) {
-                    expand(layout6, h6);
-                } else collapse(layout6);
+                B1EListener(view);
                 break;
         }
     }
@@ -166,5 +164,14 @@ public class B1Activity extends AppCompatActivity implements View.OnClickListene
     public void onBackPressed() {
         startActivity(new Intent(this, MainActivity.class));
         overridePendingTransition(R.anim.animation_leave, R.anim.hold);
+    }
+
+    /* Evaluation */
+    public void B1EListener(View view) {
+        Intent intent = new Intent(this, B1EvalActivityStart.class);
+        startActivity(intent);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            this.overridePendingTransition(R.anim.animation_enter, R.anim.hold);
+        } else this.overridePendingTransition(0, 0);
     }
 }

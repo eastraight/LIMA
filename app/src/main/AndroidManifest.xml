@@ -3,7 +3,6 @@
     package="com.example.lima">
 
     <application
-        android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
@@ -48,6 +47,14 @@
             android:name=".B1Activity"
             android:label="@string/button1"
             android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".B1EvalActivityStart"
+            android:label="@string/button1"
+            android:parentActivityName=".B1Activity" />
+        <activity
+            android:name=".B1EvalActivity"
+            android:label="@string/button1"
+            android:parentActivityName=".B1EvalActivityStart" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"

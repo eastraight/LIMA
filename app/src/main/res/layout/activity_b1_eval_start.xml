@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/test8"
     android:padding="16dp"
-    tools:context=".B1EvalActivityStart">
+    tools:context="org.pazyesperanza.paztoral.B1EvalActivityStart">
 
     <Button
         android:id="@+id/b1e_start"

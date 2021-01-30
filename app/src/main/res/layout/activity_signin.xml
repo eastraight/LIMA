@@ -4,4 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="org.pazyesperanza.paztoral.ui.home.HomeFragment"/>
+    tools:context="org.pazyesperanza.paztoral.SigninActivity">
+
+</androidx.constraintlayout.widget.ConstraintLayout>

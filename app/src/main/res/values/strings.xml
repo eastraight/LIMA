@@ -6,12 +6,17 @@
     <!--    <string name="nav_header_subtitle">android.studio@android.com</string>-->
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Configuración</string>
-
     <string name="menu_home"> </string>
 
+
     <!--    Stuff I've added:-->
+
     <string name="app_name">Paztoral</string>
-    <string name="otra">Compartir esta aplicación</string>
+
+    <!--region Drawer Menu-->
+    <string name="signin">Iniciar sesión</string>
+    <string name="share">Compartir esta aplicación</string>
+    <!--endregion Drawer Menu-->
 
     <!--region Buttons-->
     <string name="button1">La violencia: introducción</string>
@@ -24,7 +29,7 @@
     <string name="button8">[otro]</string>
     <!--endregion Buttons-->
 
-    <!--region Section titles-->
+    <!--region Section Titles-->
     <string name="b1_1">Lo que la violencia no es</string>
     <string name="b1_2">El concepto de violencia</string>
     <string name="b1_3">Tipos de violencia</string>
@@ -1583,6 +1588,7 @@
 
     <string name="start">Iniciar</string>
     <string name="confirm">Confirmar</string>
+    <string name="unchecked">Por favor seleccione una respuesta</string>
 
     <!--region b1eval-->
     <string name="b1e">Evaluación</string>

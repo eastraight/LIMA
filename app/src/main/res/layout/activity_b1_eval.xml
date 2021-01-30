@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/test8"
     android:padding="16dp"
-    tools:context=".B1EvalActivity">
+    tools:context="org.pazyesperanza.paztoral.B1EvalActivity">
 
     <Button
         android:id="@+id/b1e_confirm"
@@ -61,7 +61,7 @@
         android:layout_marginBottom="16dp"
         android:text="@string/b1e_1"
         android:textColor="@android:color/black"
-        android:textSize="20sp" />
+        android:textSize="16sp" />
 
     <TextView
         android:id="@+id/b1e_score"

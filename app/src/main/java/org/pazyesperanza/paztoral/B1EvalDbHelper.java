@@ -10,6 +10,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 import java.util.ArrayList;
 import java.util.List;
 
+// see https://codinginflow.com/tutorials/android/quiz-app-with-sqlite/part-6-save-highscore
+
 public class B1EvalDbHelper extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "B1Eval.db";

@@ -10,15 +10,15 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+// see https://codinginflow.com/tutorials/android/quiz-app-with-sqlite/part-6-save-highscore
 
 public class B1EvalActivityStart extends AppCompatActivity {
 
-    // change up some of these names and stuff
     private static final int REQUEST_CODE_QUIZ = 1;
     public static final String SHARED_PREFS = "sharedPrefs";
-    public static final String KEY_HIGHSCORE = "keyHighscore";
+    public static final String PUNTACION_ALTA = "puntacionAlta";
     private TextView textViewHighscore;
-    private int highscore;
+    private int puntAlta;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,7 +47,7 @@ public class B1EvalActivityStart extends AppCompatActivity {
         if (requestCode == REQUEST_CODE_QUIZ) {
             if (resultCode == RESULT_OK) {
                 int score = data.getIntExtra(B1EvalActivity.EXTRA_SCORE, 0);
-                if (score > highscore) {
+                if (score > puntAlta) {
                     updateHighscore(score);
                 }
             }
@@ -55,15 +55,15 @@ public class B1EvalActivityStart extends AppCompatActivity {
     }
     private void loadHighscore() {
         SharedPreferences prefs = getSharedPreferences(SHARED_PREFS, MODE_PRIVATE);
-        highscore = prefs.getInt(KEY_HIGHSCORE, 0);
-        textViewHighscore.setText("Puntación alta: " + highscore);
+        puntAlta = prefs.getInt(PUNTACION_ALTA, 0);
+        textViewHighscore.setText("Puntación alta: " + puntAlta);
     }
     private void updateHighscore(int highscoreNew) {
-        highscore = highscoreNew;
-        textViewHighscore.setText("Puntación alta: " + highscore);
+        puntAlta = highscoreNew;
+        textViewHighscore.setText("Puntación alta: " + puntAlta);
         SharedPreferences prefs = getSharedPreferences(SHARED_PREFS, MODE_PRIVATE);
         SharedPreferences.Editor editor = prefs.edit();
-        editor.putInt(KEY_HIGHSCORE, highscore);
+        editor.putInt(PUNTACION_ALTA, puntAlta);
         editor.apply();
     }
 

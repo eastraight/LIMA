@@ -15,6 +15,7 @@
 
     <!--region Drawer Menu-->
     <string name="signin">Iniciar sesión</string>
+    <string name="signout">Terminar sesión</string>
     <string name="share">Compartir esta aplicación</string>
     <!--endregion Drawer Menu-->
 

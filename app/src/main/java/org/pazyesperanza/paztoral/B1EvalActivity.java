@@ -15,6 +15,8 @@ import android.widget.Toast;
 
 import java.util.List;
 
+// see https://codinginflow.com/tutorials/android/quiz-app-with-sqlite/part-6-save-highscore
+
 public class B1EvalActivity extends AppCompatActivity {
 
     public static final String EXTRA_SCORE = "extraScore";
